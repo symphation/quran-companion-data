@@ -1,0 +1,262 @@
+{
+  "audio_url": "https://server8.mp3quran.net/frs_a/101.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.925,
+      "end": 6.266,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.925,
+          "end": 6.266
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.266,
+      "end": 6.866,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.266,
+          "end": 6.566
+        },
+        {
+          "index": 2,
+          "start": 6.566,
+          "end": 6.866
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 7.887,
+      "end": 12.65,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.887,
+          "end": 9.668
+        },
+        {
+          "index": 2,
+          "start": 9.668,
+          "end": 9.968
+        },
+        {
+          "index": 3,
+          "start": 9.968,
+          "end": 10.268
+        },
+        {
+          "index": 4,
+          "start": 10.969,
+          "end": 12.65
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 12.75,
+      "end": 16.892,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.75,
+          "end": 13.29
+        },
+        {
+          "index": 2,
+          "start": 13.35,
+          "end": 14.151
+        },
+        {
+          "index": 3,
+          "start": 14.191,
+          "end": 15.191
+        },
+        {
+          "index": 4,
+          "start": 15.271,
+          "end": 16.592
+        },
+        {
+          "index": 5,
+          "start": 16.592,
+          "end": 16.892
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 19.454,
+      "end": 21.314,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.454,
+          "end": 20.414
+        },
+        {
+          "index": 2,
+          "start": 20.414,
+          "end": 20.714
+        },
+        {
+          "index": 3,
+          "start": 20.714,
+          "end": 21.014
+        },
+        {
+          "index": 4,
+          "start": 21.014,
+          "end": 21.314
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 21.314,
+      "end": 22.514,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.314,
+          "end": 21.614
+        },
+        {
+          "index": 2,
+          "start": 21.614,
+          "end": 21.914
+        },
+        {
+          "index": 3,
+          "start": 21.914,
+          "end": 22.214
+        },
+        {
+          "index": 4,
+          "start": 22.214,
+          "end": 22.514
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 30.402,
+      "end": 31.963,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.402,
+          "end": 30.962
+        },
+        {
+          "index": 2,
+          "start": 31.062,
+          "end": 31.363
+        },
+        {
+          "index": 3,
+          "start": 31.363,
+          "end": 31.663
+        },
+        {
+          "index": 4,
+          "start": 31.663,
+          "end": 31.963
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 31.963,
+      "end": 36.426,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.963,
+          "end": 32.263
+        },
+        {
+          "index": 2,
+          "start": 35.546,
+          "end": 35.826
+        },
+        {
+          "index": 3,
+          "start": 35.826,
+          "end": 36.126
+        },
+        {
+          "index": 4,
+          "start": 36.126,
+          "end": 36.426
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 36.426,
+      "end": 37.026,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.426,
+          "end": 36.726
+        },
+        {
+          "index": 2,
+          "start": 36.726,
+          "end": 37.026
+        }
+      ]
+    },
+    {
+      "ayah": 10,
+      "start": 41.451,
+      "end": 44.093,
+      "words": [
+        {
+          "index": 1,
+          "start": 41.451,
+          "end": 43.193
+        },
+        {
+          "index": 2,
+          "start": 43.193,
+          "end": 43.493
+        },
+        {
+          "index": 3,
+          "start": 43.493,
+          "end": 43.793
+        },
+        {
+          "index": 4,
+          "start": 43.793,
+          "end": 44.093
+        }
+      ]
+    },
+    {
+      "ayah": 11,
+      "start": 45.975,
+      "end": 47.056,
+      "words": [
+        {
+          "index": 1,
+          "start": 45.975,
+          "end": 46.756
+        },
+        {
+          "index": 2,
+          "start": 46.756,
+          "end": 47.056
+        }
+      ]
+    }
+  ]
+}

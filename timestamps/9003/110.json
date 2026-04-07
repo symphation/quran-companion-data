@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server8.mp3quran.net/frs_a/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.096,
+      "end": 9.859,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.096,
+          "end": 5.576
+        },
+        {
+          "index": 2,
+          "start": 5.736,
+          "end": 7.117
+        },
+        {
+          "index": 3,
+          "start": 7.177,
+          "end": 7.658
+        },
+        {
+          "index": 4,
+          "start": 7.698,
+          "end": 8.458
+        },
+        {
+          "index": 5,
+          "start": 8.518,
+          "end": 9.859
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.979,
+      "end": 16.604,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.979,
+          "end": 11.02
+        },
+        {
+          "index": 2,
+          "start": 11.06,
+          "end": 12.141
+        },
+        {
+          "index": 3,
+          "start": 12.201,
+          "end": 13.282
+        },
+        {
+          "index": 4,
+          "start": 13.382,
+          "end": 13.682
+        },
+        {
+          "index": 5,
+          "start": 13.782,
+          "end": 14.302
+        },
+        {
+          "index": 6,
+          "start": 14.322,
+          "end": 14.963
+        },
+        {
+          "index": 7,
+          "start": 15.003,
+          "end": 16.604
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.704,
+      "end": 22.788,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.704,
+          "end": 17.565
+        },
+        {
+          "index": 2,
+          "start": 17.625,
+          "end": 18.345
+        },
+        {
+          "index": 3,
+          "start": 18.445,
+          "end": 19.186
+        },
+        {
+          "index": 4,
+          "start": 19.186,
+          "end": 19.486
+        },
+        {
+          "index": 5,
+          "start": 19.486,
+          "end": 19.786
+        },
+        {
+          "index": 6,
+          "start": 20.707,
+          "end": 22.188
+        },
+        {
+          "index": 7,
+          "start": 22.188,
+          "end": 22.488
+        },
+        {
+          "index": 8,
+          "start": 22.488,
+          "end": 22.788
+        }
+      ]
+    }
+  ]
+}

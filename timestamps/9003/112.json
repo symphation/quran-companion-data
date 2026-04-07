@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server8.mp3quran.net/frs_a/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.281,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.3
+        },
+        {
+          "index": 2,
+          "start": 0.3,
+          "end": 0.6
+        },
+        {
+          "index": 3,
+          "start": 0.472,
+          "end": 1.032
+        },
+        {
+          "index": 4,
+          "start": 5.979,
+          "end": 7.281
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.521,
+      "end": 8.643,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.521,
+          "end": 8.342
+        },
+        {
+          "index": 2,
+          "start": 8.402,
+          "end": 8.643
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 8.683,
+      "end": 9.824,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.683,
+          "end": 8.863
+        },
+        {
+          "index": 2,
+          "start": 9.003,
+          "end": 9.163
+        },
+        {
+          "index": 3,
+          "start": 9.183,
+          "end": 9.524
+        },
+        {
+          "index": 4,
+          "start": 9.524,
+          "end": 9.824
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 9.824,
+      "end": 11.324,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.824,
+          "end": 10.124
+        },
+        {
+          "index": 2,
+          "start": 10.124,
+          "end": 10.424
+        },
+        {
+          "index": 3,
+          "start": 10.424,
+          "end": 10.724
+        },
+        {
+          "index": 4,
+          "start": 10.724,
+          "end": 11.024
+        },
+        {
+          "index": 5,
+          "start": 11.024,
+          "end": 11.324
+        }
+      ]
+    }
+  ]
+}

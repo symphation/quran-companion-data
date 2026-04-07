@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server8.mp3quran.net/frs_a/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.775,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.3
+        },
+        {
+          "index": 2,
+          "start": 0.3,
+          "end": 0.6
+        },
+        {
+          "index": 3,
+          "start": 8.154,
+          "end": 9.775
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.775,
+      "end": 11.956,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.775,
+          "end": 10.075
+        },
+        {
+          "index": 2,
+          "start": 10.655,
+          "end": 11.656
+        },
+        {
+          "index": 3,
+          "start": 11.656,
+          "end": 11.956
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.896,
+      "end": 15.517,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.896,
+          "end": 13.697
+        },
+        {
+          "index": 2,
+          "start": 13.817,
+          "end": 14.817
+        },
+        {
+          "index": 3,
+          "start": 14.917,
+          "end": 15.217
+        },
+        {
+          "index": 4,
+          "start": 15.217,
+          "end": 15.517
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server8.mp3quran.net/frs_a/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 0.3,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.3
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.714,
+      "end": 10.296,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.714,
+          "end": 6.734
+        },
+        {
+          "index": 2,
+          "start": 6.734,
+          "end": 7.034
+        },
+        {
+          "index": 3,
+          "start": 7.034,
+          "end": 7.334
+        },
+        {
+          "index": 4,
+          "start": 9.276,
+          "end": 10.296
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.376,
+      "end": 18.24,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.376,
+          "end": 10.817
+        },
+        {
+          "index": 2,
+          "start": 10.837,
+          "end": 11.617
+        },
+        {
+          "index": 3,
+          "start": 11.617,
+          "end": 11.917
+        },
+        {
+          "index": 4,
+          "start": 11.917,
+          "end": 12.217
+        },
+        {
+          "index": 5,
+          "start": 12.217,
+          "end": 12.517
+        },
+        {
+          "index": 6,
+          "start": 14.499,
+          "end": 15.659
+        },
+        {
+          "index": 7,
+          "start": 15.719,
+          "end": 16.64
+        },
+        {
+          "index": 8,
+          "start": 16.7,
+          "end": 17.94
+        },
+        {
+          "index": 9,
+          "start": 17.94,
+          "end": 18.24
+        }
+      ]
+    }
+  ]
+}
