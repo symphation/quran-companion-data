@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server12.mp3quran.net/shah/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.676,
+      "end": 6.179,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.676,
+          "end": 3.916
+        },
+        {
+          "index": 2,
+          "start": 3.976,
+          "end": 4.257
+        },
+        {
+          "index": 3,
+          "start": 4.297,
+          "end": 4.958
+        },
+        {
+          "index": 4,
+          "start": 4.958,
+          "end": 6.179
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.179,
+      "end": 8.042,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.179,
+          "end": 6.88
+        },
+        {
+          "index": 2,
+          "start": 6.94,
+          "end": 8.042
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 8.202,
+      "end": 10.485,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.202,
+          "end": 8.523
+        },
+        {
+          "index": 2,
+          "start": 8.603,
+          "end": 9.103
+        },
+        {
+          "index": 3,
+          "start": 9.183,
+          "end": 9.664
+        },
+        {
+          "index": 4,
+          "start": 9.744,
+          "end": 10.485
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 10.565,
+      "end": 14.054,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.565,
+          "end": 11.046
+        },
+        {
+          "index": 2,
+          "start": 11.046,
+          "end": 11.798
+        },
+        {
+          "index": 3,
+          "start": 11.798,
+          "end": 12.55
+        },
+        {
+          "index": 4,
+          "start": 12.55,
+          "end": 13.302
+        },
+        {
+          "index": 5,
+          "start": 13.302,
+          "end": 14.054
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server6.mp3quran.net/akdr/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.301,
+      "end": 9.943,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.301,
+          "end": 9.943
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 10.063,
+      "end": 15.268,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.063,
+          "end": 11.124
+        },
+        {
+          "index": 2,
+          "start": 11.124,
+          "end": 12.505
+        },
+        {
+          "index": 3,
+          "start": 12.505,
+          "end": 13.887
+        },
+        {
+          "index": 4,
+          "start": 13.887,
+          "end": 15.268
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.268,
+      "end": 25.338,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.268,
+          "end": 15.768
+        },
+        {
+          "index": 2,
+          "start": 15.808,
+          "end": 16.789
+        },
+        {
+          "index": 3,
+          "start": 16.789,
+          "end": 18.07
+        },
+        {
+          "index": 4,
+          "start": 18.07,
+          "end": 19.352
+        },
+        {
+          "index": 5,
+          "start": 19.352,
+          "end": 20.633
+        },
+        {
+          "index": 6,
+          "start": 20.633,
+          "end": 21.914
+        },
+        {
+          "index": 7,
+          "start": 21.914,
+          "end": 22.976
+        },
+        {
+          "index": 8,
+          "start": 22.976,
+          "end": 24.457
+        },
+        {
+          "index": 9,
+          "start": 24.457,
+          "end": 25.338
+        }
+      ]
+    }
+  ]
+}

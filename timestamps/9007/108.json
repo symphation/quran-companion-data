@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 15.406,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 6.262
+        },
+        {
+          "index": 2,
+          "start": 6.262,
+          "end": 12.525
+        },
+        {
+          "index": 3,
+          "start": 12.525,
+          "end": 15.406
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 15.406,
+      "end": 19.678,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.406,
+          "end": 16.307
+        },
+        {
+          "index": 2,
+          "start": 16.307,
+          "end": 17.267
+        },
+        {
+          "index": 3,
+          "start": 17.267,
+          "end": 19.678
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.678,
+      "end": 24.71,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.678,
+          "end": 22.089
+        },
+        {
+          "index": 2,
+          "start": 22.089,
+          "end": 23.109
+        },
+        {
+          "index": 3,
+          "start": 23.289,
+          "end": 23.629
+        },
+        {
+          "index": 4,
+          "start": 23.669,
+          "end": 24.71
+        }
+      ]
+    }
+  ]
+}

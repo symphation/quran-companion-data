@@ -1,0 +1,179 @@
+{
+  "audio_url": "https://server8.mp3quran.net/3zazi/107.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 17.139,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 12.396
+        },
+        {
+          "index": 2,
+          "start": 12.396,
+          "end": 13.456
+        },
+        {
+          "index": 3,
+          "start": 13.536,
+          "end": 14.857
+        },
+        {
+          "index": 4,
+          "start": 14.958,
+          "end": 17.139
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 17.259,
+      "end": 36.099,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.259,
+          "end": 18.62
+        },
+        {
+          "index": 2,
+          "start": 18.7,
+          "end": 19.961
+        },
+        {
+          "index": 3,
+          "start": 19.961,
+          "end": 28.03
+        },
+        {
+          "index": 4,
+          "start": 28.03,
+          "end": 36.099
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 36.099,
+      "end": 42.923,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.099,
+          "end": 36.759
+        },
+        {
+          "index": 2,
+          "start": 36.759,
+          "end": 38.0
+        },
+        {
+          "index": 3,
+          "start": 38.0,
+          "end": 38.76
+        },
+        {
+          "index": 4,
+          "start": 38.92,
+          "end": 40.281
+        },
+        {
+          "index": 5,
+          "start": 40.301,
+          "end": 42.923
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 42.923,
+      "end": 52.086,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.923,
+          "end": 47.504
+        },
+        {
+          "index": 2,
+          "start": 47.504,
+          "end": 52.086
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 52.086,
+      "end": 66.392,
+      "words": [
+        {
+          "index": 1,
+          "start": 52.086,
+          "end": 56.668
+        },
+        {
+          "index": 2,
+          "start": 56.668,
+          "end": 61.249
+        },
+        {
+          "index": 3,
+          "start": 61.249,
+          "end": 62.029
+        },
+        {
+          "index": 4,
+          "start": 62.149,
+          "end": 63.85
+        },
+        {
+          "index": 5,
+          "start": 63.95,
+          "end": 66.392
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 66.392,
+      "end": 85.546,
+      "words": [
+        {
+          "index": 1,
+          "start": 66.392,
+          "end": 72.777
+        },
+        {
+          "index": 2,
+          "start": 72.777,
+          "end": 79.161
+        },
+        {
+          "index": 3,
+          "start": 79.161,
+          "end": 85.546
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 85.546,
+      "end": 94.694,
+      "words": [
+        {
+          "index": 1,
+          "start": 85.546,
+          "end": 86.987
+        },
+        {
+          "index": 2,
+          "start": 86.987,
+          "end": 94.694
+        }
+      ]
+    }
+  ]
+}

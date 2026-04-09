@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server11.mp3quran.net/mhsny/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 2.453,
+      "end": 3.273,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.453,
+          "end": 3.273
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 3.313,
+      "end": 6.075,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.313,
+          "end": 3.473
+        },
+        {
+          "index": 2,
+          "start": 3.473,
+          "end": 4.34
+        },
+        {
+          "index": 3,
+          "start": 4.34,
+          "end": 5.208
+        },
+        {
+          "index": 4,
+          "start": 5.208,
+          "end": 6.075
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 6.075,
+      "end": 13.56,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.075,
+          "end": 6.395
+        },
+        {
+          "index": 2,
+          "start": 6.415,
+          "end": 7.056
+        },
+        {
+          "index": 3,
+          "start": 7.056,
+          "end": 7.985
+        },
+        {
+          "index": 4,
+          "start": 7.985,
+          "end": 8.914
+        },
+        {
+          "index": 5,
+          "start": 8.914,
+          "end": 9.843
+        },
+        {
+          "index": 6,
+          "start": 9.843,
+          "end": 10.773
+        },
+        {
+          "index": 7,
+          "start": 10.773,
+          "end": 11.702
+        },
+        {
+          "index": 8,
+          "start": 11.702,
+          "end": 12.631
+        },
+        {
+          "index": 9,
+          "start": 12.631,
+          "end": 13.56
+        }
+      ]
+    }
+  ]
+}

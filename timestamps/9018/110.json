@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 6.142,
+      "end": 11.527,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.142,
+          "end": 6.563
+        },
+        {
+          "index": 2,
+          "start": 6.683,
+          "end": 8.845
+        },
+        {
+          "index": 3,
+          "start": 8.905,
+          "end": 9.405
+        },
+        {
+          "index": 4,
+          "start": 9.465,
+          "end": 10.186
+        },
+        {
+          "index": 5,
+          "start": 10.266,
+          "end": 11.527
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.647,
+      "end": 18.913,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.647,
+          "end": 12.488
+        },
+        {
+          "index": 2,
+          "start": 12.528,
+          "end": 14.169
+        },
+        {
+          "index": 3,
+          "start": 14.229,
+          "end": 15.29
+        },
+        {
+          "index": 4,
+          "start": 15.41,
+          "end": 15.731
+        },
+        {
+          "index": 5,
+          "start": 15.831,
+          "end": 16.331
+        },
+        {
+          "index": 6,
+          "start": 16.371,
+          "end": 17.132
+        },
+        {
+          "index": 7,
+          "start": 17.192,
+          "end": 18.913
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 18.993,
+      "end": 32.784,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.993,
+          "end": 19.874
+        },
+        {
+          "index": 2,
+          "start": 19.934,
+          "end": 20.635
+        },
+        {
+          "index": 3,
+          "start": 20.735,
+          "end": 21.375
+        },
+        {
+          "index": 4,
+          "start": 21.375,
+          "end": 22.096
+        },
+        {
+          "index": 5,
+          "start": 22.096,
+          "end": 22.816
+        },
+        {
+          "index": 6,
+          "start": 22.816,
+          "end": 24.198
+        },
+        {
+          "index": 7,
+          "start": 24.198,
+          "end": 28.491
+        },
+        {
+          "index": 8,
+          "start": 28.491,
+          "end": 32.784
+        }
+      ]
+    }
+  ]
+}

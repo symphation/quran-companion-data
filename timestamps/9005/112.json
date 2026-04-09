@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.217,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.406
+        },
+        {
+          "index": 2,
+          "start": 0.406,
+          "end": 0.811
+        },
+        {
+          "index": 3,
+          "start": 0.811,
+          "end": 1.652
+        },
+        {
+          "index": 4,
+          "start": 7.856,
+          "end": 9.217
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.317,
+      "end": 12.078,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.317,
+          "end": 10.377
+        },
+        {
+          "index": 2,
+          "start": 10.437,
+          "end": 12.078
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.198,
+      "end": 15.54,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.198,
+          "end": 12.559
+        },
+        {
+          "index": 2,
+          "start": 12.659,
+          "end": 13.279
+        },
+        {
+          "index": 3,
+          "start": 13.359,
+          "end": 13.92
+        },
+        {
+          "index": 4,
+          "start": 14.04,
+          "end": 15.54
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.641,
+      "end": 20.167,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.641,
+          "end": 16.201
+        },
+        {
+          "index": 2,
+          "start": 16.201,
+          "end": 17.192
+        },
+        {
+          "index": 3,
+          "start": 17.192,
+          "end": 18.184
+        },
+        {
+          "index": 4,
+          "start": 18.184,
+          "end": 19.175
+        },
+        {
+          "index": 5,
+          "start": 19.175,
+          "end": 20.167
+        }
+      ]
+    }
+  ]
+}

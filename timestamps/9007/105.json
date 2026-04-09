@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/105.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.574,
+      "end": 16.881,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.574,
+          "end": 9.055
+        },
+        {
+          "index": 2,
+          "start": 9.055,
+          "end": 9.689
+        },
+        {
+          "index": 3,
+          "start": 9.689,
+          "end": 10.322
+        },
+        {
+          "index": 4,
+          "start": 10.322,
+          "end": 10.956
+        },
+        {
+          "index": 5,
+          "start": 10.956,
+          "end": 11.717
+        },
+        {
+          "index": 6,
+          "start": 11.717,
+          "end": 13.078
+        },
+        {
+          "index": 7,
+          "start": 13.078,
+          "end": 16.881
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 17.021,
+      "end": 24.427,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.021,
+          "end": 17.541
+        },
+        {
+          "index": 2,
+          "start": 17.622,
+          "end": 18.402
+        },
+        {
+          "index": 3,
+          "start": 18.502,
+          "end": 19.403
+        },
+        {
+          "index": 4,
+          "start": 19.523,
+          "end": 19.843
+        },
+        {
+          "index": 5,
+          "start": 19.843,
+          "end": 24.427
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 24.427,
+      "end": 30.212,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.427,
+          "end": 25.368
+        },
+        {
+          "index": 2,
+          "start": 25.448,
+          "end": 26.349
+        },
+        {
+          "index": 3,
+          "start": 26.349,
+          "end": 27.35
+        },
+        {
+          "index": 4,
+          "start": 27.35,
+          "end": 30.212
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 30.212,
+      "end": 42.426,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.212,
+          "end": 34.662
+        },
+        {
+          "index": 2,
+          "start": 34.662,
+          "end": 36.062
+        },
+        {
+          "index": 3,
+          "start": 37.143,
+          "end": 38.204
+        },
+        {
+          "index": 4,
+          "start": 38.364,
+          "end": 42.426
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 42.547,
+      "end": 52.323,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.547,
+          "end": 43.767
+        },
+        {
+          "index": 2,
+          "start": 43.767,
+          "end": 48.045
+        },
+        {
+          "index": 3,
+          "start": 48.045,
+          "end": 52.323
+        }
+      ]
+    }
+  ]
+}

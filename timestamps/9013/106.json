@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server16.mp3quran.net/ayyoub2/Rewayat-Hafs-A-n-Assem/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 4.183,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.092
+        },
+        {
+          "index": 2,
+          "start": 2.092,
+          "end": 4.183
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.183,
+      "end": 11.5,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.183,
+          "end": 6.275
+        },
+        {
+          "index": 2,
+          "start": 6.275,
+          "end": 6.996
+        },
+        {
+          "index": 3,
+          "start": 7.016,
+          "end": 9.738
+        },
+        {
+          "index": 4,
+          "start": 9.758,
+          "end": 11.5
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.5,
+      "end": 14.783,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.5,
+          "end": 12.841
+        },
+        {
+          "index": 2,
+          "start": 12.841,
+          "end": 13.321
+        },
+        {
+          "index": 3,
+          "start": 13.321,
+          "end": 13.922
+        },
+        {
+          "index": 4,
+          "start": 13.922,
+          "end": 14.783
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 14.823,
+      "end": 23.33,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.823,
+          "end": 16.204
+        },
+        {
+          "index": 2,
+          "start": 16.264,
+          "end": 17.645
+        },
+        {
+          "index": 3,
+          "start": 17.805,
+          "end": 18.586
+        },
+        {
+          "index": 4,
+          "start": 18.586,
+          "end": 20.307
+        },
+        {
+          "index": 5,
+          "start": 20.307,
+          "end": 22.029
+        },
+        {
+          "index": 6,
+          "start": 22.029,
+          "end": 22.309
+        },
+        {
+          "index": 7,
+          "start": 22.449,
+          "end": 23.33
+        }
+      ]
+    }
+  ]
+}

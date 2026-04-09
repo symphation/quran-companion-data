@@ -1,0 +1,282 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/100.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 3.792,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.896
+        },
+        {
+          "index": 2,
+          "start": 1.896,
+          "end": 3.792
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 3.792,
+      "end": 7.585,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.792,
+          "end": 5.689
+        },
+        {
+          "index": 2,
+          "start": 5.689,
+          "end": 7.585
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 7.585,
+      "end": 11.378,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.585,
+          "end": 9.481
+        },
+        {
+          "index": 2,
+          "start": 9.481,
+          "end": 11.378
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 11.378,
+      "end": 16.25,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.378,
+          "end": 13.274
+        },
+        {
+          "index": 2,
+          "start": 13.274,
+          "end": 15.17
+        },
+        {
+          "index": 3,
+          "start": 15.17,
+          "end": 16.25
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 16.25,
+      "end": 19.171,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.25,
+          "end": 17.37
+        },
+        {
+          "index": 2,
+          "start": 17.37,
+          "end": 17.891
+        },
+        {
+          "index": 3,
+          "start": 17.991,
+          "end": 19.171
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 19.251,
+      "end": 24.813,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.251,
+          "end": 20.291
+        },
+        {
+          "index": 2,
+          "start": 20.291,
+          "end": 21.722
+        },
+        {
+          "index": 3,
+          "start": 21.722,
+          "end": 23.152
+        },
+        {
+          "index": 4,
+          "start": 23.152,
+          "end": 24.813
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 25.573,
+      "end": 30.617,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.573,
+          "end": 27.134
+        },
+        {
+          "index": 2,
+          "start": 27.234,
+          "end": 27.735
+        },
+        {
+          "index": 3,
+          "start": 27.835,
+          "end": 28.555
+        },
+        {
+          "index": 4,
+          "start": 28.635,
+          "end": 30.617
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 30.697,
+      "end": 36.361,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.697,
+          "end": 32.358
+        },
+        {
+          "index": 2,
+          "start": 32.418,
+          "end": 33.118
+        },
+        {
+          "index": 3,
+          "start": 33.178,
+          "end": 33.919
+        },
+        {
+          "index": 4,
+          "start": 33.999,
+          "end": 36.361
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 36.481,
+      "end": 41.965,
+      "words": [
+        {
+          "index": 2,
+          "start": 36.481,
+          "end": 37.241
+        },
+        {
+          "index": 3,
+          "start": 37.321,
+          "end": 38.002
+        },
+        {
+          "index": 4,
+          "start": 38.082,
+          "end": 38.622
+        },
+        {
+          "index": 5,
+          "start": 38.702,
+          "end": 39.443
+        },
+        {
+          "index": 6,
+          "start": 39.543,
+          "end": 39.843
+        },
+        {
+          "index": 7,
+          "start": 39.963,
+          "end": 40.103
+        },
+        {
+          "index": 8,
+          "start": 40.143,
+          "end": 41.965
+        }
+      ]
+    },
+    {
+      "ayah": 10,
+      "start": 42.045,
+      "end": 45.367,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.045,
+          "end": 42.945
+        },
+        {
+          "index": 2,
+          "start": 43.045,
+          "end": 43.366
+        },
+        {
+          "index": 3,
+          "start": 43.466,
+          "end": 43.586
+        },
+        {
+          "index": 4,
+          "start": 43.626,
+          "end": 45.367
+        }
+      ]
+    },
+    {
+      "ayah": 11,
+      "start": 45.467,
+      "end": 52.392,
+      "words": [
+        {
+          "index": 1,
+          "start": 45.467,
+          "end": 46.528
+        },
+        {
+          "index": 2,
+          "start": 46.528,
+          "end": 48.489
+        },
+        {
+          "index": 3,
+          "start": 48.489,
+          "end": 48.969
+        },
+        {
+          "index": 4,
+          "start": 49.089,
+          "end": 50.17
+        },
+        {
+          "index": 5,
+          "start": 50.31,
+          "end": 52.392
+        }
+      ]
+    }
+  ]
+}

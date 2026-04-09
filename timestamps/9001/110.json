@@ -1,0 +1,121 @@
+{
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 6.92,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "index": 2,
+          "start": 0.72,
+          "end": 3.63
+        },
+        {
+          "index": 3,
+          "start": 3.63,
+          "end": 4.19
+        },
+        {
+          "index": 4,
+          "start": 4.19,
+          "end": 5.17
+        },
+        {
+          "index": 5,
+          "start": 5.17,
+          "end": 6.795
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.92,
+      "end": 15.1,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.795,
+          "end": 7.825
+        },
+        {
+          "index": 2,
+          "start": 7.825,
+          "end": 9.515
+        },
+        {
+          "index": 3,
+          "start": 9.515,
+          "end": 10.725
+        },
+        {
+          "index": 4,
+          "start": 10.725,
+          "end": 11.195
+        },
+        {
+          "index": 5,
+          "start": 11.195,
+          "end": 12.135
+        },
+        {
+          "index": 6,
+          "start": 12.135,
+          "end": 12.765
+        },
+        {
+          "index": 7,
+          "start": 12.765,
+          "end": 14.28
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.1,
+      "end": 25.16,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.405,
+          "end": 15.455
+        },
+        {
+          "index": 2,
+          "start": 15.455,
+          "end": 16.255
+        },
+        {
+          "index": 3,
+          "start": 16.255,
+          "end": 17.255
+        },
+        {
+          "index": 4,
+          "start": 17.255,
+          "end": 19.015
+        },
+        {
+          "index": 5,
+          "start": 19.015,
+          "end": 20.795
+        },
+        {
+          "index": 6,
+          "start": 20.795,
+          "end": 21.545
+        },
+        {
+          "index": 7,
+          "start": 21.545,
+          "end": 23.19
+        }
+      ]
+    }
+  ]
+}

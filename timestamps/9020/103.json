@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 11.593,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 11.593
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.593,
+      "end": 19.618,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.593,
+          "end": 12.894
+        },
+        {
+          "index": 2,
+          "start": 12.894,
+          "end": 15.135
+        },
+        {
+          "index": 3,
+          "start": 15.135,
+          "end": 17.377
+        },
+        {
+          "index": 4,
+          "start": 17.377,
+          "end": 19.618
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.618,
+      "end": 37.2,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.618,
+          "end": 20.459
+        },
+        {
+          "index": 2,
+          "start": 20.519,
+          "end": 22.201
+        },
+        {
+          "index": 3,
+          "start": 22.201,
+          "end": 24.104
+        },
+        {
+          "index": 4,
+          "start": 24.104,
+          "end": 25.345
+        },
+        {
+          "index": 5,
+          "start": 25.345,
+          "end": 27.818
+        },
+        {
+          "index": 6,
+          "start": 27.818,
+          "end": 30.291
+        },
+        {
+          "index": 7,
+          "start": 30.291,
+          "end": 33.535
+        },
+        {
+          "index": 8,
+          "start": 33.535,
+          "end": 35.998
+        },
+        {
+          "index": 9,
+          "start": 35.998,
+          "end": 37.2
+        }
+      ]
+    }
+  ]
+}

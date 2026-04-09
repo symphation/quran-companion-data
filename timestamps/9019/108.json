@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 11.517,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.839
+        },
+        {
+          "index": 2,
+          "start": 3.839,
+          "end": 7.678
+        },
+        {
+          "index": 3,
+          "start": 7.678,
+          "end": 11.517
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.517,
+      "end": 18.216,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.517,
+          "end": 15.356
+        },
+        {
+          "index": 2,
+          "start": 15.356,
+          "end": 16.576
+        },
+        {
+          "index": 3,
+          "start": 16.576,
+          "end": 18.216
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 18.216,
+      "end": 24.294,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.216,
+          "end": 19.797
+        },
+        {
+          "index": 2,
+          "start": 19.977,
+          "end": 21.037
+        },
+        {
+          "index": 3,
+          "start": 21.217,
+          "end": 21.658
+        },
+        {
+          "index": 4,
+          "start": 21.658,
+          "end": 24.294
+        }
+      ]
+    }
+  ]
+}

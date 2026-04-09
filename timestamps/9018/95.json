@@ -1,0 +1,231 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/095.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.153,
+      "end": 8.475,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.153,
+          "end": 5.974
+        },
+        {
+          "index": 2,
+          "start": 6.034,
+          "end": 8.475
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.535,
+      "end": 10.897,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.535,
+          "end": 9.196
+        },
+        {
+          "index": 2,
+          "start": 9.336,
+          "end": 10.897
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.897,
+      "end": 13.939,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.897,
+          "end": 11.677
+        },
+        {
+          "index": 2,
+          "start": 11.677,
+          "end": 12.378
+        },
+        {
+          "index": 3,
+          "start": 12.378,
+          "end": 13.939
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.939,
+      "end": 20.643,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.939,
+          "end": 14.379
+        },
+        {
+          "index": 2,
+          "start": 14.519,
+          "end": 15.2
+        },
+        {
+          "index": 3,
+          "start": 15.2,
+          "end": 16.761
+        },
+        {
+          "index": 4,
+          "start": 16.761,
+          "end": 18.102
+        },
+        {
+          "index": 5,
+          "start": 18.102,
+          "end": 18.922
+        },
+        {
+          "index": 6,
+          "start": 18.922,
+          "end": 20.643
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 20.723,
+      "end": 26.087,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.723,
+          "end": 21.824
+        },
+        {
+          "index": 2,
+          "start": 21.824,
+          "end": 23.025
+        },
+        {
+          "index": 3,
+          "start": 23.025,
+          "end": 23.685
+        },
+        {
+          "index": 4,
+          "start": 23.685,
+          "end": 26.087
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 26.087,
+      "end": 36.253,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.087,
+          "end": 26.527
+        },
+        {
+          "index": 2,
+          "start": 26.567,
+          "end": 27.428
+        },
+        {
+          "index": 3,
+          "start": 27.428,
+          "end": 28.689
+        },
+        {
+          "index": 4,
+          "start": 28.689,
+          "end": 29.949
+        },
+        {
+          "index": 5,
+          "start": 29.949,
+          "end": 31.21
+        },
+        {
+          "index": 6,
+          "start": 31.21,
+          "end": 32.471
+        },
+        {
+          "index": 7,
+          "start": 32.471,
+          "end": 33.732
+        },
+        {
+          "index": 8,
+          "start": 33.732,
+          "end": 34.992
+        },
+        {
+          "index": 9,
+          "start": 34.992,
+          "end": 36.253
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 36.253,
+      "end": 39.786,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.253,
+          "end": 36.714
+        },
+        {
+          "index": 2,
+          "start": 36.814,
+          "end": 37.934
+        },
+        {
+          "index": 3,
+          "start": 38.034,
+          "end": 38.555
+        },
+        {
+          "index": 4,
+          "start": 38.555,
+          "end": 39.786
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 39.786,
+      "end": 52.036,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.786,
+          "end": 41.016
+        },
+        {
+          "index": 2,
+          "start": 41.016,
+          "end": 41.797
+        },
+        {
+          "index": 3,
+          "start": 41.857,
+          "end": 42.777
+        },
+        {
+          "index": 4,
+          "start": 42.777,
+          "end": 52.036
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 4.783,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.391
+        },
+        {
+          "index": 2,
+          "start": 2.391,
+          "end": 4.783
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.783,
+      "end": 12.036,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.783,
+          "end": 7.174
+        },
+        {
+          "index": 2,
+          "start": 7.174,
+          "end": 7.694
+        },
+        {
+          "index": 3,
+          "start": 7.734,
+          "end": 9.975
+        },
+        {
+          "index": 4,
+          "start": 10.035,
+          "end": 12.036
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.036,
+      "end": 15.698,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.036,
+          "end": 13.257
+        },
+        {
+          "index": 2,
+          "start": 13.257,
+          "end": 13.657
+        },
+        {
+          "index": 3,
+          "start": 13.657,
+          "end": 14.137
+        },
+        {
+          "index": 4,
+          "start": 14.137,
+          "end": 15.698
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.778,
+      "end": 23.381,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.778,
+          "end": 17.038
+        },
+        {
+          "index": 2,
+          "start": 17.038,
+          "end": 18.419
+        },
+        {
+          "index": 3,
+          "start": 18.419,
+          "end": 19.159
+        },
+        {
+          "index": 4,
+          "start": 19.259,
+          "end": 20.319
+        },
+        {
+          "index": 5,
+          "start": 20.319,
+          "end": 21.92
+        },
+        {
+          "index": 6,
+          "start": 21.92,
+          "end": 22.22
+        },
+        {
+          "index": 7,
+          "start": 22.34,
+          "end": 23.381
+        }
+      ]
+    }
+  ]
+}

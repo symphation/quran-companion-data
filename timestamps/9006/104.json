@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.372,
+      "end": 7.274,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.372,
+          "end": 3.953
+        },
+        {
+          "index": 2,
+          "start": 3.953,
+          "end": 5.06
+        },
+        {
+          "index": 3,
+          "start": 5.06,
+          "end": 6.167
+        },
+        {
+          "index": 4,
+          "start": 6.167,
+          "end": 7.274
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.274,
+      "end": 11.616,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.274,
+          "end": 8.034
+        },
+        {
+          "index": 2,
+          "start": 8.154,
+          "end": 8.715
+        },
+        {
+          "index": 3,
+          "start": 8.715,
+          "end": 10.075
+        },
+        {
+          "index": 4,
+          "start": 10.075,
+          "end": 11.616
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.716,
+      "end": 16.738,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.716,
+          "end": 12.456
+        },
+        {
+          "index": 2,
+          "start": 12.516,
+          "end": 13.497
+        },
+        {
+          "index": 3,
+          "start": 13.497,
+          "end": 15.397
+        },
+        {
+          "index": 4,
+          "start": 15.397,
+          "end": 16.738
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 16.818,
+      "end": 21.1,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.818,
+          "end": 17.578
+        },
+        {
+          "index": 2,
+          "start": 17.578,
+          "end": 18.809
+        },
+        {
+          "index": 3,
+          "start": 18.809,
+          "end": 20.039
+        },
+        {
+          "index": 4,
+          "start": 20.039,
+          "end": 20.259
+        },
+        {
+          "index": 5,
+          "start": 20.279,
+          "end": 21.1
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 21.7,
+      "end": 25.742,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.7,
+          "end": 23.281
+        },
+        {
+          "index": 2,
+          "start": 23.281,
+          "end": 24.101
+        },
+        {
+          "index": 3,
+          "start": 24.101,
+          "end": 24.922
+        },
+        {
+          "index": 4,
+          "start": 24.922,
+          "end": 25.742
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 25.742,
+      "end": 28.923,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.742,
+          "end": 26.562
+        },
+        {
+          "index": 2,
+          "start": 26.562,
+          "end": 27.383
+        },
+        {
+          "index": 3,
+          "start": 27.403,
+          "end": 28.923
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 28.983,
+      "end": 33.236,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.983,
+          "end": 29.904
+        },
+        {
+          "index": 2,
+          "start": 29.904,
+          "end": 31.014
+        },
+        {
+          "index": 3,
+          "start": 31.014,
+          "end": 32.125
+        },
+        {
+          "index": 4,
+          "start": 32.125,
+          "end": 33.236
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 33.235,
+      "end": 37.407,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.235,
+          "end": 34.346
+        },
+        {
+          "index": 2,
+          "start": 34.346,
+          "end": 35.827
+        },
+        {
+          "index": 3,
+          "start": 35.827,
+          "end": 37.407
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 37.407,
+      "end": 40.189,
+      "words": [
+        {
+          "index": 1,
+          "start": 37.407,
+          "end": 37.727
+        },
+        {
+          "index": 2,
+          "start": 37.847,
+          "end": 39.188
+        },
+        {
+          "index": 3,
+          "start": 39.428,
+          "end": 40.189
+        }
+      ]
+    }
+  ]
+}

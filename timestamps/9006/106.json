@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.846,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.923
+        },
+        {
+          "index": 2,
+          "start": 2.923,
+          "end": 5.846
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.846,
+      "end": 14.812,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.846,
+          "end": 8.769
+        },
+        {
+          "index": 2,
+          "start": 8.769,
+          "end": 9.509
+        },
+        {
+          "index": 3,
+          "start": 9.569,
+          "end": 11.91
+        },
+        {
+          "index": 4,
+          "start": 11.97,
+          "end": 14.812
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.812,
+      "end": 20.375,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.812,
+          "end": 16.413
+        },
+        {
+          "index": 2,
+          "start": 16.413,
+          "end": 16.933
+        },
+        {
+          "index": 3,
+          "start": 16.933,
+          "end": 17.693
+        },
+        {
+          "index": 4,
+          "start": 17.693,
+          "end": 20.375
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 20.475,
+      "end": 32.801,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.475,
+          "end": 22.295
+        },
+        {
+          "index": 2,
+          "start": 22.295,
+          "end": 24.136
+        },
+        {
+          "index": 3,
+          "start": 24.136,
+          "end": 25.057
+        },
+        {
+          "index": 4,
+          "start": 25.197,
+          "end": 26.898
+        },
+        {
+          "index": 5,
+          "start": 26.898,
+          "end": 29.439
+        },
+        {
+          "index": 6,
+          "start": 29.439,
+          "end": 29.819
+        },
+        {
+          "index": 7,
+          "start": 29.919,
+          "end": 32.801
+        }
+      ]
+    }
+  ]
+}

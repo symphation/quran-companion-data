@@ -1,0 +1,199 @@
+{
+  "audio_url": "https://server8.mp3quran.net/lhdan/001.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.415,
+      "end": 8.098,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.415,
+          "end": 5.796
+        },
+        {
+          "index": 2,
+          "start": 5.856,
+          "end": 6.536
+        },
+        {
+          "index": 3,
+          "start": 6.536,
+          "end": 7.577
+        },
+        {
+          "index": 4,
+          "start": 7.577,
+          "end": 8.098
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.098,
+      "end": 12.412,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.098,
+          "end": 9.612
+        },
+        {
+          "index": 2,
+          "start": 9.612,
+          "end": 10.292
+        },
+        {
+          "index": 3,
+          "start": 10.352,
+          "end": 10.712
+        },
+        {
+          "index": 4,
+          "start": 10.712,
+          "end": 12.412
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.412,
+      "end": 15.013,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.412,
+          "end": 14.113
+        },
+        {
+          "index": 2,
+          "start": 14.113,
+          "end": 15.013
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.013,
+      "end": 18.194,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.013,
+          "end": 15.774
+        },
+        {
+          "index": 2,
+          "start": 15.774,
+          "end": 16.254
+        },
+        {
+          "index": 3,
+          "start": 16.294,
+          "end": 18.194
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 18.194,
+      "end": 22.248,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.194,
+          "end": 19.208
+        },
+        {
+          "index": 2,
+          "start": 19.208,
+          "end": 20.221
+        },
+        {
+          "index": 3,
+          "start": 20.221,
+          "end": 21.234
+        },
+        {
+          "index": 4,
+          "start": 21.234,
+          "end": 22.248
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 22.248,
+      "end": 26.796,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.248,
+          "end": 23.261
+        },
+        {
+          "index": 2,
+          "start": 23.261,
+          "end": 24.275
+        },
+        {
+          "index": 3,
+          "start": 24.275,
+          "end": 26.796
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 26.796,
+      "end": 43.807,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.796,
+          "end": 27.496
+        },
+        {
+          "index": 2,
+          "start": 27.496,
+          "end": 28.216
+        },
+        {
+          "index": 3,
+          "start": 28.216,
+          "end": 29.156
+        },
+        {
+          "index": 4,
+          "start": 29.156,
+          "end": 30.577
+        },
+        {
+          "index": 5,
+          "start": 30.577,
+          "end": 31.327
+        },
+        {
+          "index": 6,
+          "start": 31.327,
+          "end": 32.077
+        },
+        {
+          "index": 7,
+          "start": 32.077,
+          "end": 32.837
+        },
+        {
+          "index": 8,
+          "start": 32.937,
+          "end": 33.317
+        },
+        {
+          "index": 9,
+          "start": 33.317,
+          "end": 43.807
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.031,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.677
+        },
+        {
+          "index": 2,
+          "start": 1.677,
+          "end": 3.354
+        },
+        {
+          "index": 3,
+          "start": 3.354,
+          "end": 5.031
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.031,
+      "end": 10.062,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.031,
+          "end": 6.708
+        },
+        {
+          "index": 2,
+          "start": 6.708,
+          "end": 8.385
+        },
+        {
+          "index": 3,
+          "start": 8.385,
+          "end": 10.062
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.062,
+      "end": 16.771,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.062,
+          "end": 11.739
+        },
+        {
+          "index": 2,
+          "start": 11.739,
+          "end": 13.416
+        },
+        {
+          "index": 3,
+          "start": 13.416,
+          "end": 15.094
+        },
+        {
+          "index": 4,
+          "start": 15.094,
+          "end": 16.771
+        }
+      ]
+    }
+  ]
+}

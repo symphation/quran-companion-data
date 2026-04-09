@@ -1,0 +1,231 @@
+{
+  "audio_url": "https://server6.mp3quran.net/earawi/095.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 9.238,
+      "end": 11.62,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.238,
+          "end": 10.138
+        },
+        {
+          "index": 2,
+          "start": 10.138,
+          "end": 11.62
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.62,
+      "end": 13.401,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.62,
+          "end": 12.34
+        },
+        {
+          "index": 2,
+          "start": 12.48,
+          "end": 13.401
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 13.401,
+      "end": 20.106,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.401,
+          "end": 14.402
+        },
+        {
+          "index": 2,
+          "start": 14.402,
+          "end": 15.182
+        },
+        {
+          "index": 3,
+          "start": 15.182,
+          "end": 20.106
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 20.106,
+      "end": 28.285,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.106,
+          "end": 20.646
+        },
+        {
+          "index": 2,
+          "start": 20.787,
+          "end": 21.547
+        },
+        {
+          "index": 3,
+          "start": 21.547,
+          "end": 23.369
+        },
+        {
+          "index": 4,
+          "start": 23.369,
+          "end": 23.569
+        },
+        {
+          "index": 5,
+          "start": 25.523,
+          "end": 26.184
+        },
+        {
+          "index": 6,
+          "start": 26.364,
+          "end": 28.285
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.446,
+      "end": 39.595,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.446,
+          "end": 29.627
+        },
+        {
+          "index": 2,
+          "start": 29.627,
+          "end": 30.988
+        },
+        {
+          "index": 3,
+          "start": 30.988,
+          "end": 31.688
+        },
+        {
+          "index": 4,
+          "start": 31.688,
+          "end": 39.595
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 39.595,
+      "end": 53.065,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.595,
+          "end": 40.095
+        },
+        {
+          "index": 2,
+          "start": 40.095,
+          "end": 41.884
+        },
+        {
+          "index": 3,
+          "start": 41.884,
+          "end": 43.674
+        },
+        {
+          "index": 4,
+          "start": 43.674,
+          "end": 45.463
+        },
+        {
+          "index": 5,
+          "start": 45.463,
+          "end": 47.253
+        },
+        {
+          "index": 6,
+          "start": 47.253,
+          "end": 49.042
+        },
+        {
+          "index": 7,
+          "start": 49.042,
+          "end": 49.723
+        },
+        {
+          "index": 8,
+          "start": 49.723,
+          "end": 51.394
+        },
+        {
+          "index": 9,
+          "start": 51.394,
+          "end": 53.065
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 53.065,
+      "end": 58.044,
+      "words": [
+        {
+          "index": 1,
+          "start": 53.065,
+          "end": 53.507
+        },
+        {
+          "index": 2,
+          "start": 53.507,
+          "end": 55.019
+        },
+        {
+          "index": 3,
+          "start": 55.019,
+          "end": 56.532
+        },
+        {
+          "index": 4,
+          "start": 56.532,
+          "end": 58.044
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 58.044,
+      "end": 63.448,
+      "words": [
+        {
+          "index": 1,
+          "start": 58.044,
+          "end": 58.767
+        },
+        {
+          "index": 2,
+          "start": 58.807,
+          "end": 59.59
+        },
+        {
+          "index": 3,
+          "start": 59.67,
+          "end": 60.593
+        },
+        {
+          "index": 4,
+          "start": 60.593,
+          "end": 63.448
+        }
+      ]
+    }
+  ]
+}

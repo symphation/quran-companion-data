@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server8.mp3quran.net/3zazi/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 6.578,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.418
+        },
+        {
+          "index": 2,
+          "start": 0.418,
+          "end": 0.835
+        },
+        {
+          "index": 3,
+          "start": 0.835,
+          "end": 1.736
+        },
+        {
+          "index": 4,
+          "start": 1.736,
+          "end": 6.578
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.578,
+      "end": 24.752,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.578,
+          "end": 7.778
+        },
+        {
+          "index": 2,
+          "start": 7.778,
+          "end": 24.752
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 24.752,
+      "end": 30.262,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.752,
+          "end": 25.233
+        },
+        {
+          "index": 2,
+          "start": 25.233,
+          "end": 26.215
+        },
+        {
+          "index": 3,
+          "start": 26.215,
+          "end": 26.936
+        },
+        {
+          "index": 4,
+          "start": 27.056,
+          "end": 30.262
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 30.322,
+      "end": 38.176,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.322,
+          "end": 30.903
+        },
+        {
+          "index": 2,
+          "start": 30.903,
+          "end": 32.907
+        },
+        {
+          "index": 3,
+          "start": 32.907,
+          "end": 34.91
+        },
+        {
+          "index": 4,
+          "start": 34.91,
+          "end": 36.914
+        },
+        {
+          "index": 5,
+          "start": 36.914,
+          "end": 38.176
+        }
+      ]
+    }
+  ]
+}

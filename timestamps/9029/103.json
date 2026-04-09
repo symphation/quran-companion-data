@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.593,
+      "end": 4.754,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.593,
+          "end": 4.754
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.874,
+      "end": 9.337,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.874,
+          "end": 5.815
+        },
+        {
+          "index": 2,
+          "start": 5.815,
+          "end": 7.776
+        },
+        {
+          "index": 3,
+          "start": 7.776,
+          "end": 8.337
+        },
+        {
+          "index": 4,
+          "start": 8.337,
+          "end": 9.337
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.337,
+      "end": 19.069,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.337,
+          "end": 9.618
+        },
+        {
+          "index": 2,
+          "start": 9.638,
+          "end": 10.358
+        },
+        {
+          "index": 3,
+          "start": 10.358,
+          "end": 11.602
+        },
+        {
+          "index": 4,
+          "start": 11.602,
+          "end": 12.847
+        },
+        {
+          "index": 5,
+          "start": 12.847,
+          "end": 14.091
+        },
+        {
+          "index": 6,
+          "start": 14.091,
+          "end": 15.336
+        },
+        {
+          "index": 7,
+          "start": 15.336,
+          "end": 16.58
+        },
+        {
+          "index": 8,
+          "start": 16.58,
+          "end": 17.825
+        },
+        {
+          "index": 9,
+          "start": 17.825,
+          "end": 19.069
+        }
+      ]
+    }
+  ]
+}

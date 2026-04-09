@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server12.mp3quran.net/shah/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.842,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.614
+        },
+        {
+          "index": 2,
+          "start": 2.614,
+          "end": 5.228
+        },
+        {
+          "index": 3,
+          "start": 5.228,
+          "end": 7.842
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.842,
+      "end": 10.726,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.842,
+          "end": 8.523
+        },
+        {
+          "index": 2,
+          "start": 8.583,
+          "end": 9.444
+        },
+        {
+          "index": 3,
+          "start": 9.444,
+          "end": 10.726
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.726,
+      "end": 14.791,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.726,
+          "end": 11.867
+        },
+        {
+          "index": 2,
+          "start": 11.987,
+          "end": 13.009
+        },
+        {
+          "index": 3,
+          "start": 13.169,
+          "end": 13.509
+        },
+        {
+          "index": 4,
+          "start": 13.589,
+          "end": 14.791
+        }
+      ]
+    }
+  ]
+}

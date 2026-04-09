@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.974,
+      "end": 11.838,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.974,
+          "end": 6.215
+        },
+        {
+          "index": 2,
+          "start": 6.275,
+          "end": 6.995
+        },
+        {
+          "index": 3,
+          "start": 7.055,
+          "end": 7.816
+        },
+        {
+          "index": 4,
+          "start": 7.896,
+          "end": 11.838
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.958,
+      "end": 16.661,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.958,
+          "end": 12.758
+        },
+        {
+          "index": 2,
+          "start": 12.798,
+          "end": 16.661
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.661,
+      "end": 20.483,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.661,
+          "end": 17.601
+        },
+        {
+          "index": 2,
+          "start": 17.601,
+          "end": 20.483
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 22.271,
+      "end": 28.992,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.271,
+          "end": 23.231
+        },
+        {
+          "index": 2,
+          "start": 23.371,
+          "end": 23.851
+        },
+        {
+          "index": 3,
+          "start": 23.851,
+          "end": 26.422
+        },
+        {
+          "index": 4,
+          "start": 26.422,
+          "end": 28.992
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.992,
+      "end": 39.176,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.992,
+          "end": 31.563
+        },
+        {
+          "index": 2,
+          "start": 31.563,
+          "end": 34.134
+        },
+        {
+          "index": 3,
+          "start": 34.134,
+          "end": 34.334
+        },
+        {
+          "index": 4,
+          "start": 34.334,
+          "end": 35.314
+        },
+        {
+          "index": 5,
+          "start": 35.314,
+          "end": 39.176
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 39.296,
+      "end": 44.597,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.296,
+          "end": 39.596
+        },
+        {
+          "index": 2,
+          "start": 39.636,
+          "end": 41.216
+        },
+        {
+          "index": 3,
+          "start": 41.276,
+          "end": 44.597
+        }
+      ]
+    }
+  ]
+}

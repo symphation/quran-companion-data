@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server6.mp3quran.net/muamr/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 13.934,
+      "end": 38.83,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.934,
+          "end": 14.775
+        },
+        {
+          "index": 2,
+          "start": 14.775,
+          "end": 15.175
+        },
+        {
+          "index": 3,
+          "start": 15.175,
+          "end": 15.555
+        },
+        {
+          "index": 4,
+          "start": 15.595,
+          "end": 19.096
+        },
+        {
+          "index": 5,
+          "start": 19.096,
+          "end": 38.83
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 38.83,
+      "end": 100.397,
+      "words": [
+        {
+          "index": 1,
+          "start": 38.83,
+          "end": 58.564
+        },
+        {
+          "index": 2,
+          "start": 58.564,
+          "end": 78.299
+        },
+        {
+          "index": 3,
+          "start": 78.299,
+          "end": 98.033
+        },
+        {
+          "index": 4,
+          "start": 98.033,
+          "end": 98.153
+        },
+        {
+          "index": 5,
+          "start": 98.153,
+          "end": 98.901
+        },
+        {
+          "index": 6,
+          "start": 98.901,
+          "end": 99.649
+        },
+        {
+          "index": 7,
+          "start": 99.649,
+          "end": 100.397
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 100.397,
+      "end": 155.585,
+      "words": [
+        {
+          "index": 1,
+          "start": 100.397,
+          "end": 101.144
+        },
+        {
+          "index": 2,
+          "start": 101.144,
+          "end": 101.892
+        },
+        {
+          "index": 3,
+          "start": 101.892,
+          "end": 102.64
+        },
+        {
+          "index": 4,
+          "start": 102.64,
+          "end": 103.388
+        },
+        {
+          "index": 5,
+          "start": 103.388,
+          "end": 104.136
+        },
+        {
+          "index": 6,
+          "start": 104.136,
+          "end": 104.456
+        },
+        {
+          "index": 7,
+          "start": 104.456,
+          "end": 130.021
+        },
+        {
+          "index": 8,
+          "start": 130.021,
+          "end": 155.585
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "audio_url": "https://server13.mp3quran.net/braak/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 1.224,
+      "end": 3.145,
+      "words": [
+        {
+          "index": 3,
+          "start": 1.224,
+          "end": 1.984
+        },
+        {
+          "index": 4,
+          "start": 1.984,
+          "end": 3.145
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 3.145,
+      "end": 5.466,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.145,
+          "end": 4.126
+        },
+        {
+          "index": 2,
+          "start": 4.126,
+          "end": 5.466
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 5.466,
+      "end": 8.108,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.466,
+          "end": 5.747
+        },
+        {
+          "index": 2,
+          "start": 5.807,
+          "end": 6.327
+        },
+        {
+          "index": 3,
+          "start": 6.447,
+          "end": 6.867
+        },
+        {
+          "index": 4,
+          "start": 6.988,
+          "end": 8.108
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 8.228,
+      "end": 12.904,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.228,
+          "end": 8.709
+        },
+        {
+          "index": 2,
+          "start": 8.709,
+          "end": 9.758
+        },
+        {
+          "index": 3,
+          "start": 9.758,
+          "end": 10.807
+        },
+        {
+          "index": 4,
+          "start": 10.807,
+          "end": 11.856
+        },
+        {
+          "index": 5,
+          "start": 11.856,
+          "end": 12.904
+        }
+      ]
+    }
+  ]
+}

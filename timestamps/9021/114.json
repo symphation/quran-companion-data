@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server6.mp3quran.net/abkr/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.797,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.034
+        },
+        {
+          "index": 2,
+          "start": 4.034,
+          "end": 4.695
+        },
+        {
+          "index": 3,
+          "start": 4.795,
+          "end": 5.496
+        },
+        {
+          "index": 4,
+          "start": 5.496,
+          "end": 7.797
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.797,
+      "end": 10.253,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.797,
+          "end": 8.478
+        },
+        {
+          "index": 2,
+          "start": 8.478,
+          "end": 10.253
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.253,
+      "end": 13.802,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.253,
+          "end": 12.027
+        },
+        {
+          "index": 2,
+          "start": 12.027,
+          "end": 13.802
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.802,
+      "end": 19.748,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.802,
+          "end": 15.103
+        },
+        {
+          "index": 2,
+          "start": 15.224,
+          "end": 15.764
+        },
+        {
+          "index": 3,
+          "start": 15.764,
+          "end": 17.756
+        },
+        {
+          "index": 4,
+          "start": 17.756,
+          "end": 19.748
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 19.748,
+      "end": 25.056,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.748,
+          "end": 20.369
+        },
+        {
+          "index": 2,
+          "start": 20.369,
+          "end": 21.631
+        },
+        {
+          "index": 3,
+          "start": 21.631,
+          "end": 21.891
+        },
+        {
+          "index": 4,
+          "start": 21.991,
+          "end": 22.873
+        },
+        {
+          "index": 5,
+          "start": 22.893,
+          "end": 25.056
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 25.136,
+      "end": 30.665,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.136,
+          "end": 25.477
+        },
+        {
+          "index": 2,
+          "start": 25.517,
+          "end": 27.139
+        },
+        {
+          "index": 3,
+          "start": 27.22,
+          "end": 30.665
+        }
+      ]
+    }
+  ]
+}

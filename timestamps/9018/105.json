@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/105.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 10.894,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.306
+        },
+        {
+          "index": 2,
+          "start": 3.306,
+          "end": 6.611
+        },
+        {
+          "index": 3,
+          "start": 6.611,
+          "end": 7.091
+        },
+        {
+          "index": 4,
+          "start": 7.091,
+          "end": 7.792
+        },
+        {
+          "index": 5,
+          "start": 7.792,
+          "end": 8.492
+        },
+        {
+          "index": 6,
+          "start": 8.492,
+          "end": 9.753
+        },
+        {
+          "index": 7,
+          "start": 9.753,
+          "end": 10.894
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.718,
+      "end": 16.423,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.718,
+          "end": 12.159
+        },
+        {
+          "index": 2,
+          "start": 12.259,
+          "end": 12.959
+        },
+        {
+          "index": 3,
+          "start": 13.06,
+          "end": 13.981
+        },
+        {
+          "index": 4,
+          "start": 14.081,
+          "end": 14.421
+        },
+        {
+          "index": 5,
+          "start": 14.541,
+          "end": 16.423
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.523,
+      "end": 21.449,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.523,
+          "end": 17.384
+        },
+        {
+          "index": 2,
+          "start": 17.485,
+          "end": 18.366
+        },
+        {
+          "index": 3,
+          "start": 18.366,
+          "end": 19.908
+        },
+        {
+          "index": 4,
+          "start": 19.908,
+          "end": 21.449
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 21.449,
+      "end": 27.956,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.449,
+          "end": 23.411
+        },
+        {
+          "index": 2,
+          "start": 23.491,
+          "end": 25.273
+        },
+        {
+          "index": 3,
+          "start": 25.333,
+          "end": 25.974
+        },
+        {
+          "index": 4,
+          "start": 26.094,
+          "end": 27.956
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.036,
+      "end": 40.229,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.036,
+          "end": 29.098
+        },
+        {
+          "index": 2,
+          "start": 29.098,
+          "end": 34.663
+        },
+        {
+          "index": 3,
+          "start": 34.663,
+          "end": 40.229
+        }
+      ]
+    }
+  ]
+}

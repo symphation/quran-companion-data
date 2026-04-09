@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server6.mp3quran.net/lahoni/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.096,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.548
+        },
+        {
+          "index": 2,
+          "start": 2.548,
+          "end": 5.096
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.096,
+      "end": 15.048,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.096,
+          "end": 7.645
+        },
+        {
+          "index": 2,
+          "start": 7.645,
+          "end": 10.193
+        },
+        {
+          "index": 3,
+          "start": 10.193,
+          "end": 13.094
+        },
+        {
+          "index": 4,
+          "start": 13.094,
+          "end": 15.048
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.048,
+      "end": 22.866,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.048,
+          "end": 17.003
+        },
+        {
+          "index": 2,
+          "start": 17.003,
+          "end": 18.957
+        },
+        {
+          "index": 3,
+          "start": 18.957,
+          "end": 20.912
+        },
+        {
+          "index": 4,
+          "start": 20.912,
+          "end": 22.866
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 22.866,
+      "end": 38.374,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.866,
+          "end": 24.487
+        },
+        {
+          "index": 2,
+          "start": 24.487,
+          "end": 26.828
+        },
+        {
+          "index": 3,
+          "start": 26.828,
+          "end": 27.629
+        },
+        {
+          "index": 4,
+          "start": 27.629,
+          "end": 29.98
+        },
+        {
+          "index": 5,
+          "start": 29.98,
+          "end": 32.332
+        },
+        {
+          "index": 6,
+          "start": 32.332,
+          "end": 32.732
+        },
+        {
+          "index": 7,
+          "start": 32.732,
+          "end": 38.374
+        }
+      ]
+    }
+  ]
+}

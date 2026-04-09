@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.31,
+      "end": 9.031,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.31,
+          "end": 4.61
+        },
+        {
+          "index": 2,
+          "start": 4.61,
+          "end": 5.49
+        },
+        {
+          "index": 3,
+          "start": 5.49,
+          "end": 6.21
+        },
+        {
+          "index": 4,
+          "start": 6.25,
+          "end": 9.031
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.171,
+      "end": 12.391,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.171,
+          "end": 9.651
+        },
+        {
+          "index": 2,
+          "start": 9.811,
+          "end": 12.391
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.391,
+      "end": 15.992,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.391,
+          "end": 13.492
+        },
+        {
+          "index": 2,
+          "start": 13.492,
+          "end": 15.992
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 16.072,
+      "end": 22.073,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.072,
+          "end": 16.352
+        },
+        {
+          "index": 2,
+          "start": 17.072,
+          "end": 17.672
+        },
+        {
+          "index": 3,
+          "start": 17.672,
+          "end": 19.873
+        },
+        {
+          "index": 4,
+          "start": 19.873,
+          "end": 22.073
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 22.073,
+      "end": 28.194,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.073,
+          "end": 22.733
+        },
+        {
+          "index": 2,
+          "start": 22.733,
+          "end": 23.833
+        },
+        {
+          "index": 3,
+          "start": 23.833,
+          "end": 24.113
+        },
+        {
+          "index": 4,
+          "start": 24.253,
+          "end": 25.094
+        },
+        {
+          "index": 5,
+          "start": 25.134,
+          "end": 28.194
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 28.294,
+      "end": 31.555,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.294,
+          "end": 28.654
+        },
+        {
+          "index": 2,
+          "start": 28.694,
+          "end": 30.454
+        },
+        {
+          "index": 3,
+          "start": 30.554,
+          "end": 31.555
+        }
+      ]
+    }
+  ]
+}

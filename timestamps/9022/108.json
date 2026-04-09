@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 11.376,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.792
+        },
+        {
+          "index": 2,
+          "start": 3.792,
+          "end": 7.584
+        },
+        {
+          "index": 3,
+          "start": 7.584,
+          "end": 11.376
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.376,
+      "end": 22.752,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.376,
+          "end": 15.168
+        },
+        {
+          "index": 2,
+          "start": 15.168,
+          "end": 18.96
+        },
+        {
+          "index": 3,
+          "start": 18.96,
+          "end": 22.752
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 22.752,
+      "end": 36.101,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.752,
+          "end": 24.653
+        },
+        {
+          "index": 2,
+          "start": 24.793,
+          "end": 26.734
+        },
+        {
+          "index": 3,
+          "start": 26.734,
+          "end": 31.418
+        },
+        {
+          "index": 4,
+          "start": 31.418,
+          "end": 36.101
+        }
+      ]
+    }
+  ]
+}

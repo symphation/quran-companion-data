@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server6.mp3quran.net/akdr/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.37,
+      "end": 14.995,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.37,
+          "end": 8.85
+        },
+        {
+          "index": 2,
+          "start": 9.03,
+          "end": 11.432
+        },
+        {
+          "index": 3,
+          "start": 11.512,
+          "end": 12.273
+        },
+        {
+          "index": 4,
+          "start": 12.313,
+          "end": 12.973
+        },
+        {
+          "index": 5,
+          "start": 13.073,
+          "end": 14.995
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 15.115,
+      "end": 23.582,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.115,
+          "end": 16.096
+        },
+        {
+          "index": 2,
+          "start": 16.136,
+          "end": 17.917
+        },
+        {
+          "index": 3,
+          "start": 17.977,
+          "end": 19.198
+        },
+        {
+          "index": 4,
+          "start": 19.318,
+          "end": 19.659
+        },
+        {
+          "index": 5,
+          "start": 19.779,
+          "end": 20.439
+        },
+        {
+          "index": 6,
+          "start": 20.499,
+          "end": 21.18
+        },
+        {
+          "index": 7,
+          "start": 21.32,
+          "end": 23.582
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 23.662,
+      "end": 34.586,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.662,
+          "end": 24.582
+        },
+        {
+          "index": 2,
+          "start": 24.682,
+          "end": 25.483
+        },
+        {
+          "index": 3,
+          "start": 25.603,
+          "end": 26.404
+        },
+        {
+          "index": 4,
+          "start": 26.404,
+          "end": 27.604
+        },
+        {
+          "index": 5,
+          "start": 27.604,
+          "end": 28.803
+        },
+        {
+          "index": 6,
+          "start": 28.803,
+          "end": 30.532
+        },
+        {
+          "index": 7,
+          "start": 30.532,
+          "end": 32.559
+        },
+        {
+          "index": 8,
+          "start": 32.559,
+          "end": 34.586
+        }
+      ]
+    }
+  ]
+}

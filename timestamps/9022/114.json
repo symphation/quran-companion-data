@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.713,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.194
+        },
+        {
+          "index": 2,
+          "start": 2.194,
+          "end": 4.389
+        },
+        {
+          "index": 3,
+          "start": 4.389,
+          "end": 5.95
+        },
+        {
+          "index": 4,
+          "start": 6.01,
+          "end": 8.713
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.053,
+      "end": 12.957,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.053,
+          "end": 9.994
+        },
+        {
+          "index": 2,
+          "start": 10.034,
+          "end": 12.957
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.957,
+      "end": 17.482,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.957,
+          "end": 14.078
+        },
+        {
+          "index": 2,
+          "start": 14.078,
+          "end": 17.482
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 17.602,
+      "end": 40.469,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.602,
+          "end": 18.783
+        },
+        {
+          "index": 2,
+          "start": 18.943,
+          "end": 20.665
+        },
+        {
+          "index": 3,
+          "start": 20.665,
+          "end": 30.567
+        },
+        {
+          "index": 4,
+          "start": 30.567,
+          "end": 40.469
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 40.469,
+      "end": 65.096,
+      "words": [
+        {
+          "index": 1,
+          "start": 40.469,
+          "end": 50.371
+        },
+        {
+          "index": 2,
+          "start": 50.371,
+          "end": 60.273
+        },
+        {
+          "index": 3,
+          "start": 60.273,
+          "end": 60.813
+        },
+        {
+          "index": 4,
+          "start": 61.194,
+          "end": 62.174
+        },
+        {
+          "index": 5,
+          "start": 62.334,
+          "end": 65.096
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 65.456,
+      "end": 79.099,
+      "words": [
+        {
+          "index": 1,
+          "start": 65.456,
+          "end": 66.056
+        },
+        {
+          "index": 2,
+          "start": 66.056,
+          "end": 72.577
+        },
+        {
+          "index": 3,
+          "start": 72.577,
+          "end": 79.099
+        }
+      ]
+    }
+  ]
+}

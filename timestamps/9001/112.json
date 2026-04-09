@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 2.98,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.43
+        },
+        {
+          "index": 2,
+          "start": 0.43,
+          "end": 0.7
+        },
+        {
+          "index": 3,
+          "start": 0.7,
+          "end": 1.68
+        },
+        {
+          "index": 4,
+          "start": 1.68,
+          "end": 2.915
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 2.98,
+      "end": 5.51,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.915,
+          "end": 3.965
+        },
+        {
+          "index": 2,
+          "start": 3.965,
+          "end": 5.4
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 5.51,
+      "end": 8.49,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.465,
+          "end": 5.895
+        },
+        {
+          "index": 2,
+          "start": 5.895,
+          "end": 6.515
+        },
+        {
+          "index": 3,
+          "start": 6.515,
+          "end": 7.205
+        },
+        {
+          "index": 4,
+          "start": 7.205,
+          "end": 8.38
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 8.49,
+      "end": 13.35,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.425,
+          "end": 8.955
+        },
+        {
+          "index": 2,
+          "start": 8.955,
+          "end": 9.675
+        },
+        {
+          "index": 3,
+          "start": 9.675,
+          "end": 10.505
+        },
+        {
+          "index": 4,
+          "start": 10.505,
+          "end": 11.425
+        },
+        {
+          "index": 5,
+          "start": 11.425,
+          "end": 13.12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server6.mp3quran.net/abkr/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 4.483,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.266
+        },
+        {
+          "index": 2,
+          "start": 0.266,
+          "end": 0.532
+        },
+        {
+          "index": 3,
+          "start": 0.532,
+          "end": 1.134
+        },
+        {
+          "index": 4,
+          "start": 1.134,
+          "end": 4.483
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.483,
+      "end": 8.653,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.483,
+          "end": 5.285
+        },
+        {
+          "index": 2,
+          "start": 5.285,
+          "end": 8.653
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 8.653,
+      "end": 11.32,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.653,
+          "end": 8.874
+        },
+        {
+          "index": 2,
+          "start": 8.874,
+          "end": 9.536
+        },
+        {
+          "index": 3,
+          "start": 9.536,
+          "end": 10.017
+        },
+        {
+          "index": 4,
+          "start": 10.017,
+          "end": 11.32
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 11.32,
+      "end": 15.02,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.32,
+          "end": 11.782
+        },
+        {
+          "index": 2,
+          "start": 11.782,
+          "end": 12.484
+        },
+        {
+          "index": 3,
+          "start": 12.484,
+          "end": 13.185
+        },
+        {
+          "index": 4,
+          "start": 13.185,
+          "end": 13.707
+        },
+        {
+          "index": 5,
+          "start": 13.707,
+          "end": 15.02
+        }
+      ]
+    }
+  ]
+}

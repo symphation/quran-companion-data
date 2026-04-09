@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server8.mp3quran.net/jbrl/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.921,
+      "end": 7.462,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.921,
+          "end": 7.462
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.582,
+      "end": 12.463,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.582,
+          "end": 8.622
+        },
+        {
+          "index": 2,
+          "start": 8.622,
+          "end": 9.902
+        },
+        {
+          "index": 3,
+          "start": 9.902,
+          "end": 11.183
+        },
+        {
+          "index": 4,
+          "start": 11.183,
+          "end": 12.463
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.463,
+      "end": 25.626,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.463,
+          "end": 13.003
+        },
+        {
+          "index": 2,
+          "start": 13.023,
+          "end": 14.103
+        },
+        {
+          "index": 3,
+          "start": 14.103,
+          "end": 15.353
+        },
+        {
+          "index": 4,
+          "start": 15.353,
+          "end": 16.604
+        },
+        {
+          "index": 5,
+          "start": 16.604,
+          "end": 17.854
+        },
+        {
+          "index": 6,
+          "start": 17.854,
+          "end": 19.104
+        },
+        {
+          "index": 7,
+          "start": 19.104,
+          "end": 20.104
+        },
+        {
+          "index": 8,
+          "start": 20.104,
+          "end": 22.865
+        },
+        {
+          "index": 9,
+          "start": 22.865,
+          "end": 25.626
+        }
+      ]
+    }
+  ]
+}

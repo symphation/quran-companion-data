@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server8.mp3quran.net/ra3ad/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.477,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.286
+        },
+        {
+          "index": 2,
+          "start": 0.286,
+          "end": 0.571
+        },
+        {
+          "index": 3,
+          "start": 0.571,
+          "end": 1.332
+        },
+        {
+          "index": 4,
+          "start": 6.176,
+          "end": 7.477
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.717,
+      "end": 10.279,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.717,
+          "end": 8.557
+        },
+        {
+          "index": 2,
+          "start": 8.617,
+          "end": 10.279
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.419,
+      "end": 13.681,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.419,
+          "end": 10.719
+        },
+        {
+          "index": 2,
+          "start": 10.799,
+          "end": 11.399
+        },
+        {
+          "index": 3,
+          "start": 11.459,
+          "end": 12.04
+        },
+        {
+          "index": 4,
+          "start": 12.12,
+          "end": 13.681
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.781,
+      "end": 17.224,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.781,
+          "end": 14.342
+        },
+        {
+          "index": 2,
+          "start": 14.342,
+          "end": 15.073
+        },
+        {
+          "index": 3,
+          "start": 15.073,
+          "end": 15.803
+        },
+        {
+          "index": 4,
+          "start": 15.803,
+          "end": 16.603
+        },
+        {
+          "index": 5,
+          "start": 16.723,
+          "end": 17.224
+        }
+      ]
+    }
+  ]
+}

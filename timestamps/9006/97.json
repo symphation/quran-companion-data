@@ -1,0 +1,190 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/097.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.975,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.787
+        },
+        {
+          "index": 2,
+          "start": 3.787,
+          "end": 7.574
+        },
+        {
+          "index": 3,
+          "start": 7.574,
+          "end": 7.914
+        },
+        {
+          "index": 4,
+          "start": 7.994,
+          "end": 8.775
+        },
+        {
+          "index": 5,
+          "start": 8.775,
+          "end": 9.975
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.975,
+      "end": 14.834,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.975,
+          "end": 11.356
+        },
+        {
+          "index": 2,
+          "start": 11.356,
+          "end": 12.537
+        },
+        {
+          "index": 3,
+          "start": 12.537,
+          "end": 12.898
+        },
+        {
+          "index": 4,
+          "start": 12.978,
+          "end": 13.798
+        },
+        {
+          "index": 5,
+          "start": 13.798,
+          "end": 14.834
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.834,
+      "end": 19.802,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.834,
+          "end": 15.87
+        },
+        {
+          "index": 2,
+          "start": 15.869,
+          "end": 16.905
+        },
+        {
+          "index": 3,
+          "start": 16.905,
+          "end": 17.941
+        },
+        {
+          "index": 4,
+          "start": 17.941,
+          "end": 18.482
+        },
+        {
+          "index": 5,
+          "start": 18.482,
+          "end": 19.142
+        },
+        {
+          "index": 6,
+          "start": 19.142,
+          "end": 19.802
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 19.802,
+      "end": 30.13,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.802,
+          "end": 20.723
+        },
+        {
+          "index": 2,
+          "start": 20.723,
+          "end": 22.504
+        },
+        {
+          "index": 3,
+          "start": 22.504,
+          "end": 24.286
+        },
+        {
+          "index": 4,
+          "start": 24.286,
+          "end": 25.006
+        },
+        {
+          "index": 5,
+          "start": 25.106,
+          "end": 25.847
+        },
+        {
+          "index": 6,
+          "start": 25.927,
+          "end": 27.468
+        },
+        {
+          "index": 7,
+          "start": 27.528,
+          "end": 28.549
+        },
+        {
+          "index": 8,
+          "start": 28.669,
+          "end": 29.169
+        },
+        {
+          "index": 9,
+          "start": 29.309,
+          "end": 30.13
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 30.13,
+      "end": 35.344,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.13,
+          "end": 30.98
+        },
+        {
+          "index": 2,
+          "start": 30.98,
+          "end": 31.831
+        },
+        {
+          "index": 3,
+          "start": 31.831,
+          "end": 32.672
+        },
+        {
+          "index": 4,
+          "start": 32.672,
+          "end": 34.008
+        },
+        {
+          "index": 5,
+          "start": 34.008,
+          "end": 35.344
+        }
+      ]
+    }
+  ]
+}

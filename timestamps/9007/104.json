@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.271,
+      "end": 13.994,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.271,
+          "end": 8.811
+        },
+        {
+          "index": 2,
+          "start": 8.811,
+          "end": 9.852
+        },
+        {
+          "index": 3,
+          "start": 9.852,
+          "end": 10.892
+        },
+        {
+          "index": 4,
+          "start": 10.892,
+          "end": 13.994
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.014,
+      "end": 20.698,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.014,
+          "end": 14.795
+        },
+        {
+          "index": 2,
+          "start": 14.895,
+          "end": 15.495
+        },
+        {
+          "index": 3,
+          "start": 15.495,
+          "end": 17.316
+        },
+        {
+          "index": 4,
+          "start": 17.316,
+          "end": 20.698
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 20.838,
+      "end": 28.582,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.838,
+          "end": 21.598
+        },
+        {
+          "index": 2,
+          "start": 21.678,
+          "end": 22.979
+        },
+        {
+          "index": 3,
+          "start": 23.059,
+          "end": 25.34
+        },
+        {
+          "index": 4,
+          "start": 25.441,
+          "end": 28.582
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 28.602,
+      "end": 36.113,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.602,
+          "end": 29.043
+        },
+        {
+          "index": 2,
+          "start": 29.043,
+          "end": 31.998
+        },
+        {
+          "index": 3,
+          "start": 31.998,
+          "end": 34.952
+        },
+        {
+          "index": 4,
+          "start": 34.952,
+          "end": 35.092
+        },
+        {
+          "index": 5,
+          "start": 35.132,
+          "end": 36.113
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 38.274,
+      "end": 42.817,
+      "words": [
+        {
+          "index": 1,
+          "start": 38.274,
+          "end": 40.576
+        },
+        {
+          "index": 2,
+          "start": 40.576,
+          "end": 41.216
+        },
+        {
+          "index": 3,
+          "start": 41.216,
+          "end": 41.857
+        },
+        {
+          "index": 4,
+          "start": 41.857,
+          "end": 42.817
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 45.039,
+      "end": 49.902,
+      "words": [
+        {
+          "index": 1,
+          "start": 45.039,
+          "end": 45.559
+        },
+        {
+          "index": 2,
+          "start": 45.599,
+          "end": 46.34
+        },
+        {
+          "index": 3,
+          "start": 46.34,
+          "end": 49.902
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 49.902,
+      "end": 55.786,
+      "words": [
+        {
+          "index": 1,
+          "start": 49.902,
+          "end": 50.702
+        },
+        {
+          "index": 2,
+          "start": 50.842,
+          "end": 51.823
+        },
+        {
+          "index": 3,
+          "start": 51.883,
+          "end": 52.223
+        },
+        {
+          "index": 4,
+          "start": 52.223,
+          "end": 55.786
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 55.786,
+      "end": 63.237,
+      "words": [
+        {
+          "index": 1,
+          "start": 55.786,
+          "end": 57.867
+        },
+        {
+          "index": 2,
+          "start": 57.967,
+          "end": 59.768
+        },
+        {
+          "index": 3,
+          "start": 59.768,
+          "end": 63.237
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 63.237,
+      "end": 66.391,
+      "words": [
+        {
+          "index": 1,
+          "start": 63.237,
+          "end": 63.478
+        },
+        {
+          "index": 2,
+          "start": 63.579,
+          "end": 64.322
+        },
+        {
+          "index": 3,
+          "start": 65.688,
+          "end": 66.391
+        }
+      ]
+    }
+  ]
+}

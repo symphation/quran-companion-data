@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.494,
+      "end": 4.474,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.494,
+          "end": 4.474
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.534,
+      "end": 8.957,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.534,
+          "end": 5.455
+        },
+        {
+          "index": 2,
+          "start": 5.455,
+          "end": 7.617
+        },
+        {
+          "index": 3,
+          "start": 7.617,
+          "end": 8.017
+        },
+        {
+          "index": 4,
+          "start": 8.157,
+          "end": 8.957
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.018,
+      "end": 20.48,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.018,
+          "end": 9.618
+        },
+        {
+          "index": 2,
+          "start": 9.658,
+          "end": 10.679
+        },
+        {
+          "index": 3,
+          "start": 10.679,
+          "end": 11.865
+        },
+        {
+          "index": 4,
+          "start": 11.865,
+          "end": 13.051
+        },
+        {
+          "index": 5,
+          "start": 13.05,
+          "end": 14.236
+        },
+        {
+          "index": 6,
+          "start": 14.236,
+          "end": 15.422
+        },
+        {
+          "index": 7,
+          "start": 15.422,
+          "end": 16.423
+        },
+        {
+          "index": 8,
+          "start": 16.423,
+          "end": 18.452
+        },
+        {
+          "index": 9,
+          "start": 18.452,
+          "end": 20.48
+        }
+      ]
+    }
+  ]
+}

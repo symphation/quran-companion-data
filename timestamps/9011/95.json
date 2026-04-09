@@ -1,0 +1,231 @@
+{
+  "audio_url": "https://server8.mp3quran.net/lhdan/095.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.074,
+      "end": 7.217,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.074,
+          "end": 4.835
+        },
+        {
+          "index": 2,
+          "start": 4.835,
+          "end": 7.217
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.217,
+      "end": 10.04,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.217,
+          "end": 7.818
+        },
+        {
+          "index": 2,
+          "start": 7.918,
+          "end": 10.04
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.04,
+      "end": 13.242,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.04,
+          "end": 10.76
+        },
+        {
+          "index": 2,
+          "start": 10.76,
+          "end": 11.421
+        },
+        {
+          "index": 3,
+          "start": 11.461,
+          "end": 13.242
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.322,
+      "end": 20.549,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.322,
+          "end": 13.743
+        },
+        {
+          "index": 2,
+          "start": 13.743,
+          "end": 14.924
+        },
+        {
+          "index": 3,
+          "start": 14.924,
+          "end": 16.105
+        },
+        {
+          "index": 4,
+          "start": 16.105,
+          "end": 17.866
+        },
+        {
+          "index": 5,
+          "start": 17.906,
+          "end": 18.527
+        },
+        {
+          "index": 6,
+          "start": 18.527,
+          "end": 20.549
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 20.549,
+      "end": 24.962,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.549,
+          "end": 21.81
+        },
+        {
+          "index": 2,
+          "start": 21.81,
+          "end": 22.991
+        },
+        {
+          "index": 3,
+          "start": 22.991,
+          "end": 23.591
+        },
+        {
+          "index": 4,
+          "start": 23.591,
+          "end": 24.962
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 24.962,
+      "end": 34.517,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.962,
+          "end": 26.333
+        },
+        {
+          "index": 2,
+          "start": 26.333,
+          "end": 27.174
+        },
+        {
+          "index": 3,
+          "start": 27.174,
+          "end": 28.214
+        },
+        {
+          "index": 4,
+          "start": 28.214,
+          "end": 28.875
+        },
+        {
+          "index": 5,
+          "start": 28.875,
+          "end": 30.195
+        },
+        {
+          "index": 6,
+          "start": 30.195,
+          "end": 30.875
+        },
+        {
+          "index": 7,
+          "start": 30.875,
+          "end": 32.089
+        },
+        {
+          "index": 8,
+          "start": 32.089,
+          "end": 33.303
+        },
+        {
+          "index": 9,
+          "start": 33.303,
+          "end": 34.517
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 34.517,
+      "end": 38.633,
+      "words": [
+        {
+          "index": 1,
+          "start": 34.517,
+          "end": 34.957
+        },
+        {
+          "index": 2,
+          "start": 35.037,
+          "end": 36.138
+        },
+        {
+          "index": 3,
+          "start": 36.138,
+          "end": 37.385
+        },
+        {
+          "index": 4,
+          "start": 37.385,
+          "end": 38.633
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 38.633,
+      "end": 48.353,
+      "words": [
+        {
+          "index": 1,
+          "start": 38.633,
+          "end": 39.88
+        },
+        {
+          "index": 2,
+          "start": 39.88,
+          "end": 40.72
+        },
+        {
+          "index": 3,
+          "start": 40.72,
+          "end": 44.536
+        },
+        {
+          "index": 4,
+          "start": 44.536,
+          "end": 48.353
+        }
+      ]
+    }
+  ]
+}

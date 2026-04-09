@@ -1,0 +1,190 @@
+{
+  "audio_url": "https://server12.mp3quran.net/tblawi/Al-Mojawwad/097.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.463,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.693
+        },
+        {
+          "index": 2,
+          "start": 1.693,
+          "end": 3.385
+        },
+        {
+          "index": 3,
+          "start": 3.385,
+          "end": 5.078
+        },
+        {
+          "index": 4,
+          "start": 5.078,
+          "end": 6.77
+        },
+        {
+          "index": 5,
+          "start": 6.77,
+          "end": 8.463
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.463,
+      "end": 27.431,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.463,
+          "end": 8.583
+        },
+        {
+          "index": 2,
+          "start": 8.583,
+          "end": 13.295
+        },
+        {
+          "index": 3,
+          "start": 13.295,
+          "end": 18.007
+        },
+        {
+          "index": 4,
+          "start": 18.007,
+          "end": 22.719
+        },
+        {
+          "index": 5,
+          "start": 22.719,
+          "end": 27.431
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 27.431,
+      "end": 41.927,
+      "words": [
+        {
+          "index": 1,
+          "start": 27.431,
+          "end": 32.143
+        },
+        {
+          "index": 2,
+          "start": 32.143,
+          "end": 36.855
+        },
+        {
+          "index": 3,
+          "start": 36.855,
+          "end": 41.567
+        },
+        {
+          "index": 4,
+          "start": 41.567,
+          "end": 41.647
+        },
+        {
+          "index": 5,
+          "start": 41.647,
+          "end": 41.807
+        },
+        {
+          "index": 6,
+          "start": 41.807,
+          "end": 41.927
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 52.781,
+      "end": 79.565,
+      "words": [
+        {
+          "index": 1,
+          "start": 52.781,
+          "end": 53.942
+        },
+        {
+          "index": 2,
+          "start": 53.942,
+          "end": 57.145
+        },
+        {
+          "index": 3,
+          "start": 57.145,
+          "end": 60.348
+        },
+        {
+          "index": 4,
+          "start": 60.348,
+          "end": 63.551
+        },
+        {
+          "index": 5,
+          "start": 63.551,
+          "end": 66.754
+        },
+        {
+          "index": 6,
+          "start": 66.754,
+          "end": 69.957
+        },
+        {
+          "index": 7,
+          "start": 69.957,
+          "end": 73.16
+        },
+        {
+          "index": 8,
+          "start": 73.16,
+          "end": 76.362
+        },
+        {
+          "index": 9,
+          "start": 76.362,
+          "end": 79.565
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 79.565,
+      "end": 95.58,
+      "words": [
+        {
+          "index": 1,
+          "start": 79.565,
+          "end": 82.768
+        },
+        {
+          "index": 2,
+          "start": 82.768,
+          "end": 85.971
+        },
+        {
+          "index": 3,
+          "start": 85.971,
+          "end": 89.174
+        },
+        {
+          "index": 4,
+          "start": 89.174,
+          "end": 92.377
+        },
+        {
+          "index": 5,
+          "start": 92.377,
+          "end": 95.58
+        }
+      ]
+    }
+  ]
+}

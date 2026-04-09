@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/113.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 13.425,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 8.36
+        },
+        {
+          "index": 2,
+          "start": 8.36,
+          "end": 9.561
+        },
+        {
+          "index": 3,
+          "start": 9.641,
+          "end": 10.962
+        },
+        {
+          "index": 4,
+          "start": 11.142,
+          "end": 13.425
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 13.565,
+      "end": 17.929,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.565,
+          "end": 14.365
+        },
+        {
+          "index": 2,
+          "start": 14.466,
+          "end": 15.206
+        },
+        {
+          "index": 3,
+          "start": 15.607,
+          "end": 16.147
+        },
+        {
+          "index": 4,
+          "start": 16.347,
+          "end": 17.929
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 18.049,
+      "end": 23.875,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.049,
+          "end": 19.11
+        },
+        {
+          "index": 2,
+          "start": 19.19,
+          "end": 20.171
+        },
+        {
+          "index": 3,
+          "start": 20.171,
+          "end": 22.053
+        },
+        {
+          "index": 4,
+          "start": 22.053,
+          "end": 23.074
+        },
+        {
+          "index": 5,
+          "start": 23.174,
+          "end": 23.875
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 25.095,
+      "end": 33.684,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.095,
+          "end": 26.236
+        },
+        {
+          "index": 2,
+          "start": 26.236,
+          "end": 28.458
+        },
+        {
+          "index": 3,
+          "start": 28.458,
+          "end": 30.681
+        },
+        {
+          "index": 4,
+          "start": 30.681,
+          "end": 30.961
+        },
+        {
+          "index": 5,
+          "start": 30.981,
+          "end": 33.684
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 33.804,
+      "end": 39.61,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.804,
+          "end": 34.865
+        },
+        {
+          "index": 2,
+          "start": 35.025,
+          "end": 35.926
+        },
+        {
+          "index": 3,
+          "start": 36.066,
+          "end": 37.768
+        },
+        {
+          "index": 4,
+          "start": 37.868,
+          "end": 38.769
+        },
+        {
+          "index": 5,
+          "start": 38.929,
+          "end": 39.61
+        }
+      ]
+    }
+  ]
+}

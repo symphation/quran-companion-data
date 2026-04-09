@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server16.mp3quran.net/ayyoub2/Rewayat-Hafs-A-n-Assem/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.197,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.778
+        },
+        {
+          "index": 2,
+          "start": 1.778,
+          "end": 3.555
+        },
+        {
+          "index": 3,
+          "start": 3.555,
+          "end": 4.256
+        },
+        {
+          "index": 4,
+          "start": 4.356,
+          "end": 5.197
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.397,
+      "end": 7.199,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.397,
+          "end": 6.098
+        },
+        {
+          "index": 2,
+          "start": 6.178,
+          "end": 7.199
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 7.299,
+      "end": 9.261,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.299,
+          "end": 7.539
+        },
+        {
+          "index": 2,
+          "start": 7.539,
+          "end": 8.14
+        },
+        {
+          "index": 3,
+          "start": 8.14,
+          "end": 8.541
+        },
+        {
+          "index": 4,
+          "start": 8.621,
+          "end": 9.261
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 9.341,
+      "end": 12.285,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.341,
+          "end": 9.782
+        },
+        {
+          "index": 2,
+          "start": 9.782,
+          "end": 10.403
+        },
+        {
+          "index": 3,
+          "start": 10.403,
+          "end": 10.703
+        },
+        {
+          "index": 4,
+          "start": 10.703,
+          "end": 11.824
+        },
+        {
+          "index": 5,
+          "start": 11.824,
+          "end": 12.285
+        }
+      ]
+    }
+  ]
+}

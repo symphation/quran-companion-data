@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server6.mp3quran.net/lahoni/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.068,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 8.068
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.068,
+      "end": 13.218,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.068,
+          "end": 9.51
+        },
+        {
+          "index": 2,
+          "start": 9.51,
+          "end": 10.746
+        },
+        {
+          "index": 3,
+          "start": 10.746,
+          "end": 11.982
+        },
+        {
+          "index": 4,
+          "start": 11.982,
+          "end": 13.218
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 13.218,
+      "end": 27.429,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.218,
+          "end": 14.454
+        },
+        {
+          "index": 2,
+          "start": 14.454,
+          "end": 15.274
+        },
+        {
+          "index": 3,
+          "start": 15.274,
+          "end": 17.01
+        },
+        {
+          "index": 4,
+          "start": 17.01,
+          "end": 18.747
+        },
+        {
+          "index": 5,
+          "start": 18.747,
+          "end": 20.483
+        },
+        {
+          "index": 6,
+          "start": 20.483,
+          "end": 22.219
+        },
+        {
+          "index": 7,
+          "start": 22.219,
+          "end": 23.956
+        },
+        {
+          "index": 8,
+          "start": 23.956,
+          "end": 25.692
+        },
+        {
+          "index": 9,
+          "start": 25.692,
+          "end": 27.429
+        }
+      ]
+    }
+  ]
+}

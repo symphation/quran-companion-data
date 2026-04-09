@@ -1,0 +1,196 @@
+{
+  "audio_url": "https://server13.mp3quran.net/braak/094.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 3.438,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.918
+        },
+        {
+          "index": 2,
+          "start": 0.918,
+          "end": 1.837
+        },
+        {
+          "index": 3,
+          "start": 1.837,
+          "end": 2.178
+        },
+        {
+          "index": 4,
+          "start": 2.298,
+          "end": 3.438
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 3.438,
+      "end": 7.239,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.438,
+          "end": 4.798
+        },
+        {
+          "index": 2,
+          "start": 4.798,
+          "end": 6.099
+        },
+        {
+          "index": 3,
+          "start": 6.199,
+          "end": 7.239
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 7.499,
+      "end": 12.481,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.499,
+          "end": 9.64
+        },
+        {
+          "index": 2,
+          "start": 9.72,
+          "end": 11.28
+        },
+        {
+          "index": 3,
+          "start": 11.36,
+          "end": 12.481
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 12.601,
+      "end": 15.148,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.601,
+          "end": 13.701
+        },
+        {
+          "index": 2,
+          "start": 13.881,
+          "end": 14.201
+        },
+        {
+          "index": 3,
+          "start": 14.201,
+          "end": 15.148
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 15.148,
+      "end": 18.936,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.148,
+          "end": 16.095
+        },
+        {
+          "index": 2,
+          "start": 16.095,
+          "end": 17.042
+        },
+        {
+          "index": 3,
+          "start": 17.042,
+          "end": 17.989
+        },
+        {
+          "index": 4,
+          "start": 17.989,
+          "end": 18.936
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 18.936,
+      "end": 22.724,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.936,
+          "end": 19.883
+        },
+        {
+          "index": 2,
+          "start": 19.883,
+          "end": 20.83
+        },
+        {
+          "index": 3,
+          "start": 20.83,
+          "end": 21.777
+        },
+        {
+          "index": 4,
+          "start": 21.777,
+          "end": 22.724
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 22.724,
+      "end": 26.689,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.724,
+          "end": 23.444
+        },
+        {
+          "index": 2,
+          "start": 23.444,
+          "end": 25.066
+        },
+        {
+          "index": 3,
+          "start": 25.066,
+          "end": 26.689
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 26.689,
+      "end": 31.556,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.689,
+          "end": 28.311
+        },
+        {
+          "index": 2,
+          "start": 28.311,
+          "end": 29.934
+        },
+        {
+          "index": 3,
+          "start": 29.934,
+          "end": 31.556
+        }
+      ]
+    }
+  ]
+}

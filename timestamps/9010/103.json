@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server12.mp3quran.net/tblawi/Al-Mojawwad/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.553,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 9.553
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.553,
+      "end": 19.606,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.553,
+          "end": 11.394
+        },
+        {
+          "index": 2,
+          "start": 11.394,
+          "end": 14.132
+        },
+        {
+          "index": 3,
+          "start": 14.132,
+          "end": 16.869
+        },
+        {
+          "index": 4,
+          "start": 16.869,
+          "end": 19.606
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.606,
+      "end": 44.244,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.606,
+          "end": 22.344
+        },
+        {
+          "index": 2,
+          "start": 22.344,
+          "end": 25.082
+        },
+        {
+          "index": 3,
+          "start": 25.082,
+          "end": 27.819
+        },
+        {
+          "index": 4,
+          "start": 27.819,
+          "end": 30.557
+        },
+        {
+          "index": 5,
+          "start": 30.556,
+          "end": 33.294
+        },
+        {
+          "index": 6,
+          "start": 33.294,
+          "end": 36.032
+        },
+        {
+          "index": 7,
+          "start": 36.032,
+          "end": 38.769
+        },
+        {
+          "index": 8,
+          "start": 38.769,
+          "end": 41.506
+        },
+        {
+          "index": 9,
+          "start": 41.506,
+          "end": 44.244
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/097.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 13.963,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 5.59
+        },
+        {
+          "index": 2,
+          "start": 5.59,
+          "end": 11.181
+        },
+        {
+          "index": 3,
+          "start": 11.181,
+          "end": 11.521
+        },
+        {
+          "index": 4,
+          "start": 11.621,
+          "end": 12.462
+        },
+        {
+          "index": 5,
+          "start": 12.502,
+          "end": 13.963
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.063,
+      "end": 18.768,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.063,
+          "end": 15.425
+        },
+        {
+          "index": 2,
+          "start": 15.425,
+          "end": 16.726
+        },
+        {
+          "index": 3,
+          "start": 16.726,
+          "end": 17.086
+        },
+        {
+          "index": 4,
+          "start": 17.186,
+          "end": 18.007
+        },
+        {
+          "index": 5,
+          "start": 18.047,
+          "end": 18.768
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.737,
+      "end": 25.559,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.737,
+          "end": 20.517
+        },
+        {
+          "index": 2,
+          "start": 20.557,
+          "end": 21.417
+        },
+        {
+          "index": 3,
+          "start": 21.518,
+          "end": 22.258
+        },
+        {
+          "index": 4,
+          "start": 23.098,
+          "end": 23.538
+        },
+        {
+          "index": 5,
+          "start": 23.618,
+          "end": 24.138
+        },
+        {
+          "index": 6,
+          "start": 24.138,
+          "end": 25.559
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 25.559,
+      "end": 36.806,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.559,
+          "end": 26.539
+        },
+        {
+          "index": 2,
+          "start": 26.539,
+          "end": 28.67
+        },
+        {
+          "index": 3,
+          "start": 28.67,
+          "end": 30.8
+        },
+        {
+          "index": 4,
+          "start": 30.8,
+          "end": 31.66
+        },
+        {
+          "index": 5,
+          "start": 31.76,
+          "end": 32.601
+        },
+        {
+          "index": 6,
+          "start": 32.701,
+          "end": 33.721
+        },
+        {
+          "index": 7,
+          "start": 34.241,
+          "end": 35.021
+        },
+        {
+          "index": 8,
+          "start": 35.141,
+          "end": 35.821
+        },
+        {
+          "index": 9,
+          "start": 35.821,
+          "end": 36.806
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 36.806,
+      "end": 42.606,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.806,
+          "end": 37.792
+        },
+        {
+          "index": 2,
+          "start": 37.792,
+          "end": 38.777
+        },
+        {
+          "index": 3,
+          "start": 38.777,
+          "end": 39.762
+        },
+        {
+          "index": 4,
+          "start": 39.762,
+          "end": 40.743
+        },
+        {
+          "index": 5,
+          "start": 40.743,
+          "end": 42.606
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/001.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 7.702,
+      "end": 12.964,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.702,
+          "end": 8.162
+        },
+        {
+          "index": 2,
+          "start": 8.202,
+          "end": 8.943
+        },
+        {
+          "index": 3,
+          "start": 8.943,
+          "end": 10.183
+        },
+        {
+          "index": 4,
+          "start": 10.183,
+          "end": 12.964
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 13.084,
+      "end": 17.766,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.084,
+          "end": 13.964
+        },
+        {
+          "index": 2,
+          "start": 14.004,
+          "end": 14.905
+        },
+        {
+          "index": 3,
+          "start": 15.025,
+          "end": 15.545
+        },
+        {
+          "index": 4,
+          "start": 15.545,
+          "end": 17.766
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 17.766,
+      "end": 22.327,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.766,
+          "end": 19.987
+        },
+        {
+          "index": 2,
+          "start": 19.987,
+          "end": 22.327
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 22.327,
+      "end": 26.229,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.327,
+          "end": 23.228
+        },
+        {
+          "index": 2,
+          "start": 23.228,
+          "end": 23.848
+        },
+        {
+          "index": 3,
+          "start": 23.888,
+          "end": 26.229
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 26.229,
+      "end": 32.198,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.229,
+          "end": 27.721
+        },
+        {
+          "index": 2,
+          "start": 27.721,
+          "end": 29.214
+        },
+        {
+          "index": 3,
+          "start": 29.214,
+          "end": 30.706
+        },
+        {
+          "index": 4,
+          "start": 30.706,
+          "end": 32.198
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 32.198,
+      "end": 38.231,
+      "words": [
+        {
+          "index": 1,
+          "start": 32.198,
+          "end": 33.691
+        },
+        {
+          "index": 2,
+          "start": 33.691,
+          "end": 35.183
+        },
+        {
+          "index": 3,
+          "start": 35.183,
+          "end": 38.231
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 38.231,
+      "end": 52.741,
+      "words": [
+        {
+          "index": 1,
+          "start": 38.231,
+          "end": 39.173
+        },
+        {
+          "index": 2,
+          "start": 39.173,
+          "end": 40.075
+        },
+        {
+          "index": 3,
+          "start": 40.075,
+          "end": 41.238
+        },
+        {
+          "index": 4,
+          "start": 41.238,
+          "end": 43.222
+        },
+        {
+          "index": 5,
+          "start": 43.222,
+          "end": 43.964
+        },
+        {
+          "index": 6,
+          "start": 43.964,
+          "end": 45.167
+        },
+        {
+          "index": 7,
+          "start": 45.267,
+          "end": 46.23
+        },
+        {
+          "index": 8,
+          "start": 46.23,
+          "end": 49.486
+        },
+        {
+          "index": 9,
+          "start": 49.486,
+          "end": 52.741
+        }
+      ]
+    }
+  ]
+}

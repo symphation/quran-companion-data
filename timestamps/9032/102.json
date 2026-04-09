@@ -1,0 +1,201 @@
+{
+  "audio_url": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem/102.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.076,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.538
+        },
+        {
+          "index": 2,
+          "start": 3.538,
+          "end": 7.076
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.076,
+      "end": 10.738,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.076,
+          "end": 7.896
+        },
+        {
+          "index": 2,
+          "start": 8.016,
+          "end": 8.857
+        },
+        {
+          "index": 3,
+          "start": 8.917,
+          "end": 10.738
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.838,
+      "end": 15.301,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.838,
+          "end": 11.819
+        },
+        {
+          "index": 2,
+          "start": 11.999,
+          "end": 12.519
+        },
+        {
+          "index": 3,
+          "start": 12.719,
+          "end": 15.301
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.301,
+      "end": 21.425,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.301,
+          "end": 17.072
+        },
+        {
+          "index": 2,
+          "start": 17.072,
+          "end": 18.843
+        },
+        {
+          "index": 3,
+          "start": 18.843,
+          "end": 19.343
+        },
+        {
+          "index": 4,
+          "start": 19.504,
+          "end": 21.425
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 21.525,
+      "end": 27.749,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.525,
+          "end": 22.365
+        },
+        {
+          "index": 2,
+          "start": 22.465,
+          "end": 22.806
+        },
+        {
+          "index": 3,
+          "start": 22.926,
+          "end": 24.126
+        },
+        {
+          "index": 4,
+          "start": 24.126,
+          "end": 25.938
+        },
+        {
+          "index": 5,
+          "start": 25.938,
+          "end": 27.749
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 27.749,
+      "end": 31.072,
+      "words": [
+        {
+          "index": 1,
+          "start": 27.749,
+          "end": 29.731
+        },
+        {
+          "index": 2,
+          "start": 29.751,
+          "end": 31.072
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 31.513,
+      "end": 39.12,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.513,
+          "end": 33.054
+        },
+        {
+          "index": 2,
+          "start": 33.115,
+          "end": 35.177
+        },
+        {
+          "index": 3,
+          "start": 35.277,
+          "end": 35.797
+        },
+        {
+          "index": 4,
+          "start": 35.797,
+          "end": 39.12
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 39.12,
+      "end": 51.905,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.12,
+          "end": 40.562
+        },
+        {
+          "index": 2,
+          "start": 40.562,
+          "end": 43.398
+        },
+        {
+          "index": 3,
+          "start": 43.398,
+          "end": 46.234
+        },
+        {
+          "index": 4,
+          "start": 46.234,
+          "end": 49.069
+        },
+        {
+          "index": 5,
+          "start": 49.069,
+          "end": 51.905
+        }
+      ]
+    }
+  ]
+}

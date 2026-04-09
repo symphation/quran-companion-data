@@ -1,0 +1,233 @@
+{
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 4.6,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.69
+        },
+        {
+          "index": 2,
+          "start": 0.69,
+          "end": 1.86
+        },
+        {
+          "index": 3,
+          "start": 1.86,
+          "end": 2.81
+        },
+        {
+          "index": 4,
+          "start": 2.81,
+          "end": 4.535
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.6,
+      "end": 9.98,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.535,
+          "end": 5.655
+        },
+        {
+          "index": 2,
+          "start": 5.655,
+          "end": 6.365
+        },
+        {
+          "index": 3,
+          "start": 6.365,
+          "end": 7.485
+        },
+        {
+          "index": 4,
+          "start": 7.485,
+          "end": 9.84
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.98,
+      "end": 16.64,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.905,
+          "end": 10.815
+        },
+        {
+          "index": 2,
+          "start": 10.815,
+          "end": 12.315
+        },
+        {
+          "index": 3,
+          "start": 12.315,
+          "end": 14.795
+        },
+        {
+          "index": 4,
+          "start": 14.795,
+          "end": 16.48
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 16.64,
+      "end": 23.38,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.555,
+          "end": 17.525
+        },
+        {
+          "index": 2,
+          "start": 17.525,
+          "end": 21.355
+        },
+        {
+          "index": 3,
+          "start": 21.355,
+          "end": 21.645
+        },
+        {
+          "index": 4,
+          "start": 21.645,
+          "end": 23.22
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 23.38,
+      "end": 28.4,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.305,
+          "end": 25.295
+        },
+        {
+          "index": 2,
+          "start": 25.295,
+          "end": 26.425
+        },
+        {
+          "index": 3,
+          "start": 26.425,
+          "end": 26.615
+        },
+        {
+          "index": 4,
+          "start": 26.615,
+          "end": 28.25
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 28.4,
+      "end": 31.9,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.325,
+          "end": 29.025
+        },
+        {
+          "index": 2,
+          "start": 29.025,
+          "end": 29.965
+        },
+        {
+          "index": 3,
+          "start": 29.965,
+          "end": 31.75
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 31.9,
+      "end": 36.34,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.825,
+          "end": 32.925
+        },
+        {
+          "index": 2,
+          "start": 32.925,
+          "end": 34.035
+        },
+        {
+          "index": 3,
+          "start": 34.035,
+          "end": 34.375
+        },
+        {
+          "index": 4,
+          "start": 34.375,
+          "end": 36.14
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 36.34,
+      "end": 42.01,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.215,
+          "end": 38.065
+        },
+        {
+          "index": 2,
+          "start": 38.065,
+          "end": 39.505
+        },
+        {
+          "index": 3,
+          "start": 39.505,
+          "end": 41.8
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 42.01,
+      "end": 47.68,
+      "words": [
+        {
+          "index": 1,
+          "start": 41.925,
+          "end": 42.375
+        },
+        {
+          "index": 2,
+          "start": 42.375,
+          "end": 43.025
+        },
+        {
+          "index": 3,
+          "start": 43.025,
+          "end": 46.79
+        }
+      ]
+    }
+  ]
+}

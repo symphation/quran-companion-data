@@ -1,0 +1,167 @@
+{
+  "audio_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/109.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 14.255,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.752
+        },
+        {
+          "index": 2,
+          "start": 4.752,
+          "end": 9.503
+        },
+        {
+          "index": 3,
+          "start": 9.503,
+          "end": 14.255
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.255,
+      "end": 20.837,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.255,
+          "end": 16.316
+        },
+        {
+          "index": 2,
+          "start": 16.396,
+          "end": 17.336
+        },
+        {
+          "index": 3,
+          "start": 17.416,
+          "end": 17.776
+        },
+        {
+          "index": 4,
+          "start": 17.956,
+          "end": 20.837
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 21.714,
+      "end": 31.02,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.714,
+          "end": 23.715
+        },
+        {
+          "index": 2,
+          "start": 23.815,
+          "end": 25.557
+        },
+        {
+          "index": 3,
+          "start": 25.557,
+          "end": 27.138
+        },
+        {
+          "index": 4,
+          "start": 27.138,
+          "end": 29.299
+        },
+        {
+          "index": 5,
+          "start": 29.299,
+          "end": 31.02
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 31.02,
+      "end": 34.512,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.02,
+          "end": 33.482
+        },
+        {
+          "index": 2,
+          "start": 33.482,
+          "end": 33.732
+        },
+        {
+          "index": 3,
+          "start": 33.732,
+          "end": 33.982
+        },
+        {
+          "index": 4,
+          "start": 33.982,
+          "end": 34.022
+        },
+        {
+          "index": 5,
+          "start": 34.022,
+          "end": 34.512
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 34.512,
+      "end": 48.63,
+      "words": [
+        {
+          "index": 1,
+          "start": 34.512,
+          "end": 35.002
+        },
+        {
+          "index": 2,
+          "start": 35.002,
+          "end": 35.493
+        },
+        {
+          "index": 3,
+          "start": 35.493,
+          "end": 35.983
+        },
+        {
+          "index": 4,
+          "start": 35.983,
+          "end": 36.263
+        },
+        {
+          "index": 5,
+          "start": 36.263,
+          "end": 48.63
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 48.63,
+      "end": 49.012,
+      "words": [
+        {
+          "index": 1,
+          "start": 48.63,
+          "end": 48.791
+        },
+        {
+          "index": 4,
+          "start": 48.811,
+          "end": 49.012
+        }
+      ]
+    }
+  ]
+}

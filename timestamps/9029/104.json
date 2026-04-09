@@ -1,0 +1,186 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.394,
+      "end": 6.596,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.394,
+          "end": 3.814
+        },
+        {
+          "index": 2,
+          "start": 3.814,
+          "end": 4.741
+        },
+        {
+          "index": 3,
+          "start": 4.741,
+          "end": 5.669
+        },
+        {
+          "index": 4,
+          "start": 5.669,
+          "end": 6.596
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.596,
+      "end": 10.619,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.596,
+          "end": 7.357
+        },
+        {
+          "index": 2,
+          "start": 7.437,
+          "end": 7.857
+        },
+        {
+          "index": 3,
+          "start": 7.857,
+          "end": 9.198
+        },
+        {
+          "index": 4,
+          "start": 9.198,
+          "end": 10.619
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.679,
+      "end": 12.06,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.679,
+          "end": 11.2
+        },
+        {
+          "index": 2,
+          "start": 11.24,
+          "end": 12.06
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 12.1,
+      "end": 18.235,
+      "words": [
+        {
+          "index": 3,
+          "start": 12.1,
+          "end": 12.32
+        },
+        {
+          "index": 4,
+          "start": 12.32,
+          "end": 18.235
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 18.235,
+      "end": 26.333,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.235,
+          "end": 24.15
+        },
+        {
+          "index": 2,
+          "start": 24.15,
+          "end": 24.791
+        },
+        {
+          "index": 3,
+          "start": 24.831,
+          "end": 26.333
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 26.393,
+      "end": 29.918,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.393,
+          "end": 27.194
+        },
+        {
+          "index": 2,
+          "start": 27.194,
+          "end": 28.156
+        },
+        {
+          "index": 3,
+          "start": 28.156,
+          "end": 28.396
+        },
+        {
+          "index": 4,
+          "start": 28.396,
+          "end": 29.918
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 29.918,
+      "end": 33.864,
+      "words": [
+        {
+          "index": 1,
+          "start": 29.918,
+          "end": 31.14
+        },
+        {
+          "index": 2,
+          "start": 31.22,
+          "end": 31.981
+        },
+        {
+          "index": 3,
+          "start": 31.981,
+          "end": 33.864
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 33.864,
+      "end": 36.067,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.864,
+          "end": 34.104
+        },
+        {
+          "index": 2,
+          "start": 34.204,
+          "end": 34.805
+        },
+        {
+          "index": 3,
+          "start": 35.446,
+          "end": 36.067
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.12,
+      "end": 13.463,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.12,
+          "end": 8.42
+        },
+        {
+          "index": 2,
+          "start": 8.5,
+          "end": 9.32
+        },
+        {
+          "index": 3,
+          "start": 9.38,
+          "end": 10.221
+        },
+        {
+          "index": 4,
+          "start": 10.241,
+          "end": 13.463
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 15.384,
+      "end": 19.587,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.384,
+          "end": 16.145
+        },
+        {
+          "index": 2,
+          "start": 16.165,
+          "end": 19.587
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.587,
+      "end": 25.971,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.587,
+          "end": 22.088
+        },
+        {
+          "index": 2,
+          "start": 22.088,
+          "end": 25.971
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 28.107,
+      "end": 36.79,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.107,
+          "end": 28.987
+        },
+        {
+          "index": 2,
+          "start": 29.147,
+          "end": 29.708
+        },
+        {
+          "index": 3,
+          "start": 29.708,
+          "end": 31.028
+        },
+        {
+          "index": 4,
+          "start": 31.028,
+          "end": 36.79
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 36.81,
+      "end": 43.753,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.81,
+          "end": 37.531
+        },
+        {
+          "index": 2,
+          "start": 37.531,
+          "end": 38.891
+        },
+        {
+          "index": 3,
+          "start": 38.891,
+          "end": 39.131
+        },
+        {
+          "index": 4,
+          "start": 39.251,
+          "end": 40.112
+        },
+        {
+          "index": 5,
+          "start": 40.152,
+          "end": 43.753
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 45.794,
+      "end": 52.137,
+      "words": [
+        {
+          "index": 1,
+          "start": 45.794,
+          "end": 46.114
+        },
+        {
+          "index": 2,
+          "start": 46.154,
+          "end": 48.455
+        },
+        {
+          "index": 3,
+          "start": 48.535,
+          "end": 52.137
+        }
+      ]
+    }
+  ]
+}

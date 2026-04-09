@@ -1,0 +1,262 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/101.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 9.755,
+      "end": 11.896,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.755,
+          "end": 11.896
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.896,
+      "end": 16.118,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.896,
+          "end": 12.356
+        },
+        {
+          "index": 2,
+          "start": 12.356,
+          "end": 16.118
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.258,
+      "end": 21.46,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.258,
+          "end": 17.158
+        },
+        {
+          "index": 2,
+          "start": 17.158,
+          "end": 18.328
+        },
+        {
+          "index": 3,
+          "start": 18.328,
+          "end": 19.499
+        },
+        {
+          "index": 4,
+          "start": 19.499,
+          "end": 21.46
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 23.017,
+      "end": 32.966,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.017,
+          "end": 23.998
+        },
+        {
+          "index": 2,
+          "start": 24.098,
+          "end": 26.12
+        },
+        {
+          "index": 3,
+          "start": 26.14,
+          "end": 27.261
+        },
+        {
+          "index": 4,
+          "start": 27.401,
+          "end": 29.543
+        },
+        {
+          "index": 5,
+          "start": 29.543,
+          "end": 32.966
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 32.966,
+      "end": 42.314,
+      "words": [
+        {
+          "index": 1,
+          "start": 32.966,
+          "end": 34.567
+        },
+        {
+          "index": 2,
+          "start": 34.567,
+          "end": 37.149
+        },
+        {
+          "index": 3,
+          "start": 37.149,
+          "end": 39.732
+        },
+        {
+          "index": 4,
+          "start": 39.732,
+          "end": 42.314
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 42.314,
+      "end": 49.169,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.314,
+          "end": 44.256
+        },
+        {
+          "index": 2,
+          "start": 44.256,
+          "end": 45.894
+        },
+        {
+          "index": 3,
+          "start": 45.894,
+          "end": 47.531
+        },
+        {
+          "index": 4,
+          "start": 47.531,
+          "end": 49.169
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 49.169,
+      "end": 57.586,
+      "words": [
+        {
+          "index": 1,
+          "start": 49.169,
+          "end": 50.806
+        },
+        {
+          "index": 2,
+          "start": 50.806,
+          "end": 52.444
+        },
+        {
+          "index": 3,
+          "start": 52.444,
+          "end": 54.104
+        },
+        {
+          "index": 4,
+          "start": 54.385,
+          "end": 57.586
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 57.586,
+      "end": 65.549,
+      "words": [
+        {
+          "index": 1,
+          "start": 57.586,
+          "end": 59.867
+        },
+        {
+          "index": 2,
+          "start": 59.867,
+          "end": 60.447
+        },
+        {
+          "index": 3,
+          "start": 60.607,
+          "end": 61.948
+        },
+        {
+          "index": 4,
+          "start": 61.948,
+          "end": 65.549
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 65.549,
+      "end": 70.971,
+      "words": [
+        {
+          "index": 1,
+          "start": 65.549,
+          "end": 67.93
+        },
+        {
+          "index": 2,
+          "start": 67.93,
+          "end": 70.971
+        }
+      ]
+    },
+    {
+      "ayah": 10,
+      "start": 70.971,
+      "end": 77.47,
+      "words": [
+        {
+          "index": 1,
+          "start": 70.971,
+          "end": 71.932
+        },
+        {
+          "index": 2,
+          "start": 71.932,
+          "end": 73.778
+        },
+        {
+          "index": 3,
+          "start": 73.778,
+          "end": 75.624
+        },
+        {
+          "index": 4,
+          "start": 75.624,
+          "end": 77.47
+        }
+      ]
+    },
+    {
+      "ayah": 11,
+      "start": 77.47,
+      "end": 81.162,
+      "words": [
+        {
+          "index": 1,
+          "start": 77.47,
+          "end": 79.316
+        },
+        {
+          "index": 2,
+          "start": 79.316,
+          "end": 81.162
+        }
+      ]
+    }
+  ]
+}

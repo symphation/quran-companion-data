@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server11.mp3quran.net/mhsny/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 4.782,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.594
+        },
+        {
+          "index": 2,
+          "start": 1.594,
+          "end": 3.188
+        },
+        {
+          "index": 3,
+          "start": 3.188,
+          "end": 4.782
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.782,
+      "end": 9.564,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.782,
+          "end": 6.376
+        },
+        {
+          "index": 2,
+          "start": 6.376,
+          "end": 7.97
+        },
+        {
+          "index": 3,
+          "start": 7.97,
+          "end": 9.564
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.564,
+      "end": 12.408,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.564,
+          "end": 9.965
+        },
+        {
+          "index": 2,
+          "start": 9.965,
+          "end": 10.779
+        },
+        {
+          "index": 3,
+          "start": 10.779,
+          "end": 11.594
+        },
+        {
+          "index": 4,
+          "start": 11.594,
+          "end": 12.408
+        }
+      ]
+    }
+  ]
+}

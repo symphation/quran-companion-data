@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server6.mp3quran.net/akdr/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.079,
+      "end": 11.382,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.079,
+          "end": 8.379
+        },
+        {
+          "index": 2,
+          "start": 8.439,
+          "end": 8.76
+        },
+        {
+          "index": 3,
+          "start": 8.8,
+          "end": 9.56
+        },
+        {
+          "index": 4,
+          "start": 9.56,
+          "end": 11.382
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.382,
+      "end": 14.244,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.382,
+          "end": 12.262
+        },
+        {
+          "index": 2,
+          "start": 12.262,
+          "end": 14.244
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.244,
+      "end": 17.566,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.244,
+          "end": 14.544
+        },
+        {
+          "index": 2,
+          "start": 14.544,
+          "end": 15.304
+        },
+        {
+          "index": 3,
+          "start": 15.304,
+          "end": 15.845
+        },
+        {
+          "index": 4,
+          "start": 15.945,
+          "end": 17.566
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 17.746,
+      "end": 23.171,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.746,
+          "end": 18.307
+        },
+        {
+          "index": 2,
+          "start": 18.307,
+          "end": 19.107
+        },
+        {
+          "index": 3,
+          "start": 19.107,
+          "end": 19.647
+        },
+        {
+          "index": 4,
+          "start": 19.647,
+          "end": 21.409
+        },
+        {
+          "index": 5,
+          "start": 21.409,
+          "end": 23.171
+        }
+      ]
+    }
+  ]
+}

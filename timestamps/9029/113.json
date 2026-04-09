@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/113.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.977,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.835
+        },
+        {
+          "index": 2,
+          "start": 3.835,
+          "end": 4.616
+        },
+        {
+          "index": 3,
+          "start": 4.616,
+          "end": 5.256
+        },
+        {
+          "index": 4,
+          "start": 5.256,
+          "end": 5.977
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.017,
+      "end": 9.12,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.017,
+          "end": 6.998
+        },
+        {
+          "index": 2,
+          "start": 7.118,
+          "end": 7.538
+        },
+        {
+          "index": 3,
+          "start": 7.618,
+          "end": 7.979
+        },
+        {
+          "index": 4,
+          "start": 8.119,
+          "end": 9.12
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.22,
+      "end": 13.024,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.22,
+          "end": 10.001
+        },
+        {
+          "index": 2,
+          "start": 10.121,
+          "end": 10.481
+        },
+        {
+          "index": 3,
+          "start": 10.481,
+          "end": 11.522
+        },
+        {
+          "index": 4,
+          "start": 11.522,
+          "end": 12.043
+        },
+        {
+          "index": 5,
+          "start": 12.123,
+          "end": 13.024
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.124,
+      "end": 17.508,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.124,
+          "end": 13.905
+        },
+        {
+          "index": 2,
+          "start": 14.045,
+          "end": 14.465
+        },
+        {
+          "index": 3,
+          "start": 14.465,
+          "end": 16.687
+        },
+        {
+          "index": 4,
+          "start": 16.687,
+          "end": 16.807
+        },
+        {
+          "index": 5,
+          "start": 16.848,
+          "end": 17.508
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 17.548,
+      "end": 21.172,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.548,
+          "end": 18.469
+        },
+        {
+          "index": 2,
+          "start": 18.589,
+          "end": 18.99
+        },
+        {
+          "index": 3,
+          "start": 19.09,
+          "end": 19.911
+        },
+        {
+          "index": 4,
+          "start": 20.011,
+          "end": 20.611
+        },
+        {
+          "index": 5,
+          "start": 20.771,
+          "end": 21.172
+        }
+      ]
+    }
+  ]
+}

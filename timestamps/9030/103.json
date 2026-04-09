@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 10.136,
+      "end": 11.037,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.136,
+          "end": 11.037
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.117,
+      "end": 15.268,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.117,
+          "end": 11.697
+        },
+        {
+          "index": 2,
+          "start": 11.697,
+          "end": 13.658
+        },
+        {
+          "index": 3,
+          "start": 13.658,
+          "end": 14.159
+        },
+        {
+          "index": 4,
+          "start": 14.159,
+          "end": 15.268
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.268,
+      "end": 25.405,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.268,
+          "end": 16.377
+        },
+        {
+          "index": 2,
+          "start": 16.377,
+          "end": 17.486
+        },
+        {
+          "index": 3,
+          "start": 17.486,
+          "end": 18.596
+        },
+        {
+          "index": 4,
+          "start": 18.596,
+          "end": 19.705
+        },
+        {
+          "index": 5,
+          "start": 19.705,
+          "end": 20.814
+        },
+        {
+          "index": 6,
+          "start": 20.814,
+          "end": 21.923
+        },
+        {
+          "index": 7,
+          "start": 21.923,
+          "end": 23.024
+        },
+        {
+          "index": 8,
+          "start": 23.024,
+          "end": 24.544
+        },
+        {
+          "index": 9,
+          "start": 24.544,
+          "end": 25.405
+        }
+      ]
+    }
+  ]
+}

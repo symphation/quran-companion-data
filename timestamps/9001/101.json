@@ -1,0 +1,262 @@
+{
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.245
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 2.32,
+      "end": 4.62,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.235,
+          "end": 2.475
+        },
+        {
+          "index": 2,
+          "start": 2.475,
+          "end": 4.45
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 4.62,
+      "end": 10.21,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.535,
+          "end": 6.724
+        },
+        {
+          "index": 2,
+          "start": 6.725,
+          "end": 8.175
+        },
+        {
+          "index": 3,
+          "start": 8.175,
+          "end": 8.295
+        },
+        {
+          "index": 4,
+          "start": 8.295,
+          "end": 10.0
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 10.21,
+      "end": 17.99,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.085,
+          "end": 10.765
+        },
+        {
+          "index": 2,
+          "start": 10.765,
+          "end": 11.665
+        },
+        {
+          "index": 3,
+          "start": 11.665,
+          "end": 13.235
+        },
+        {
+          "index": 4,
+          "start": 13.235,
+          "end": 14.555
+        },
+        {
+          "index": 5,
+          "start": 14.555,
+          "end": 17.44
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 17.99,
+      "end": 25.59,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.555,
+          "end": 18.675
+        },
+        {
+          "index": 2,
+          "start": 18.675,
+          "end": 19.825
+        },
+        {
+          "index": 3,
+          "start": 19.825,
+          "end": 20.915
+        },
+        {
+          "index": 4,
+          "start": 20.915,
+          "end": 25.09
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 25.59,
+      "end": 31.31,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.525,
+          "end": 27.525
+        },
+        {
+          "index": 2,
+          "start": 27.525,
+          "end": 28.495
+        },
+        {
+          "index": 3,
+          "start": 28.495,
+          "end": 29.425
+        },
+        {
+          "index": 4,
+          "start": 29.425,
+          "end": 31.18
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 31.31,
+      "end": 35.18,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.245,
+          "end": 31.855
+        },
+        {
+          "index": 2,
+          "start": 31.855,
+          "end": 32.405
+        },
+        {
+          "index": 3,
+          "start": 32.405,
+          "end": 33.485
+        },
+        {
+          "index": 4,
+          "start": 33.485,
+          "end": 35.03
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 35.18,
+      "end": 40.25,
+      "words": [
+        {
+          "index": 1,
+          "start": 35.095,
+          "end": 36.995
+        },
+        {
+          "index": 2,
+          "start": 36.995,
+          "end": 37.365
+        },
+        {
+          "index": 3,
+          "start": 37.365,
+          "end": 38.255
+        },
+        {
+          "index": 4,
+          "start": 38.255,
+          "end": 40.04
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 40.25,
+      "end": 43.72,
+      "words": [
+        {
+          "index": 1,
+          "start": 40.125,
+          "end": 42.055
+        },
+        {
+          "index": 2,
+          "start": 42.055,
+          "end": 43.46
+        }
+      ]
+    },
+    {
+      "ayah": 10,
+      "start": 43.72,
+      "end": 48.21,
+      "words": [
+        {
+          "index": 1,
+          "start": 43.575,
+          "end": 45.575
+        },
+        {
+          "index": 2,
+          "start": 45.575,
+          "end": 46.635
+        },
+        {
+          "index": 3,
+          "start": 46.635,
+          "end": 47.055
+        },
+        {
+          "index": 4,
+          "start": 47.055,
+          "end": 47.99
+        }
+      ]
+    },
+    {
+      "ayah": 11,
+      "start": 48.21,
+      "end": 53.25,
+      "words": [
+        {
+          "index": 1,
+          "start": 48.135,
+          "end": 50.635
+        },
+        {
+          "index": 2,
+          "start": 50.635,
+          "end": 52.57
+        }
+      ]
+    }
+  ]
+}

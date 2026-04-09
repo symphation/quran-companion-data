@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/105.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 10.385,
+      "end": 23.789,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.385,
+          "end": 10.985
+        },
+        {
+          "index": 2,
+          "start": 10.985,
+          "end": 13.314
+        },
+        {
+          "index": 3,
+          "start": 13.314,
+          "end": 15.643
+        },
+        {
+          "index": 4,
+          "start": 15.643,
+          "end": 17.971
+        },
+        {
+          "index": 5,
+          "start": 17.971,
+          "end": 20.3
+        },
+        {
+          "index": 6,
+          "start": 20.3,
+          "end": 22.629
+        },
+        {
+          "index": 7,
+          "start": 22.629,
+          "end": 23.789
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 23.91,
+      "end": 28.891,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.91,
+          "end": 24.59
+        },
+        {
+          "index": 2,
+          "start": 24.69,
+          "end": 25.65
+        },
+        {
+          "index": 3,
+          "start": 25.79,
+          "end": 27.031
+        },
+        {
+          "index": 4,
+          "start": 27.151,
+          "end": 27.551
+        },
+        {
+          "index": 5,
+          "start": 27.691,
+          "end": 28.891
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 28.891,
+      "end": 40.057,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.891,
+          "end": 35.894
+        },
+        {
+          "index": 2,
+          "start": 35.894,
+          "end": 37.095
+        },
+        {
+          "index": 3,
+          "start": 37.275,
+          "end": 38.216
+        },
+        {
+          "index": 4,
+          "start": 38.336,
+          "end": 40.057
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 40.057,
+      "end": 42.318,
+      "words": [
+        {
+          "index": 1,
+          "start": 40.057,
+          "end": 40.657
+        },
+        {
+          "index": 2,
+          "start": 40.657,
+          "end": 41.338
+        },
+        {
+          "index": 3,
+          "start": 41.418,
+          "end": 41.878
+        },
+        {
+          "index": 4,
+          "start": 41.938,
+          "end": 42.318
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 42.318,
+      "end": 70.583,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.318,
+          "end": 51.74
+        },
+        {
+          "index": 2,
+          "start": 51.74,
+          "end": 61.161
+        },
+        {
+          "index": 3,
+          "start": 61.161,
+          "end": 70.583
+        }
+      ]
+    }
+  ]
+}

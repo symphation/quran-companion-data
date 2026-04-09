@@ -1,0 +1,179 @@
+{
+  "audio_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/107.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 16.273,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.068
+        },
+        {
+          "index": 2,
+          "start": 4.068,
+          "end": 8.136
+        },
+        {
+          "index": 3,
+          "start": 8.136,
+          "end": 12.205
+        },
+        {
+          "index": 4,
+          "start": 12.205,
+          "end": 16.273
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 16.273,
+      "end": 20.116,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.273,
+          "end": 17.253
+        },
+        {
+          "index": 2,
+          "start": 17.294,
+          "end": 18.314
+        },
+        {
+          "index": 3,
+          "start": 18.314,
+          "end": 19.215
+        },
+        {
+          "index": 4,
+          "start": 19.215,
+          "end": 20.116
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 20.116,
+      "end": 25.701,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.116,
+          "end": 20.656
+        },
+        {
+          "index": 2,
+          "start": 20.656,
+          "end": 21.717
+        },
+        {
+          "index": 3,
+          "start": 21.717,
+          "end": 22.098
+        },
+        {
+          "index": 4,
+          "start": 22.378,
+          "end": 23.178
+        },
+        {
+          "index": 5,
+          "start": 23.218,
+          "end": 25.701
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 25.701,
+      "end": 28.483,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.701,
+          "end": 26.661
+        },
+        {
+          "index": 2,
+          "start": 26.661,
+          "end": 28.483
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.523,
+      "end": 33.607,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.523,
+          "end": 29.564
+        },
+        {
+          "index": 2,
+          "start": 29.684,
+          "end": 30.044
+        },
+        {
+          "index": 3,
+          "start": 30.104,
+          "end": 31.005
+        },
+        {
+          "index": 4,
+          "start": 31.125,
+          "end": 32.386
+        },
+        {
+          "index": 5,
+          "start": 32.506,
+          "end": 33.607
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 33.667,
+      "end": 38.912,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.667,
+          "end": 34.688
+        },
+        {
+          "index": 2,
+          "start": 34.808,
+          "end": 35.148
+        },
+        {
+          "index": 3,
+          "start": 35.148,
+          "end": 38.912
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 38.912,
+      "end": 43.494,
+      "words": [
+        {
+          "index": 1,
+          "start": 38.912,
+          "end": 40.453
+        },
+        {
+          "index": 2,
+          "start": 40.453,
+          "end": 43.494
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server8.mp3quran.net/ra3ad/111.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.134,
+      "end": 10.4,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.134,
+          "end": 4.895
+        },
+        {
+          "index": 2,
+          "start": 4.895,
+          "end": 6.396
+        },
+        {
+          "index": 3,
+          "start": 6.396,
+          "end": 7.898
+        },
+        {
+          "index": 4,
+          "start": 7.898,
+          "end": 9.399
+        },
+        {
+          "index": 5,
+          "start": 9.399,
+          "end": 10.4
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.16,
+      "end": 16.985,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.16,
+          "end": 12.442
+        },
+        {
+          "index": 2,
+          "start": 12.442,
+          "end": 13.342
+        },
+        {
+          "index": 3,
+          "start": 13.342,
+          "end": 13.943
+        },
+        {
+          "index": 4,
+          "start": 13.943,
+          "end": 15.084
+        },
+        {
+          "index": 5,
+          "start": 15.084,
+          "end": 15.604
+        },
+        {
+          "index": 6,
+          "start": 15.744,
+          "end": 16.985
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.985,
+      "end": 21.726,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.985,
+          "end": 18.17
+        },
+        {
+          "index": 2,
+          "start": 18.17,
+          "end": 19.355
+        },
+        {
+          "index": 3,
+          "start": 19.355,
+          "end": 20.541
+        },
+        {
+          "index": 4,
+          "start": 20.541,
+          "end": 21.726
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 21.726,
+      "end": 26.135,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.726,
+          "end": 22.911
+        },
+        {
+          "index": 2,
+          "start": 22.911,
+          "end": 24.452
+        },
+        {
+          "index": 3,
+          "start": 24.452,
+          "end": 26.135
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 26.135,
+      "end": 32.0,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.135,
+          "end": 26.456
+        },
+        {
+          "index": 2,
+          "start": 26.556,
+          "end": 27.518
+        },
+        {
+          "index": 3,
+          "start": 27.699,
+          "end": 29.001
+        },
+        {
+          "index": 4,
+          "start": 29.122,
+          "end": 30.024
+        },
+        {
+          "index": 5,
+          "start": 30.024,
+          "end": 32.0
+        }
+      ]
+    }
+  ]
+}

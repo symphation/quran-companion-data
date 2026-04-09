@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 10.822,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.94
+        },
+        {
+          "index": 2,
+          "start": 4.94,
+          "end": 9.881
+        },
+        {
+          "index": 3,
+          "start": 9.881,
+          "end": 10.822
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.823,
+      "end": 15.427,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.823,
+          "end": 12.664
+        },
+        {
+          "index": 2,
+          "start": 12.724,
+          "end": 13.805
+        },
+        {
+          "index": 3,
+          "start": 13.805,
+          "end": 15.427
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.427,
+      "end": 20.193,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.427,
+          "end": 16.448
+        },
+        {
+          "index": 2,
+          "start": 16.448,
+          "end": 17.696
+        },
+        {
+          "index": 3,
+          "start": 17.696,
+          "end": 18.944
+        },
+        {
+          "index": 4,
+          "start": 18.944,
+          "end": 20.193
+        }
+      ]
+    }
+  ]
+}

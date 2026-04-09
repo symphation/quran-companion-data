@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 7.585,
+      "end": 15.056,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.585,
+          "end": 8.445
+        },
+        {
+          "index": 2,
+          "start": 8.645,
+          "end": 10.485
+        },
+        {
+          "index": 3,
+          "start": 10.565,
+          "end": 11.665
+        },
+        {
+          "index": 4,
+          "start": 11.745,
+          "end": 13.006
+        },
+        {
+          "index": 5,
+          "start": 13.006,
+          "end": 15.056
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 15.056,
+      "end": 26.267,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.056,
+          "end": 17.106
+        },
+        {
+          "index": 2,
+          "start": 17.106,
+          "end": 19.157
+        },
+        {
+          "index": 3,
+          "start": 19.157,
+          "end": 21.207
+        },
+        {
+          "index": 4,
+          "start": 21.207,
+          "end": 21.728
+        },
+        {
+          "index": 5,
+          "start": 21.888,
+          "end": 22.988
+        },
+        {
+          "index": 6,
+          "start": 23.008,
+          "end": 24.128
+        },
+        {
+          "index": 7,
+          "start": 24.128,
+          "end": 26.267
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 26.267,
+      "end": 41.064,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.267,
+          "end": 28.406
+        },
+        {
+          "index": 2,
+          "start": 28.406,
+          "end": 30.545
+        },
+        {
+          "index": 3,
+          "start": 30.545,
+          "end": 31.766
+        },
+        {
+          "index": 4,
+          "start": 31.766,
+          "end": 33.408
+        },
+        {
+          "index": 5,
+          "start": 33.408,
+          "end": 35.05
+        },
+        {
+          "index": 6,
+          "start": 35.05,
+          "end": 36.853
+        },
+        {
+          "index": 7,
+          "start": 36.853,
+          "end": 38.959
+        },
+        {
+          "index": 8,
+          "start": 38.959,
+          "end": 41.064
+        }
+      ]
+    }
+  ]
+}

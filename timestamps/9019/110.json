@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 7.514,
+      "end": 13.797,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.514,
+          "end": 8.055
+        },
+        {
+          "index": 2,
+          "start": 8.235,
+          "end": 10.376
+        },
+        {
+          "index": 3,
+          "start": 10.456,
+          "end": 11.116
+        },
+        {
+          "index": 4,
+          "start": 11.176,
+          "end": 12.156
+        },
+        {
+          "index": 5,
+          "start": 12.236,
+          "end": 13.797
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 13.797,
+      "end": 23.482,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.797,
+          "end": 15.338
+        },
+        {
+          "index": 2,
+          "start": 15.338,
+          "end": 16.878
+        },
+        {
+          "index": 3,
+          "start": 16.878,
+          "end": 18.419
+        },
+        {
+          "index": 4,
+          "start": 18.419,
+          "end": 18.839
+        },
+        {
+          "index": 5,
+          "start": 18.92,
+          "end": 19.8
+        },
+        {
+          "index": 6,
+          "start": 19.86,
+          "end": 20.62
+        },
+        {
+          "index": 7,
+          "start": 20.7,
+          "end": 23.482
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 23.582,
+      "end": 35.109,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.582,
+          "end": 24.762
+        },
+        {
+          "index": 2,
+          "start": 24.862,
+          "end": 25.803
+        },
+        {
+          "index": 3,
+          "start": 25.923,
+          "end": 26.923
+        },
+        {
+          "index": 4,
+          "start": 26.923,
+          "end": 28.182
+        },
+        {
+          "index": 5,
+          "start": 28.182,
+          "end": 29.44
+        },
+        {
+          "index": 6,
+          "start": 29.44,
+          "end": 31.482
+        },
+        {
+          "index": 7,
+          "start": 31.482,
+          "end": 33.295
+        },
+        {
+          "index": 8,
+          "start": 33.295,
+          "end": 35.109
+        }
+      ]
+    }
+  ]
+}

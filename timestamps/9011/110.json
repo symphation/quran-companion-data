@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server8.mp3quran.net/lhdan/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 3.005,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.217
+        },
+        {
+          "index": 2,
+          "start": 0.217,
+          "end": 0.434
+        },
+        {
+          "index": 3,
+          "start": 0.434,
+          "end": 0.651
+        },
+        {
+          "index": 4,
+          "start": 0.651,
+          "end": 1.312
+        },
+        {
+          "index": 5,
+          "start": 1.312,
+          "end": 3.005
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 3.005,
+      "end": 14.854,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.005,
+          "end": 4.697
+        },
+        {
+          "index": 2,
+          "start": 4.697,
+          "end": 6.39
+        },
+        {
+          "index": 3,
+          "start": 6.39,
+          "end": 8.083
+        },
+        {
+          "index": 4,
+          "start": 8.083,
+          "end": 9.775
+        },
+        {
+          "index": 5,
+          "start": 9.775,
+          "end": 11.468
+        },
+        {
+          "index": 6,
+          "start": 11.468,
+          "end": 13.161
+        },
+        {
+          "index": 7,
+          "start": 13.161,
+          "end": 14.854
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.854,
+      "end": 28.395,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.854,
+          "end": 16.546
+        },
+        {
+          "index": 2,
+          "start": 16.546,
+          "end": 18.239
+        },
+        {
+          "index": 3,
+          "start": 18.239,
+          "end": 19.932
+        },
+        {
+          "index": 4,
+          "start": 19.932,
+          "end": 21.624
+        },
+        {
+          "index": 5,
+          "start": 21.624,
+          "end": 23.317
+        },
+        {
+          "index": 6,
+          "start": 23.317,
+          "end": 25.01
+        },
+        {
+          "index": 7,
+          "start": 25.01,
+          "end": 26.702
+        },
+        {
+          "index": 8,
+          "start": 26.702,
+          "end": 28.395
+        }
+      ]
+    }
+  ]
+}

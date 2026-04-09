@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.736,
+      "end": 5.997,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.736,
+          "end": 5.997
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.097,
+      "end": 10.582,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.097,
+          "end": 7.078
+        },
+        {
+          "index": 2,
+          "start": 7.078,
+          "end": 8.246
+        },
+        {
+          "index": 3,
+          "start": 8.246,
+          "end": 9.414
+        },
+        {
+          "index": 4,
+          "start": 9.414,
+          "end": 10.582
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.582,
+      "end": 22.825,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.582,
+          "end": 11.043
+        },
+        {
+          "index": 2,
+          "start": 11.083,
+          "end": 12.024
+        },
+        {
+          "index": 3,
+          "start": 12.024,
+          "end": 13.175
+        },
+        {
+          "index": 4,
+          "start": 13.175,
+          "end": 14.326
+        },
+        {
+          "index": 5,
+          "start": 14.326,
+          "end": 15.477
+        },
+        {
+          "index": 6,
+          "start": 15.477,
+          "end": 16.628
+        },
+        {
+          "index": 7,
+          "start": 16.628,
+          "end": 17.649
+        },
+        {
+          "index": 8,
+          "start": 17.649,
+          "end": 20.237
+        },
+        {
+          "index": 9,
+          "start": 20.237,
+          "end": 22.825
+        }
+      ]
+    }
+  ]
+}

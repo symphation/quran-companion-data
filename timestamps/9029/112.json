@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.976,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.068
+        },
+        {
+          "index": 2,
+          "start": 2.068,
+          "end": 4.135
+        },
+        {
+          "index": 3,
+          "start": 4.135,
+          "end": 4.935
+        },
+        {
+          "index": 4,
+          "start": 5.016,
+          "end": 5.976
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.157,
+      "end": 7.978,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.157,
+          "end": 6.797
+        },
+        {
+          "index": 2,
+          "start": 6.857,
+          "end": 7.978
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 8.198,
+      "end": 10.04,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.198,
+          "end": 8.459
+        },
+        {
+          "index": 2,
+          "start": 8.459,
+          "end": 8.999
+        },
+        {
+          "index": 3,
+          "start": 8.999,
+          "end": 9.36
+        },
+        {
+          "index": 4,
+          "start": 9.42,
+          "end": 10.04
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 10.1,
+      "end": 12.883,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.1,
+          "end": 10.501
+        },
+        {
+          "index": 2,
+          "start": 10.501,
+          "end": 11.061
+        },
+        {
+          "index": 3,
+          "start": 11.061,
+          "end": 11.542
+        },
+        {
+          "index": 4,
+          "start": 11.542,
+          "end": 12.462
+        },
+        {
+          "index": 5,
+          "start": 12.462,
+          "end": 12.883
+        }
+      ]
+    }
+  ]
+}

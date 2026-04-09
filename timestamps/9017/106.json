@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 12.302,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 6.151
+        },
+        {
+          "index": 2,
+          "start": 6.151,
+          "end": 12.302
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 12.302,
+      "end": 23.557,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.302,
+          "end": 18.453
+        },
+        {
+          "index": 2,
+          "start": 18.453,
+          "end": 19.333
+        },
+        {
+          "index": 3,
+          "start": 19.374,
+          "end": 21.975
+        },
+        {
+          "index": 4,
+          "start": 22.096,
+          "end": 23.557
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 23.557,
+      "end": 35.641,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.557,
+          "end": 32.839
+        },
+        {
+          "index": 2,
+          "start": 32.839,
+          "end": 33.519
+        },
+        {
+          "index": 3,
+          "start": 33.519,
+          "end": 34.42
+        },
+        {
+          "index": 4,
+          "start": 34.42,
+          "end": 35.641
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 35.661,
+      "end": 51.55,
+      "words": [
+        {
+          "index": 1,
+          "start": 35.661,
+          "end": 36.142
+        },
+        {
+          "index": 2,
+          "start": 36.362,
+          "end": 37.003
+        },
+        {
+          "index": 3,
+          "start": 37.003,
+          "end": 41.365
+        },
+        {
+          "index": 4,
+          "start": 41.365,
+          "end": 45.727
+        },
+        {
+          "index": 5,
+          "start": 45.727,
+          "end": 50.089
+        },
+        {
+          "index": 6,
+          "start": 50.089,
+          "end": 50.529
+        },
+        {
+          "index": 7,
+          "start": 50.689,
+          "end": 51.55
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.49,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.944
+        },
+        {
+          "index": 2,
+          "start": 2.944,
+          "end": 5.889
+        },
+        {
+          "index": 3,
+          "start": 5.889,
+          "end": 6.429
+        },
+        {
+          "index": 4,
+          "start": 6.449,
+          "end": 8.49
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.59,
+      "end": 11.312,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.59,
+          "end": 9.15
+        },
+        {
+          "index": 2,
+          "start": 9.191,
+          "end": 11.312
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.312,
+      "end": 14.614,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.312,
+          "end": 12.212
+        },
+        {
+          "index": 2,
+          "start": 12.212,
+          "end": 14.614
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 14.714,
+      "end": 20.057,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.714,
+          "end": 15.534
+        },
+        {
+          "index": 2,
+          "start": 15.654,
+          "end": 16.135
+        },
+        {
+          "index": 3,
+          "start": 16.135,
+          "end": 18.096
+        },
+        {
+          "index": 4,
+          "start": 18.096,
+          "end": 20.057
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 20.057,
+      "end": 25.16,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.057,
+          "end": 20.757
+        },
+        {
+          "index": 2,
+          "start": 20.757,
+          "end": 21.818
+        },
+        {
+          "index": 3,
+          "start": 21.818,
+          "end": 22.038
+        },
+        {
+          "index": 4,
+          "start": 22.198,
+          "end": 22.799
+        },
+        {
+          "index": 5,
+          "start": 22.819,
+          "end": 25.16
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 25.26,
+      "end": 30.063,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.26,
+          "end": 25.54
+        },
+        {
+          "index": 2,
+          "start": 25.58,
+          "end": 27.321
+        },
+        {
+          "index": 3,
+          "start": 27.421,
+          "end": 30.063
+        }
+      ]
+    }
+  ]
+}

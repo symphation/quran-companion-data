@@ -1,0 +1,179 @@
+{
+  "audio_url": "https://server12.mp3quran.net/shah/107.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.338,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.456
+        },
+        {
+          "index": 2,
+          "start": 4.456,
+          "end": 5.096
+        },
+        {
+          "index": 3,
+          "start": 5.156,
+          "end": 5.997
+        },
+        {
+          "index": 4,
+          "start": 6.057,
+          "end": 7.338
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.399,
+      "end": 11.122,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.399,
+          "end": 8.219
+        },
+        {
+          "index": 2,
+          "start": 8.259,
+          "end": 8.98
+        },
+        {
+          "index": 3,
+          "start": 8.98,
+          "end": 10.051
+        },
+        {
+          "index": 4,
+          "start": 10.051,
+          "end": 11.122
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.122,
+      "end": 15.146,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.122,
+          "end": 11.563
+        },
+        {
+          "index": 2,
+          "start": 11.563,
+          "end": 12.364
+        },
+        {
+          "index": 3,
+          "start": 12.364,
+          "end": 12.724
+        },
+        {
+          "index": 4,
+          "start": 12.724,
+          "end": 13.565
+        },
+        {
+          "index": 5,
+          "start": 13.565,
+          "end": 15.146
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.206,
+      "end": 17.449,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.206,
+          "end": 15.927
+        },
+        {
+          "index": 2,
+          "start": 16.087,
+          "end": 17.449
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 17.449,
+      "end": 22.053,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.449,
+          "end": 18.11
+        },
+        {
+          "index": 2,
+          "start": 18.11,
+          "end": 18.77
+        },
+        {
+          "index": 3,
+          "start": 18.77,
+          "end": 19.431
+        },
+        {
+          "index": 4,
+          "start": 19.431,
+          "end": 20.472
+        },
+        {
+          "index": 5,
+          "start": 20.572,
+          "end": 22.053
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 22.053,
+      "end": 25.717,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.053,
+          "end": 22.804
+        },
+        {
+          "index": 2,
+          "start": 22.804,
+          "end": 23.555
+        },
+        {
+          "index": 3,
+          "start": 23.555,
+          "end": 25.717
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 25.717,
+      "end": 29.44,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.717,
+          "end": 27.578
+        },
+        {
+          "index": 2,
+          "start": 27.578,
+          "end": 29.44
+        }
+      ]
+    }
+  ]
+}

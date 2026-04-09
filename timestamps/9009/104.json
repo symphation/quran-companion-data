@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server13.mp3quran.net/braak/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.286,
+      "end": 4.329,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.286,
+          "end": 1.007
+        },
+        {
+          "index": 2,
+          "start": 1.007,
+          "end": 2.114
+        },
+        {
+          "index": 3,
+          "start": 2.114,
+          "end": 3.222
+        },
+        {
+          "index": 4,
+          "start": 3.222,
+          "end": 4.329
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.329,
+      "end": 8.953,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.329,
+          "end": 5.19
+        },
+        {
+          "index": 2,
+          "start": 5.39,
+          "end": 5.991
+        },
+        {
+          "index": 3,
+          "start": 5.991,
+          "end": 7.372
+        },
+        {
+          "index": 4,
+          "start": 7.372,
+          "end": 8.953
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 8.953,
+      "end": 14.398,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.953,
+          "end": 9.934
+        },
+        {
+          "index": 2,
+          "start": 9.934,
+          "end": 10.775
+        },
+        {
+          "index": 3,
+          "start": 10.875,
+          "end": 13.037
+        },
+        {
+          "index": 4,
+          "start": 13.117,
+          "end": 14.398
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 14.398,
+      "end": 19.782,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.398,
+          "end": 15.619
+        },
+        {
+          "index": 2,
+          "start": 15.619,
+          "end": 16.84
+        },
+        {
+          "index": 3,
+          "start": 16.84,
+          "end": 18.061
+        },
+        {
+          "index": 4,
+          "start": 18.061,
+          "end": 18.201
+        },
+        {
+          "index": 5,
+          "start": 18.201,
+          "end": 19.782
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 19.782,
+      "end": 24.188,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.782,
+          "end": 21.143
+        },
+        {
+          "index": 2,
+          "start": 21.143,
+          "end": 22.158
+        },
+        {
+          "index": 3,
+          "start": 22.158,
+          "end": 23.173
+        },
+        {
+          "index": 4,
+          "start": 23.173,
+          "end": 24.188
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 24.188,
+      "end": 27.234,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.188,
+          "end": 25.204
+        },
+        {
+          "index": 2,
+          "start": 25.204,
+          "end": 26.219
+        },
+        {
+          "index": 3,
+          "start": 26.219,
+          "end": 27.234
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 27.234,
+      "end": 31.177,
+      "words": [
+        {
+          "index": 1,
+          "start": 27.234,
+          "end": 28.015
+        },
+        {
+          "index": 2,
+          "start": 28.015,
+          "end": 29.069
+        },
+        {
+          "index": 3,
+          "start": 29.069,
+          "end": 30.123
+        },
+        {
+          "index": 4,
+          "start": 30.123,
+          "end": 31.177
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 31.177,
+      "end": 35.661,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.177,
+          "end": 32.699
+        },
+        {
+          "index": 2,
+          "start": 32.759,
+          "end": 33.639
+        },
+        {
+          "index": 3,
+          "start": 33.639,
+          "end": 35.661
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 35.661,
+      "end": 38.403,
+      "words": [
+        {
+          "index": 1,
+          "start": 35.661,
+          "end": 35.901
+        },
+        {
+          "index": 2,
+          "start": 36.021,
+          "end": 36.662
+        },
+        {
+          "index": 3,
+          "start": 37.603,
+          "end": 38.403
+        }
+      ]
+    }
+  ]
+}

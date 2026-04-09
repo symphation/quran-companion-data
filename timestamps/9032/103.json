@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.956,
+      "end": 5.217,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.956,
+          "end": 5.217
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.297,
+      "end": 10.04,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.297,
+          "end": 6.097
+        },
+        {
+          "index": 2,
+          "start": 6.097,
+          "end": 7.411
+        },
+        {
+          "index": 3,
+          "start": 7.411,
+          "end": 8.726
+        },
+        {
+          "index": 4,
+          "start": 8.726,
+          "end": 10.04
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.04,
+      "end": 22.544,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.04,
+          "end": 10.501
+        },
+        {
+          "index": 2,
+          "start": 10.521,
+          "end": 11.421
+        },
+        {
+          "index": 3,
+          "start": 11.421,
+          "end": 12.482
+        },
+        {
+          "index": 4,
+          "start": 12.482,
+          "end": 13.542
+        },
+        {
+          "index": 5,
+          "start": 13.542,
+          "end": 14.603
+        },
+        {
+          "index": 6,
+          "start": 14.603,
+          "end": 15.664
+        },
+        {
+          "index": 7,
+          "start": 15.664,
+          "end": 16.605
+        },
+        {
+          "index": 8,
+          "start": 16.605,
+          "end": 19.574
+        },
+        {
+          "index": 9,
+          "start": 19.574,
+          "end": 22.544
+        }
+      ]
+    }
+  ]
+}

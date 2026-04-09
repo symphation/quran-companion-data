@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 10.331,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 5.166
+        },
+        {
+          "index": 2,
+          "start": 5.166,
+          "end": 10.331
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 10.331,
+      "end": 21.539,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.331,
+          "end": 15.497
+        },
+        {
+          "index": 2,
+          "start": 15.497,
+          "end": 16.257
+        },
+        {
+          "index": 3,
+          "start": 16.277,
+          "end": 19.018
+        },
+        {
+          "index": 4,
+          "start": 19.078,
+          "end": 21.539
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 21.539,
+      "end": 25.201,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.539,
+          "end": 23.06
+        },
+        {
+          "index": 2,
+          "start": 23.06,
+          "end": 23.6
+        },
+        {
+          "index": 3,
+          "start": 23.6,
+          "end": 24.36
+        },
+        {
+          "index": 4,
+          "start": 24.36,
+          "end": 25.201
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 25.281,
+      "end": 35.867,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.281,
+          "end": 25.881
+        },
+        {
+          "index": 2,
+          "start": 25.881,
+          "end": 29.001
+        },
+        {
+          "index": 3,
+          "start": 29.001,
+          "end": 29.802
+        },
+        {
+          "index": 4,
+          "start": 29.942,
+          "end": 31.143
+        },
+        {
+          "index": 5,
+          "start": 31.143,
+          "end": 33.985
+        },
+        {
+          "index": 6,
+          "start": 33.985,
+          "end": 34.365
+        },
+        {
+          "index": 7,
+          "start": 34.466,
+          "end": 35.867
+        }
+      ]
+    }
+  ]
+}

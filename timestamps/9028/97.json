@@ -1,0 +1,190 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/097.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 14.674,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 5.626
+        },
+        {
+          "index": 2,
+          "start": 5.626,
+          "end": 11.253
+        },
+        {
+          "index": 3,
+          "start": 11.253,
+          "end": 11.493
+        },
+        {
+          "index": 4,
+          "start": 11.593,
+          "end": 12.313
+        },
+        {
+          "index": 5,
+          "start": 12.373,
+          "end": 14.674
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.794,
+      "end": 21.275,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.794,
+          "end": 17.574
+        },
+        {
+          "index": 2,
+          "start": 17.574,
+          "end": 18.334
+        },
+        {
+          "index": 3,
+          "start": 18.334,
+          "end": 19.094
+        },
+        {
+          "index": 4,
+          "start": 19.094,
+          "end": 19.835
+        },
+        {
+          "index": 5,
+          "start": 19.855,
+          "end": 21.275
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 21.395,
+      "end": 26.916,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.395,
+          "end": 22.135
+        },
+        {
+          "index": 2,
+          "start": 22.175,
+          "end": 23.835
+        },
+        {
+          "index": 3,
+          "start": 23.995,
+          "end": 25.396
+        },
+        {
+          "index": 4,
+          "start": 25.476,
+          "end": 25.796
+        },
+        {
+          "index": 5,
+          "start": 25.836,
+          "end": 26.416
+        },
+        {
+          "index": 6,
+          "start": 26.536,
+          "end": 26.916
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 28.525,
+      "end": 40.05,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.525,
+          "end": 29.385
+        },
+        {
+          "index": 2,
+          "start": 29.385,
+          "end": 32.627
+        },
+        {
+          "index": 3,
+          "start": 32.627,
+          "end": 33.467
+        },
+        {
+          "index": 4,
+          "start": 33.547,
+          "end": 34.168
+        },
+        {
+          "index": 5,
+          "start": 34.168,
+          "end": 35.008
+        },
+        {
+          "index": 6,
+          "start": 35.008,
+          "end": 36.348
+        },
+        {
+          "index": 7,
+          "start": 36.449,
+          "end": 37.649
+        },
+        {
+          "index": 8,
+          "start": 37.749,
+          "end": 38.209
+        },
+        {
+          "index": 9,
+          "start": 38.309,
+          "end": 40.05
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 40.05,
+      "end": 44.092,
+      "words": [
+        {
+          "index": 1,
+          "start": 40.05,
+          "end": 40.817
+        },
+        {
+          "index": 2,
+          "start": 40.817,
+          "end": 41.584
+        },
+        {
+          "index": 3,
+          "start": 41.584,
+          "end": 42.351
+        },
+        {
+          "index": 4,
+          "start": 42.351,
+          "end": 43.352
+        },
+        {
+          "index": 5,
+          "start": 43.392,
+          "end": 44.092
+        }
+      ]
+    }
+  ]
+}

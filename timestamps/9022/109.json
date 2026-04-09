@@ -1,0 +1,172 @@
+{
+  "audio_url": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/109.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 6.659,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.22
+        },
+        {
+          "index": 2,
+          "start": 2.22,
+          "end": 4.439
+        },
+        {
+          "index": 3,
+          "start": 4.439,
+          "end": 6.659
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.659,
+      "end": 19.644,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.659,
+          "end": 8.878
+        },
+        {
+          "index": 2,
+          "start": 8.878,
+          "end": 11.098
+        },
+        {
+          "index": 3,
+          "start": 11.098,
+          "end": 11.638
+        },
+        {
+          "index": 4,
+          "start": 11.638,
+          "end": 19.644
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.644,
+      "end": 24.362,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.644,
+          "end": 20.604
+        },
+        {
+          "index": 2,
+          "start": 20.684,
+          "end": 22.586
+        },
+        {
+          "index": 4,
+          "start": 22.806,
+          "end": 23.847
+        },
+        {
+          "index": 5,
+          "start": 23.847,
+          "end": 24.362
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 24.362,
+      "end": 32.71,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.362,
+          "end": 24.878
+        },
+        {
+          "index": 2,
+          "start": 24.878,
+          "end": 25.393
+        },
+        {
+          "index": 3,
+          "start": 25.393,
+          "end": 25.908
+        },
+        {
+          "index": 4,
+          "start": 25.908,
+          "end": 26.809
+        },
+        {
+          "index": 5,
+          "start": 26.809,
+          "end": 32.71
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 32.71,
+      "end": 42.378,
+      "words": [
+        {
+          "index": 1,
+          "start": 32.71,
+          "end": 33.69
+        },
+        {
+          "index": 2,
+          "start": 33.69,
+          "end": 34.12
+        },
+        {
+          "index": 3,
+          "start": 34.12,
+          "end": 34.551
+        },
+        {
+          "index": 4,
+          "start": 34.551,
+          "end": 35.451
+        },
+        {
+          "index": 5,
+          "start": 35.451,
+          "end": 42.378
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 42.378,
+      "end": 70.087,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.378,
+          "end": 49.305
+        },
+        {
+          "index": 2,
+          "start": 49.305,
+          "end": 56.232
+        },
+        {
+          "index": 3,
+          "start": 56.232,
+          "end": 63.159
+        },
+        {
+          "index": 4,
+          "start": 63.159,
+          "end": 70.087
+        }
+      ]
+    }
+  ]
+}

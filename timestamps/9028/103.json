@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.9,
+      "end": 6.764,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.9,
+          "end": 6.764
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.864,
+      "end": 11.814,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.864,
+          "end": 7.786
+        },
+        {
+          "index": 2,
+          "start": 7.786,
+          "end": 9.129
+        },
+        {
+          "index": 3,
+          "start": 9.129,
+          "end": 10.471
+        },
+        {
+          "index": 4,
+          "start": 10.471,
+          "end": 11.814
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.814,
+      "end": 20.431,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.814,
+          "end": 12.175
+        },
+        {
+          "index": 2,
+          "start": 12.215,
+          "end": 12.976
+        },
+        {
+          "index": 3,
+          "start": 12.976,
+          "end": 14.028
+        },
+        {
+          "index": 4,
+          "start": 14.028,
+          "end": 15.08
+        },
+        {
+          "index": 5,
+          "start": 15.08,
+          "end": 16.132
+        },
+        {
+          "index": 6,
+          "start": 16.132,
+          "end": 17.184
+        },
+        {
+          "index": 7,
+          "start": 17.184,
+          "end": 18.106
+        },
+        {
+          "index": 8,
+          "start": 18.106,
+          "end": 19.569
+        },
+        {
+          "index": 9,
+          "start": 19.569,
+          "end": 20.431
+        }
+      ]
+    }
+  ]
+}

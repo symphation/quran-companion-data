@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 23.481,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 7.827
+        },
+        {
+          "index": 2,
+          "start": 7.827,
+          "end": 15.654
+        },
+        {
+          "index": 3,
+          "start": 15.654,
+          "end": 23.481
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 23.481,
+      "end": 30.557,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.481,
+          "end": 24.422
+        },
+        {
+          "index": 2,
+          "start": 24.482,
+          "end": 25.703
+        },
+        {
+          "index": 3,
+          "start": 25.703,
+          "end": 30.557
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 30.557,
+      "end": 40.542,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.557,
+          "end": 31.539
+        },
+        {
+          "index": 2,
+          "start": 31.539,
+          "end": 34.54
+        },
+        {
+          "index": 3,
+          "start": 34.54,
+          "end": 37.541
+        },
+        {
+          "index": 4,
+          "start": 37.541,
+          "end": 40.542
+        }
+      ]
+    }
+  ]
+}

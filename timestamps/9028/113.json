@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/113.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.075,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.397
+        },
+        {
+          "index": 2,
+          "start": 3.397,
+          "end": 6.794
+        },
+        {
+          "index": 3,
+          "start": 6.794,
+          "end": 7.474
+        },
+        {
+          "index": 4,
+          "start": 7.494,
+          "end": 9.075
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.175,
+      "end": 13.436,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.175,
+          "end": 10.075
+        },
+        {
+          "index": 2,
+          "start": 10.235,
+          "end": 10.695
+        },
+        {
+          "index": 3,
+          "start": 10.775,
+          "end": 11.055
+        },
+        {
+          "index": 4,
+          "start": 11.216,
+          "end": 13.436
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 13.556,
+      "end": 18.879,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.556,
+          "end": 14.757
+        },
+        {
+          "index": 2,
+          "start": 14.897,
+          "end": 15.357
+        },
+        {
+          "index": 3,
+          "start": 15.357,
+          "end": 16.498
+        },
+        {
+          "index": 4,
+          "start": 16.498,
+          "end": 17.058
+        },
+        {
+          "index": 5,
+          "start": 17.158,
+          "end": 18.879
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 18.979,
+      "end": 25.081,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.979,
+          "end": 20.199
+        },
+        {
+          "index": 2,
+          "start": 20.359,
+          "end": 20.779
+        },
+        {
+          "index": 3,
+          "start": 20.779,
+          "end": 23.2
+        },
+        {
+          "index": 4,
+          "start": 23.2,
+          "end": 23.32
+        },
+        {
+          "index": 5,
+          "start": 23.34,
+          "end": 25.081
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 25.181,
+      "end": 29.223,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.181,
+          "end": 26.282
+        },
+        {
+          "index": 2,
+          "start": 26.422,
+          "end": 26.882
+        },
+        {
+          "index": 3,
+          "start": 27.022,
+          "end": 27.902
+        },
+        {
+          "index": 4,
+          "start": 27.982,
+          "end": 28.483
+        },
+        {
+          "index": 5,
+          "start": 28.663,
+          "end": 29.223
+        }
+      ]
+    }
+  ]
+}

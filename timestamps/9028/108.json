@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 2.632,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.877
+        },
+        {
+          "index": 2,
+          "start": 0.877,
+          "end": 1.754
+        },
+        {
+          "index": 3,
+          "start": 1.754,
+          "end": 2.632
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 2.632,
+      "end": 5.263,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.632,
+          "end": 3.509
+        },
+        {
+          "index": 2,
+          "start": 3.509,
+          "end": 4.386
+        },
+        {
+          "index": 3,
+          "start": 4.386,
+          "end": 5.263
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 5.263,
+      "end": 20.712,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.263,
+          "end": 8.79
+        },
+        {
+          "index": 2,
+          "start": 8.79,
+          "end": 12.764
+        },
+        {
+          "index": 3,
+          "start": 12.764,
+          "end": 16.738
+        },
+        {
+          "index": 4,
+          "start": 16.738,
+          "end": 20.712
+        }
+      ]
+    }
+  ]
+}

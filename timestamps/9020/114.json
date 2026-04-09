@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 14.56,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 5.199
+        },
+        {
+          "index": 2,
+          "start": 5.199,
+          "end": 10.398
+        },
+        {
+          "index": 3,
+          "start": 10.398,
+          "end": 11.479
+        },
+        {
+          "index": 4,
+          "start": 11.719,
+          "end": 14.56
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.68,
+      "end": 18.602,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.68,
+          "end": 14.88
+        },
+        {
+          "index": 2,
+          "start": 14.9,
+          "end": 18.602
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 18.602,
+      "end": 22.924,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.602,
+          "end": 19.142
+        },
+        {
+          "index": 2,
+          "start": 19.142,
+          "end": 22.924
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 23.084,
+      "end": 30.307,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.084,
+          "end": 24.045
+        },
+        {
+          "index": 2,
+          "start": 24.045,
+          "end": 26.132
+        },
+        {
+          "index": 3,
+          "start": 26.132,
+          "end": 28.22
+        },
+        {
+          "index": 4,
+          "start": 28.22,
+          "end": 30.307
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 30.307,
+      "end": 39.448,
+      "words": [
+        {
+          "index": 1,
+          "start": 30.307,
+          "end": 32.395
+        },
+        {
+          "index": 2,
+          "start": 32.395,
+          "end": 34.482
+        },
+        {
+          "index": 3,
+          "start": 34.482,
+          "end": 35.023
+        },
+        {
+          "index": 4,
+          "start": 35.203,
+          "end": 36.585
+        },
+        {
+          "index": 5,
+          "start": 36.625,
+          "end": 39.448
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 39.608,
+      "end": 51.775,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.608,
+          "end": 40.068
+        },
+        {
+          "index": 2,
+          "start": 40.129,
+          "end": 42.671
+        },
+        {
+          "index": 3,
+          "start": 42.671,
+          "end": 51.775
+        }
+      ]
+    }
+  ]
+}

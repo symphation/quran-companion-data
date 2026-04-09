@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.176,
+      "end": 8.025,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.176,
+          "end": 3.637
+        },
+        {
+          "index": 2,
+          "start": 3.838,
+          "end": 5.26
+        },
+        {
+          "index": 3,
+          "start": 5.38,
+          "end": 5.861
+        },
+        {
+          "index": 4,
+          "start": 5.921,
+          "end": 6.763
+        },
+        {
+          "index": 5,
+          "start": 6.823,
+          "end": 8.025
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.025,
+      "end": 15.698,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.025,
+          "end": 9.254
+        },
+        {
+          "index": 2,
+          "start": 9.254,
+          "end": 10.482
+        },
+        {
+          "index": 3,
+          "start": 10.482,
+          "end": 11.711
+        },
+        {
+          "index": 4,
+          "start": 11.711,
+          "end": 12.032
+        },
+        {
+          "index": 5,
+          "start": 12.152,
+          "end": 12.713
+        },
+        {
+          "index": 6,
+          "start": 12.753,
+          "end": 13.615
+        },
+        {
+          "index": 7,
+          "start": 13.695,
+          "end": 15.698
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.758,
+      "end": 24.189,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.758,
+          "end": 16.7
+        },
+        {
+          "index": 2,
+          "start": 16.78,
+          "end": 17.561
+        },
+        {
+          "index": 3,
+          "start": 17.642,
+          "end": 18.423
+        },
+        {
+          "index": 4,
+          "start": 18.423,
+          "end": 19.364
+        },
+        {
+          "index": 5,
+          "start": 19.364,
+          "end": 20.306
+        },
+        {
+          "index": 6,
+          "start": 20.306,
+          "end": 21.769
+        },
+        {
+          "index": 7,
+          "start": 21.769,
+          "end": 22.979
+        },
+        {
+          "index": 8,
+          "start": 22.979,
+          "end": 24.189
+        }
+      ]
+    }
+  ]
+}

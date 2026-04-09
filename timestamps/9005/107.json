@@ -1,0 +1,179 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/107.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 11.8,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 6.957
+        },
+        {
+          "index": 2,
+          "start": 6.957,
+          "end": 7.877
+        },
+        {
+          "index": 3,
+          "start": 7.977,
+          "end": 9.138
+        },
+        {
+          "index": 4,
+          "start": 9.218,
+          "end": 11.8
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 11.881,
+      "end": 17.545,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.881,
+          "end": 12.861
+        },
+        {
+          "index": 2,
+          "start": 12.921,
+          "end": 13.822
+        },
+        {
+          "index": 3,
+          "start": 13.822,
+          "end": 15.684
+        },
+        {
+          "index": 4,
+          "start": 15.684,
+          "end": 17.545
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 17.545,
+      "end": 23.07,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.545,
+          "end": 18.146
+        },
+        {
+          "index": 2,
+          "start": 18.146,
+          "end": 19.226
+        },
+        {
+          "index": 3,
+          "start": 19.226,
+          "end": 19.747
+        },
+        {
+          "index": 4,
+          "start": 19.747,
+          "end": 20.828
+        },
+        {
+          "index": 5,
+          "start": 20.828,
+          "end": 23.07
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 24.09,
+      "end": 28.371,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.09,
+          "end": 24.93
+        },
+        {
+          "index": 2,
+          "start": 25.13,
+          "end": 28.371
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.371,
+      "end": 34.693,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.371,
+          "end": 29.312
+        },
+        {
+          "index": 2,
+          "start": 29.312,
+          "end": 30.252
+        },
+        {
+          "index": 3,
+          "start": 30.252,
+          "end": 31.092
+        },
+        {
+          "index": 4,
+          "start": 31.232,
+          "end": 32.572
+        },
+        {
+          "index": 5,
+          "start": 32.572,
+          "end": 34.693
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 34.693,
+      "end": 41.055,
+      "words": [
+        {
+          "index": 1,
+          "start": 34.693,
+          "end": 36.814
+        },
+        {
+          "index": 2,
+          "start": 36.814,
+          "end": 38.934
+        },
+        {
+          "index": 3,
+          "start": 38.934,
+          "end": 41.055
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 41.055,
+      "end": 46.054,
+      "words": [
+        {
+          "index": 1,
+          "start": 41.055,
+          "end": 42.695
+        },
+        {
+          "index": 2,
+          "start": 42.695,
+          "end": 46.054
+        }
+      ]
+    }
+  ]
+}

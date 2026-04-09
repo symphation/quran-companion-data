@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server6.mp3quran.net/lahoni/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.78,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.26
+        },
+        {
+          "index": 2,
+          "start": 3.26,
+          "end": 6.52
+        },
+        {
+          "index": 3,
+          "start": 6.52,
+          "end": 9.78
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.78,
+      "end": 19.561,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.78,
+          "end": 13.041
+        },
+        {
+          "index": 2,
+          "start": 13.041,
+          "end": 16.301
+        },
+        {
+          "index": 3,
+          "start": 16.301,
+          "end": 19.561
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.561,
+      "end": 26.932,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.561,
+          "end": 21.001
+        },
+        {
+          "index": 2,
+          "start": 21.001,
+          "end": 22.978
+        },
+        {
+          "index": 3,
+          "start": 22.978,
+          "end": 24.955
+        },
+        {
+          "index": 4,
+          "start": 24.955,
+          "end": 26.932
+        }
+      ]
+    }
+  ]
+}

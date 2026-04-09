@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server6.mp3quran.net/earawi/113.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 2.093,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.523
+        },
+        {
+          "index": 2,
+          "start": 0.523,
+          "end": 1.046
+        },
+        {
+          "index": 3,
+          "start": 1.046,
+          "end": 1.57
+        },
+        {
+          "index": 4,
+          "start": 1.57,
+          "end": 2.093
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 2.093,
+      "end": 14.686,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.093,
+          "end": 2.313
+        },
+        {
+          "index": 2,
+          "start": 2.313,
+          "end": 8.169
+        },
+        {
+          "index": 3,
+          "start": 8.169,
+          "end": 14.025
+        },
+        {
+          "index": 4,
+          "start": 14.025,
+          "end": 14.686
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.746,
+      "end": 23.579,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.746,
+          "end": 15.787
+        },
+        {
+          "index": 2,
+          "start": 15.787,
+          "end": 18.184
+        },
+        {
+          "index": 3,
+          "start": 18.184,
+          "end": 20.582
+        },
+        {
+          "index": 4,
+          "start": 20.582,
+          "end": 22.979
+        },
+        {
+          "index": 5,
+          "start": 22.979,
+          "end": 23.579
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 23.639,
+      "end": 28.782,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.639,
+          "end": 24.64
+        },
+        {
+          "index": 2,
+          "start": 24.64,
+          "end": 26.191
+        },
+        {
+          "index": 3,
+          "start": 26.191,
+          "end": 27.742
+        },
+        {
+          "index": 4,
+          "start": 27.742,
+          "end": 27.882
+        },
+        {
+          "index": 5,
+          "start": 27.922,
+          "end": 28.782
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 28.843,
+      "end": 33.354,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.843,
+          "end": 29.923
+        },
+        {
+          "index": 2,
+          "start": 29.923,
+          "end": 30.664
+        },
+        {
+          "index": 3,
+          "start": 30.664,
+          "end": 31.524
+        },
+        {
+          "index": 4,
+          "start": 31.524,
+          "end": 32.439
+        },
+        {
+          "index": 5,
+          "start": 32.439,
+          "end": 33.354
+        }
+      ]
+    }
+  ]
+}

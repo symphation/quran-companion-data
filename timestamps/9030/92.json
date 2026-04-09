@@ -1,0 +1,507 @@
+{
+  "audio_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/092.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 12.655,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 11.274
+        },
+        {
+          "index": 2,
+          "start": 11.274,
+          "end": 11.755
+        },
+        {
+          "index": 3,
+          "start": 11.835,
+          "end": 12.655
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 12.735,
+      "end": 15.916,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.735,
+          "end": 14.175
+        },
+        {
+          "index": 2,
+          "start": 14.255,
+          "end": 14.736
+        },
+        {
+          "index": 3,
+          "start": 14.736,
+          "end": 15.916
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.916,
+      "end": 20.898,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.916,
+          "end": 16.396
+        },
+        {
+          "index": 2,
+          "start": 16.536,
+          "end": 17.237
+        },
+        {
+          "index": 3,
+          "start": 17.237,
+          "end": 19.068
+        },
+        {
+          "index": 4,
+          "start": 19.068,
+          "end": 20.898
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 20.898,
+      "end": 25.179,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.898,
+          "end": 21.918
+        },
+        {
+          "index": 2,
+          "start": 22.038,
+          "end": 23.059
+        },
+        {
+          "index": 3,
+          "start": 23.059,
+          "end": 25.179
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 25.179,
+      "end": 28.981,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.179,
+          "end": 26.52
+        },
+        {
+          "index": 2,
+          "start": 26.52,
+          "end": 27.34
+        },
+        {
+          "index": 3,
+          "start": 27.34,
+          "end": 28.161
+        },
+        {
+          "index": 4,
+          "start": 28.161,
+          "end": 28.981
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 28.981,
+      "end": 31.35,
+      "words": [
+        {
+          "index": 1,
+          "start": 28.981,
+          "end": 30.001
+        },
+        {
+          "index": 2,
+          "start": 30.001,
+          "end": 31.35
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 31.35,
+      "end": 34.049,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.35,
+          "end": 32.7
+        },
+        {
+          "index": 2,
+          "start": 32.7,
+          "end": 34.049
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 34.049,
+      "end": 39.447,
+      "words": [
+        {
+          "index": 1,
+          "start": 34.049,
+          "end": 35.399
+        },
+        {
+          "index": 2,
+          "start": 35.399,
+          "end": 36.748
+        },
+        {
+          "index": 3,
+          "start": 36.748,
+          "end": 38.098
+        },
+        {
+          "index": 4,
+          "start": 38.098,
+          "end": 39.447
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 39.447,
+      "end": 42.0,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.447,
+          "end": 40.388
+        },
+        {
+          "index": 2,
+          "start": 40.388,
+          "end": 42.0
+        }
+      ]
+    },
+    {
+      "ayah": 10,
+      "start": 42.0,
+      "end": 45.652,
+      "words": [
+        {
+          "index": 1,
+          "start": 42.0,
+          "end": 43.611
+        },
+        {
+          "index": 2,
+          "start": 43.611,
+          "end": 45.652
+        }
+      ]
+    },
+    {
+      "ayah": 11,
+      "start": 45.753,
+      "end": 52.419,
+      "words": [
+        {
+          "index": 1,
+          "start": 45.753,
+          "end": 46.273
+        },
+        {
+          "index": 2,
+          "start": 46.373,
+          "end": 47.174
+        },
+        {
+          "index": 3,
+          "start": 47.254,
+          "end": 47.694
+        },
+        {
+          "index": 4,
+          "start": 47.694,
+          "end": 50.036
+        },
+        {
+          "index": 5,
+          "start": 50.036,
+          "end": 50.517
+        },
+        {
+          "index": 6,
+          "start": 50.517,
+          "end": 52.419
+        }
+      ]
+    },
+    {
+      "ayah": 12,
+      "start": 52.419,
+      "end": 56.022,
+      "words": [
+        {
+          "index": 1,
+          "start": 52.419,
+          "end": 53.78
+        },
+        {
+          "index": 2,
+          "start": 53.92,
+          "end": 54.841
+        },
+        {
+          "index": 3,
+          "start": 54.841,
+          "end": 56.022
+        }
+      ]
+    },
+    {
+      "ayah": 13,
+      "start": 56.022,
+      "end": 62.461,
+      "words": [
+        {
+          "index": 1,
+          "start": 56.022,
+          "end": 57.163
+        },
+        {
+          "index": 2,
+          "start": 57.243,
+          "end": 57.803
+        },
+        {
+          "index": 3,
+          "start": 57.803,
+          "end": 60.132
+        },
+        {
+          "index": 4,
+          "start": 60.132,
+          "end": 62.461
+        }
+      ]
+    },
+    {
+      "ayah": 14,
+      "start": 62.461,
+      "end": 67.127,
+      "words": [
+        {
+          "index": 1,
+          "start": 62.461,
+          "end": 64.523
+        },
+        {
+          "index": 2,
+          "start": 64.604,
+          "end": 65.845
+        },
+        {
+          "index": 3,
+          "start": 65.845,
+          "end": 67.127
+        }
+      ]
+    },
+    {
+      "ayah": 15,
+      "start": 67.127,
+      "end": 71.992,
+      "words": [
+        {
+          "index": 1,
+          "start": 67.127,
+          "end": 67.467
+        },
+        {
+          "index": 2,
+          "start": 67.467,
+          "end": 70.811
+        },
+        {
+          "index": 3,
+          "start": 70.811,
+          "end": 71.291
+        },
+        {
+          "index": 4,
+          "start": 71.291,
+          "end": 71.992
+        }
+      ]
+    },
+    {
+      "ayah": 16,
+      "start": 71.992,
+      "end": 75.169,
+      "words": [
+        {
+          "index": 1,
+          "start": 71.992,
+          "end": 72.713
+        },
+        {
+          "index": 2,
+          "start": 72.833,
+          "end": 73.634
+        },
+        {
+          "index": 3,
+          "start": 73.634,
+          "end": 75.169
+        }
+      ]
+    },
+    {
+      "ayah": 17,
+      "start": 75.169,
+      "end": 78.239,
+      "words": [
+        {
+          "index": 1,
+          "start": 75.169,
+          "end": 76.704
+        },
+        {
+          "index": 2,
+          "start": 76.704,
+          "end": 78.239
+        }
+      ]
+    },
+    {
+      "ayah": 18,
+      "start": 78.239,
+      "end": 83.285,
+      "words": [
+        {
+          "index": 1,
+          "start": 78.239,
+          "end": 78.9
+        },
+        {
+          "index": 2,
+          "start": 78.9,
+          "end": 79.981
+        },
+        {
+          "index": 3,
+          "start": 79.981,
+          "end": 81.043
+        },
+        {
+          "index": 4,
+          "start": 81.043,
+          "end": 83.285
+        }
+      ]
+    },
+    {
+      "ayah": 19,
+      "start": 83.285,
+      "end": 90.894,
+      "words": [
+        {
+          "index": 1,
+          "start": 83.285,
+          "end": 83.785
+        },
+        {
+          "index": 2,
+          "start": 83.865,
+          "end": 84.806
+        },
+        {
+          "index": 3,
+          "start": 84.806,
+          "end": 86.626
+        },
+        {
+          "index": 4,
+          "start": 86.626,
+          "end": 86.906
+        },
+        {
+          "index": 5,
+          "start": 87.387,
+          "end": 88.927
+        },
+        {
+          "index": 6,
+          "start": 88.927,
+          "end": 90.894
+        }
+      ]
+    },
+    {
+      "ayah": 20,
+      "start": 90.894,
+      "end": 97.69,
+      "words": [
+        {
+          "index": 1,
+          "start": 90.894,
+          "end": 92.862
+        },
+        {
+          "index": 2,
+          "start": 92.862,
+          "end": 94.829
+        },
+        {
+          "index": 3,
+          "start": 94.829,
+          "end": 95.409
+        },
+        {
+          "index": 4,
+          "start": 95.489,
+          "end": 96.33
+        },
+        {
+          "index": 5,
+          "start": 96.33,
+          "end": 97.69
+        }
+      ]
+    },
+    {
+      "ayah": 21,
+      "start": 97.69,
+      "end": 99.691,
+      "words": [
+        {
+          "index": 1,
+          "start": 97.69,
+          "end": 98.81
+        },
+        {
+          "index": 2,
+          "start": 98.87,
+          "end": 99.691
+        }
+      ]
+    }
+  ]
+}

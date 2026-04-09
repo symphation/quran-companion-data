@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 1.343,
+      "end": 14.992,
+      "words": [
+        {
+          "index": 1,
+          "start": 1.343,
+          "end": 2.064
+        },
+        {
+          "index": 2,
+          "start": 2.064,
+          "end": 4.546
+        },
+        {
+          "index": 3,
+          "start": 4.546,
+          "end": 7.027
+        },
+        {
+          "index": 4,
+          "start": 7.027,
+          "end": 8.328
+        },
+        {
+          "index": 5,
+          "start": 8.328,
+          "end": 14.992
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.992,
+      "end": 32.285,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.992,
+          "end": 15.772
+        },
+        {
+          "index": 2,
+          "start": 15.772,
+          "end": 18.764
+        },
+        {
+          "index": 3,
+          "start": 18.764,
+          "end": 21.756
+        },
+        {
+          "index": 4,
+          "start": 21.756,
+          "end": 22.657
+        },
+        {
+          "index": 5,
+          "start": 22.657,
+          "end": 25.866
+        },
+        {
+          "index": 6,
+          "start": 25.866,
+          "end": 29.076
+        },
+        {
+          "index": 7,
+          "start": 29.076,
+          "end": 32.285
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 32.285,
+      "end": 62.093,
+      "words": [
+        {
+          "index": 1,
+          "start": 32.285,
+          "end": 35.495
+        },
+        {
+          "index": 2,
+          "start": 35.495,
+          "end": 38.704
+        },
+        {
+          "index": 3,
+          "start": 38.704,
+          "end": 40.466
+        },
+        {
+          "index": 4,
+          "start": 40.466,
+          "end": 43.929
+        },
+        {
+          "index": 5,
+          "start": 43.929,
+          "end": 47.392
+        },
+        {
+          "index": 6,
+          "start": 47.392,
+          "end": 51.356
+        },
+        {
+          "index": 7,
+          "start": 51.356,
+          "end": 56.725
+        },
+        {
+          "index": 8,
+          "start": 56.725,
+          "end": 62.093
+        }
+      ]
+    }
+  ]
+}

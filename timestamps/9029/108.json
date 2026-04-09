@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server9.mp3quran.net/alzain/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.302,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.45
+        },
+        {
+          "index": 2,
+          "start": 3.45,
+          "end": 6.9
+        },
+        {
+          "index": 3,
+          "start": 6.9,
+          "end": 8.302
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.302,
+      "end": 10.665,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.302,
+          "end": 9.143
+        },
+        {
+          "index": 2,
+          "start": 9.143,
+          "end": 9.924
+        },
+        {
+          "index": 3,
+          "start": 9.924,
+          "end": 10.665
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.665,
+      "end": 13.869,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.665,
+          "end": 11.566
+        },
+        {
+          "index": 2,
+          "start": 11.686,
+          "end": 12.627
+        },
+        {
+          "index": 3,
+          "start": 12.707,
+          "end": 12.947
+        },
+        {
+          "index": 4,
+          "start": 12.987,
+          "end": 13.869
+        }
+      ]
+    }
+  ]
+}

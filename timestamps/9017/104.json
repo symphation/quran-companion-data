@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.408,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.102
+        },
+        {
+          "index": 2,
+          "start": 2.102,
+          "end": 4.204
+        },
+        {
+          "index": 3,
+          "start": 4.204,
+          "end": 6.306
+        },
+        {
+          "index": 4,
+          "start": 6.306,
+          "end": 8.408
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.408,
+      "end": 9.589,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.408,
+          "end": 8.708
+        },
+        {
+          "index": 2,
+          "start": 8.768,
+          "end": 8.909
+        },
+        {
+          "index": 3,
+          "start": 8.909,
+          "end": 9.069
+        },
+        {
+          "index": 4,
+          "start": 9.069,
+          "end": 9.589
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 25.175,
+      "end": 26.696,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.175,
+          "end": 25.295
+        },
+        {
+          "index": 2,
+          "start": 25.355,
+          "end": 25.575
+        },
+        {
+          "index": 3,
+          "start": 25.575,
+          "end": 26.336
+        },
+        {
+          "index": 4,
+          "start": 26.336,
+          "end": 26.696
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 26.776,
+      "end": 29.478,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.776,
+          "end": 27.237
+        },
+        {
+          "index": 2,
+          "start": 27.237,
+          "end": 28.167
+        },
+        {
+          "index": 3,
+          "start": 28.167,
+          "end": 29.098
+        },
+        {
+          "index": 4,
+          "start": 29.098,
+          "end": 29.258
+        },
+        {
+          "index": 5,
+          "start": 29.278,
+          "end": 29.478
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 54.499,
+      "end": 63.4,
+      "words": [
+        {
+          "index": 1,
+          "start": 54.499,
+          "end": 56.48
+        },
+        {
+          "index": 2,
+          "start": 56.48,
+          "end": 58.786
+        },
+        {
+          "index": 3,
+          "start": 58.786,
+          "end": 61.093
+        },
+        {
+          "index": 4,
+          "start": 61.093,
+          "end": 63.4
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 63.4,
+      "end": 72.089,
+      "words": [
+        {
+          "index": 1,
+          "start": 63.4,
+          "end": 65.706
+        },
+        {
+          "index": 2,
+          "start": 65.706,
+          "end": 66.426
+        },
+        {
+          "index": 3,
+          "start": 66.426,
+          "end": 72.089
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 72.089,
+      "end": 82.417,
+      "words": [
+        {
+          "index": 1,
+          "start": 72.089,
+          "end": 73.41
+        },
+        {
+          "index": 2,
+          "start": 73.41,
+          "end": 75.051
+        },
+        {
+          "index": 3,
+          "start": 75.051,
+          "end": 75.491
+        },
+        {
+          "index": 4,
+          "start": 75.491,
+          "end": 82.417
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 82.417,
+      "end": 87.82,
+      "words": [
+        {
+          "index": 1,
+          "start": 82.417,
+          "end": 84.118
+        },
+        {
+          "index": 2,
+          "start": 84.318,
+          "end": 86.559
+        },
+        {
+          "index": 3,
+          "start": 86.559,
+          "end": 87.82
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 87.82,
+      "end": 90.501,
+      "words": [
+        {
+          "index": 1,
+          "start": 87.82,
+          "end": 87.86
+        },
+        {
+          "index": 2,
+          "start": 87.98,
+          "end": 89.281
+        },
+        {
+          "index": 3,
+          "start": 89.361,
+          "end": 90.501
+        }
+      ]
+    }
+  ]
+}

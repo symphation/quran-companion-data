@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server8.mp3quran.net/ra3ad/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.315,
+      "end": 5.836,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.315,
+          "end": 5.836
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.977,
+      "end": 10.361,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.977,
+          "end": 7.018
+        },
+        {
+          "index": 2,
+          "start": 7.018,
+          "end": 8.639
+        },
+        {
+          "index": 3,
+          "start": 8.639,
+          "end": 9.2
+        },
+        {
+          "index": 4,
+          "start": 9.3,
+          "end": 10.361
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.461,
+      "end": 20.506,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.461,
+          "end": 10.941
+        },
+        {
+          "index": 2,
+          "start": 10.961,
+          "end": 11.902
+        },
+        {
+          "index": 3,
+          "start": 11.902,
+          "end": 13.028
+        },
+        {
+          "index": 4,
+          "start": 13.028,
+          "end": 14.154
+        },
+        {
+          "index": 5,
+          "start": 14.154,
+          "end": 15.28
+        },
+        {
+          "index": 6,
+          "start": 15.28,
+          "end": 16.406
+        },
+        {
+          "index": 7,
+          "start": 16.406,
+          "end": 17.367
+        },
+        {
+          "index": 8,
+          "start": 17.367,
+          "end": 18.937
+        },
+        {
+          "index": 9,
+          "start": 18.937,
+          "end": 20.506
+        }
+      ]
+    }
+  ]
+}

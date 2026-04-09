@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server6.mp3quran.net/earawi/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 10.281,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 5.141
+        },
+        {
+          "index": 2,
+          "start": 5.141,
+          "end": 10.281
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 10.281,
+      "end": 22.326,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.281,
+          "end": 15.422
+        },
+        {
+          "index": 2,
+          "start": 15.422,
+          "end": 16.182
+        },
+        {
+          "index": 3,
+          "start": 16.222,
+          "end": 19.324
+        },
+        {
+          "index": 4,
+          "start": 19.364,
+          "end": 22.326
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 22.326,
+      "end": 25.809,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.326,
+          "end": 23.808
+        },
+        {
+          "index": 2,
+          "start": 23.808,
+          "end": 24.288
+        },
+        {
+          "index": 3,
+          "start": 24.288,
+          "end": 25.048
+        },
+        {
+          "index": 4,
+          "start": 25.048,
+          "end": 25.809
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 25.849,
+      "end": 38.337,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.849,
+          "end": 26.429
+        },
+        {
+          "index": 2,
+          "start": 28.501,
+          "end": 30.224
+        },
+        {
+          "index": 3,
+          "start": 30.324,
+          "end": 31.226
+        },
+        {
+          "index": 4,
+          "start": 31.406,
+          "end": 32.708
+        },
+        {
+          "index": 5,
+          "start": 32.708,
+          "end": 36.634
+        },
+        {
+          "index": 6,
+          "start": 36.634,
+          "end": 36.915
+        },
+        {
+          "index": 7,
+          "start": 37.095,
+          "end": 38.337
+        }
+      ]
+    }
+  ]
+}

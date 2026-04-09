@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.39,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.83
+        },
+        {
+          "index": 2,
+          "start": 0.83,
+          "end": 3.27
+        },
+        {
+          "index": 3,
+          "start": 3.27,
+          "end": 3.91
+        },
+        {
+          "index": 4,
+          "start": 3.91,
+          "end": 5.62
+        },
+        {
+          "index": 5,
+          "start": 5.62,
+          "end": 6.805
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.39,
+      "end": 14.55,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.805,
+          "end": 9.185
+        },
+        {
+          "index": 2,
+          "start": 9.185,
+          "end": 9.845
+        },
+        {
+          "index": 3,
+          "start": 9.845,
+          "end": 10.665
+        },
+        {
+          "index": 4,
+          "start": 10.665,
+          "end": 11.815
+        },
+        {
+          "index": 5,
+          "start": 11.815,
+          "end": 12.255
+        },
+        {
+          "index": 6,
+          "start": 12.255,
+          "end": 13.11
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.55,
+      "end": 19.72,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.695,
+          "end": 14.815
+        },
+        {
+          "index": 2,
+          "start": 14.815,
+          "end": 16.455
+        },
+        {
+          "index": 3,
+          "start": 16.455,
+          "end": 17.305
+        },
+        {
+          "index": 4,
+          "start": 17.305,
+          "end": 18.58
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 19.72,
+      "end": 25.31,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.435,
+          "end": 20.955
+        },
+        {
+          "index": 2,
+          "start": 20.955,
+          "end": 23.315
+        },
+        {
+          "index": 3,
+          "start": 23.315,
+          "end": 24.24
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 25.31,
+      "end": 31.76,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.525,
+          "end": 24.995
+        },
+        {
+          "index": 2,
+          "start": 24.995,
+          "end": 26.055
+        },
+        {
+          "index": 3,
+          "start": 26.055,
+          "end": 27.635
+        },
+        {
+          "index": 4,
+          "start": 27.635,
+          "end": 28.195
+        },
+        {
+          "index": 5,
+          "start": 28.195,
+          "end": 30.81
+        }
+      ]
+    }
+  ]
+}

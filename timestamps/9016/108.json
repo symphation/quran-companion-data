@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server8.mp3quran.net/jbrl/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.046,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.822
+        },
+        {
+          "index": 2,
+          "start": 3.822,
+          "end": 7.645
+        },
+        {
+          "index": 3,
+          "start": 7.645,
+          "end": 9.046
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.046,
+      "end": 12.287,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.046,
+          "end": 9.986
+        },
+        {
+          "index": 2,
+          "start": 9.986,
+          "end": 10.987
+        },
+        {
+          "index": 3,
+          "start": 10.987,
+          "end": 12.287
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.287,
+      "end": 15.429,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.287,
+          "end": 13.128
+        },
+        {
+          "index": 2,
+          "start": 13.248,
+          "end": 14.248
+        },
+        {
+          "index": 3,
+          "start": 14.348,
+          "end": 14.668
+        },
+        {
+          "index": 4,
+          "start": 14.709,
+          "end": 15.429
+        }
+      ]
+    }
+  ]
+}

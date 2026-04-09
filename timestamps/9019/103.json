@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 7.017,
+      "end": 8.879,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.017,
+          "end": 8.879
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.019,
+      "end": 14.944,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.019,
+          "end": 10.32
+        },
+        {
+          "index": 2,
+          "start": 10.32,
+          "end": 12.702
+        },
+        {
+          "index": 3,
+          "start": 12.702,
+          "end": 13.343
+        },
+        {
+          "index": 4,
+          "start": 13.343,
+          "end": 14.944
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.944,
+      "end": 27.037,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.944,
+          "end": 15.445
+        },
+        {
+          "index": 2,
+          "start": 15.485,
+          "end": 16.566
+        },
+        {
+          "index": 3,
+          "start": 16.566,
+          "end": 17.892
+        },
+        {
+          "index": 4,
+          "start": 17.892,
+          "end": 19.218
+        },
+        {
+          "index": 5,
+          "start": 19.218,
+          "end": 20.544
+        },
+        {
+          "index": 6,
+          "start": 20.544,
+          "end": 21.87
+        },
+        {
+          "index": 7,
+          "start": 21.87,
+          "end": 23.011
+        },
+        {
+          "index": 8,
+          "start": 23.011,
+          "end": 25.024
+        },
+        {
+          "index": 9,
+          "start": 25.024,
+          "end": 27.037
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server8.mp3quran.net/3zazi/105.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 26.525,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.411
+        },
+        {
+          "index": 2,
+          "start": 4.411,
+          "end": 8.822
+        },
+        {
+          "index": 3,
+          "start": 8.822,
+          "end": 13.233
+        },
+        {
+          "index": 4,
+          "start": 13.233,
+          "end": 13.894
+        },
+        {
+          "index": 5,
+          "start": 13.994,
+          "end": 14.915
+        },
+        {
+          "index": 6,
+          "start": 14.915,
+          "end": 25.504
+        },
+        {
+          "index": 7,
+          "start": 25.504,
+          "end": 26.525
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 27.175,
+      "end": 39.964,
+      "words": [
+        {
+          "index": 1,
+          "start": 27.175,
+          "end": 27.835
+        },
+        {
+          "index": 2,
+          "start": 27.916,
+          "end": 29.016
+        },
+        {
+          "index": 3,
+          "start": 29.136,
+          "end": 30.477
+        },
+        {
+          "index": 4,
+          "start": 30.597,
+          "end": 37.862
+        },
+        {
+          "index": 5,
+          "start": 38.002,
+          "end": 39.964
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 40.044,
+      "end": 46.228,
+      "words": [
+        {
+          "index": 1,
+          "start": 40.044,
+          "end": 41.104
+        },
+        {
+          "index": 2,
+          "start": 41.225,
+          "end": 42.445
+        },
+        {
+          "index": 3,
+          "start": 42.585,
+          "end": 43.486
+        },
+        {
+          "index": 4,
+          "start": 43.606,
+          "end": 46.228
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 46.228,
+      "end": 68.476,
+      "words": [
+        {
+          "index": 1,
+          "start": 46.228,
+          "end": 63.01
+        },
+        {
+          "index": 2,
+          "start": 63.01,
+          "end": 65.413
+        },
+        {
+          "index": 3,
+          "start": 65.513,
+          "end": 66.454
+        },
+        {
+          "index": 4,
+          "start": 66.594,
+          "end": 68.476
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 68.476,
+      "end": 80.039,
+      "words": [
+        {
+          "index": 1,
+          "start": 68.476,
+          "end": 72.33
+        },
+        {
+          "index": 2,
+          "start": 72.33,
+          "end": 76.185
+        },
+        {
+          "index": 3,
+          "start": 76.185,
+          "end": 80.039
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "audio_url": "https://server11.mp3quran.net/mhsny/097.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.794,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.186
+        },
+        {
+          "index": 2,
+          "start": 3.186,
+          "end": 6.373
+        },
+        {
+          "index": 3,
+          "start": 6.373,
+          "end": 6.593
+        },
+        {
+          "index": 4,
+          "start": 6.593,
+          "end": 7.694
+        },
+        {
+          "index": 5,
+          "start": 7.694,
+          "end": 8.794
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.794,
+      "end": 13.616,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.794,
+          "end": 10.255
+        },
+        {
+          "index": 2,
+          "start": 10.255,
+          "end": 11.315
+        },
+        {
+          "index": 3,
+          "start": 11.315,
+          "end": 11.675
+        },
+        {
+          "index": 4,
+          "start": 11.675,
+          "end": 12.646
+        },
+        {
+          "index": 5,
+          "start": 12.646,
+          "end": 13.616
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 13.616,
+      "end": 18.958,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.616,
+          "end": 14.586
+        },
+        {
+          "index": 2,
+          "start": 14.586,
+          "end": 15.557
+        },
+        {
+          "index": 3,
+          "start": 15.557,
+          "end": 16.477
+        },
+        {
+          "index": 4,
+          "start": 16.557,
+          "end": 17.077
+        },
+        {
+          "index": 5,
+          "start": 17.297,
+          "end": 17.817
+        },
+        {
+          "index": 6,
+          "start": 17.977,
+          "end": 18.958
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 19.038,
+      "end": 33.982,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.038,
+          "end": 19.778
+        },
+        {
+          "index": 2,
+          "start": 19.778,
+          "end": 24.34
+        },
+        {
+          "index": 3,
+          "start": 24.34,
+          "end": 28.903
+        },
+        {
+          "index": 4,
+          "start": 28.903,
+          "end": 29.623
+        },
+        {
+          "index": 5,
+          "start": 29.903,
+          "end": 30.424
+        },
+        {
+          "index": 6,
+          "start": 30.544,
+          "end": 31.664
+        },
+        {
+          "index": 7,
+          "start": 31.664,
+          "end": 32.437
+        },
+        {
+          "index": 8,
+          "start": 32.437,
+          "end": 33.209
+        },
+        {
+          "index": 9,
+          "start": 33.209,
+          "end": 33.982
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 33.982,
+      "end": 37.368,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.982,
+          "end": 34.754
+        },
+        {
+          "index": 2,
+          "start": 34.754,
+          "end": 35.527
+        },
+        {
+          "index": 3,
+          "start": 35.527,
+          "end": 36.127
+        },
+        {
+          "index": 4,
+          "start": 36.127,
+          "end": 37.088
+        },
+        {
+          "index": 5,
+          "start": 37.088,
+          "end": 37.368
+        }
+      ]
+    }
+  ]
+}

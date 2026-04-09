@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 2.6,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.296
+        },
+        {
+          "index": 2,
+          "start": 0.296,
+          "end": 0.591
+        },
+        {
+          "index": 3,
+          "start": 0.591,
+          "end": 1.312
+        },
+        {
+          "index": 4,
+          "start": 1.312,
+          "end": 2.6
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 2.6,
+      "end": 5.177,
+      "words": [
+        {
+          "index": 1,
+          "start": 2.6,
+          "end": 3.888
+        },
+        {
+          "index": 2,
+          "start": 3.888,
+          "end": 5.177
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 5.177,
+      "end": 10.33,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.177,
+          "end": 6.465
+        },
+        {
+          "index": 2,
+          "start": 6.465,
+          "end": 7.753
+        },
+        {
+          "index": 3,
+          "start": 7.753,
+          "end": 9.041
+        },
+        {
+          "index": 4,
+          "start": 9.041,
+          "end": 10.33
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 10.33,
+      "end": 16.771,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.33,
+          "end": 11.618
+        },
+        {
+          "index": 2,
+          "start": 11.618,
+          "end": 12.906
+        },
+        {
+          "index": 3,
+          "start": 12.906,
+          "end": 14.194
+        },
+        {
+          "index": 4,
+          "start": 14.194,
+          "end": 15.482
+        },
+        {
+          "index": 5,
+          "start": 15.482,
+          "end": 16.771
+        }
+      ]
+    }
+  ]
+}

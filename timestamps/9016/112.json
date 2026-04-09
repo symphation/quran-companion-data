@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server8.mp3quran.net/jbrl/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.645,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 0.408
+        },
+        {
+          "index": 2,
+          "start": 0.408,
+          "end": 0.816
+        },
+        {
+          "index": 3,
+          "start": 0.816,
+          "end": 1.617
+        },
+        {
+          "index": 4,
+          "start": 6.544,
+          "end": 7.645
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.725,
+      "end": 10.109,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.725,
+          "end": 8.166
+        },
+        {
+          "index": 2,
+          "start": 8.286,
+          "end": 10.109
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.249,
+      "end": 13.213,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.249,
+          "end": 10.589
+        },
+        {
+          "index": 2,
+          "start": 10.649,
+          "end": 11.19
+        },
+        {
+          "index": 3,
+          "start": 11.29,
+          "end": 11.811
+        },
+        {
+          "index": 4,
+          "start": 11.911,
+          "end": 13.213
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.313,
+      "end": 19.278,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.313,
+          "end": 13.874
+        },
+        {
+          "index": 2,
+          "start": 13.874,
+          "end": 15.225
+        },
+        {
+          "index": 3,
+          "start": 15.225,
+          "end": 16.576
+        },
+        {
+          "index": 4,
+          "start": 16.576,
+          "end": 17.927
+        },
+        {
+          "index": 5,
+          "start": 17.927,
+          "end": 19.278
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server13.mp3quran.net/braak/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.111,
+      "end": 5.404,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.111,
+          "end": 0.591
+        },
+        {
+          "index": 2,
+          "start": 0.691,
+          "end": 2.913
+        },
+        {
+          "index": 3,
+          "start": 2.913,
+          "end": 3.553
+        },
+        {
+          "index": 4,
+          "start": 3.553,
+          "end": 4.193
+        },
+        {
+          "index": 5,
+          "start": 4.193,
+          "end": 5.404
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.404,
+      "end": 12.598,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.404,
+          "end": 6.614
+        },
+        {
+          "index": 2,
+          "start": 6.614,
+          "end": 7.825
+        },
+        {
+          "index": 3,
+          "start": 7.825,
+          "end": 9.036
+        },
+        {
+          "index": 4,
+          "start": 9.036,
+          "end": 9.356
+        },
+        {
+          "index": 5,
+          "start": 9.456,
+          "end": 10.016
+        },
+        {
+          "index": 6,
+          "start": 10.096,
+          "end": 10.777
+        },
+        {
+          "index": 7,
+          "start": 10.777,
+          "end": 12.598
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.598,
+      "end": 21.76,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.598,
+          "end": 13.578
+        },
+        {
+          "index": 2,
+          "start": 13.638,
+          "end": 14.459
+        },
+        {
+          "index": 3,
+          "start": 14.559,
+          "end": 15.279
+        },
+        {
+          "index": 4,
+          "start": 15.279,
+          "end": 16.15
+        },
+        {
+          "index": 5,
+          "start": 16.15,
+          "end": 17.02
+        },
+        {
+          "index": 6,
+          "start": 17.02,
+          "end": 18.121
+        },
+        {
+          "index": 7,
+          "start": 18.121,
+          "end": 19.94
+        },
+        {
+          "index": 8,
+          "start": 19.94,
+          "end": 21.76
+        }
+      ]
+    }
+  ]
+}

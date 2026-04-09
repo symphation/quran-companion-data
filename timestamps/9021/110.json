@@ -1,0 +1,126 @@
+{
+  "audio_url": "https://server6.mp3quran.net/abkr/110.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.955,
+      "end": 10.202,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.955,
+          "end": 4.376
+        },
+        {
+          "index": 2,
+          "start": 4.896,
+          "end": 7.219
+        },
+        {
+          "index": 3,
+          "start": 7.299,
+          "end": 7.94
+        },
+        {
+          "index": 4,
+          "start": 7.98,
+          "end": 8.921
+        },
+        {
+          "index": 5,
+          "start": 9.001,
+          "end": 10.202
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 10.202,
+      "end": 19.902,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.202,
+          "end": 11.624
+        },
+        {
+          "index": 2,
+          "start": 11.624,
+          "end": 13.045
+        },
+        {
+          "index": 3,
+          "start": 13.045,
+          "end": 14.467
+        },
+        {
+          "index": 4,
+          "start": 14.467,
+          "end": 14.847
+        },
+        {
+          "index": 5,
+          "start": 14.967,
+          "end": 15.588
+        },
+        {
+          "index": 6,
+          "start": 15.628,
+          "end": 16.529
+        },
+        {
+          "index": 7,
+          "start": 16.529,
+          "end": 19.902
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 19.902,
+      "end": 30.851,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.902,
+          "end": 20.983
+        },
+        {
+          "index": 2,
+          "start": 21.043,
+          "end": 22.004
+        },
+        {
+          "index": 3,
+          "start": 22.084,
+          "end": 23.005
+        },
+        {
+          "index": 4,
+          "start": 23.005,
+          "end": 23.906
+        },
+        {
+          "index": 5,
+          "start": 23.906,
+          "end": 24.807
+        },
+        {
+          "index": 6,
+          "start": 24.807,
+          "end": 26.809
+        },
+        {
+          "index": 7,
+          "start": 26.809,
+          "end": 28.83
+        },
+        {
+          "index": 8,
+          "start": 28.83,
+          "end": 30.851
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "audio_url": "https://server12.mp3quran.net/shah/094.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 6.454,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.447
+        },
+        {
+          "index": 2,
+          "start": 2.447,
+          "end": 4.894
+        },
+        {
+          "index": 3,
+          "start": 4.894,
+          "end": 5.194
+        },
+        {
+          "index": 4,
+          "start": 5.314,
+          "end": 6.454
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.554,
+      "end": 9.596,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.554,
+          "end": 7.435
+        },
+        {
+          "index": 2,
+          "start": 7.555,
+          "end": 8.516
+        },
+        {
+          "index": 3,
+          "start": 8.616,
+          "end": 9.596
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.696,
+      "end": 13.538,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.696,
+          "end": 11.197
+        },
+        {
+          "index": 2,
+          "start": 11.197,
+          "end": 12.298
+        },
+        {
+          "index": 3,
+          "start": 12.298,
+          "end": 13.538
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.658,
+      "end": 16.38,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.658,
+          "end": 14.739
+        },
+        {
+          "index": 2,
+          "start": 14.819,
+          "end": 15.139
+        },
+        {
+          "index": 3,
+          "start": 15.299,
+          "end": 16.38
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 16.38,
+      "end": 19.741,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.38,
+          "end": 17.24
+        },
+        {
+          "index": 2,
+          "start": 17.24,
+          "end": 18.101
+        },
+        {
+          "index": 3,
+          "start": 18.101,
+          "end": 18.861
+        },
+        {
+          "index": 4,
+          "start": 18.861,
+          "end": 19.741
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 19.741,
+      "end": 23.784,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.741,
+          "end": 20.622
+        },
+        {
+          "index": 2,
+          "start": 20.622,
+          "end": 21.502
+        },
+        {
+          "index": 3,
+          "start": 21.502,
+          "end": 22.423
+        },
+        {
+          "index": 4,
+          "start": 22.423,
+          "end": 23.784
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 23.784,
+      "end": 26.705,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.784,
+          "end": 24.444
+        },
+        {
+          "index": 2,
+          "start": 24.444,
+          "end": 25.574
+        },
+        {
+          "index": 3,
+          "start": 25.574,
+          "end": 26.705
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 26.705,
+      "end": 30.145,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.705,
+          "end": 27.506
+        },
+        {
+          "index": 2,
+          "start": 27.626,
+          "end": 28.446
+        },
+        {
+          "index": 3,
+          "start": 28.446,
+          "end": 30.145
+        }
+      ]
+    }
+  ]
+}

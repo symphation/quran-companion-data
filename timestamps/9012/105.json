@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server11.mp3quran.net/mhsny/105.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 4.079,
+      "end": 8.108,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.079,
+          "end": 4.4
+        },
+        {
+          "index": 2,
+          "start": 4.4,
+          "end": 4.821
+        },
+        {
+          "index": 3,
+          "start": 4.821,
+          "end": 5.242
+        },
+        {
+          "index": 4,
+          "start": 5.242,
+          "end": 5.663
+        },
+        {
+          "index": 5,
+          "start": 5.663,
+          "end": 6.204
+        },
+        {
+          "index": 6,
+          "start": 6.204,
+          "end": 7.386
+        },
+        {
+          "index": 7,
+          "start": 7.386,
+          "end": 8.108
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.168,
+      "end": 11.094,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.168,
+          "end": 8.488
+        },
+        {
+          "index": 2,
+          "start": 8.528,
+          "end": 9.029
+        },
+        {
+          "index": 3,
+          "start": 9.11,
+          "end": 9.811
+        },
+        {
+          "index": 4,
+          "start": 9.871,
+          "end": 10.132
+        },
+        {
+          "index": 5,
+          "start": 10.212,
+          "end": 11.094
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.474,
+      "end": 14.775,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.474,
+          "end": 12.136
+        },
+        {
+          "index": 2,
+          "start": 12.196,
+          "end": 12.857
+        },
+        {
+          "index": 3,
+          "start": 12.897,
+          "end": 13.539
+        },
+        {
+          "index": 4,
+          "start": 13.539,
+          "end": 14.775
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 14.775,
+      "end": 19.351,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.775,
+          "end": 16.01
+        },
+        {
+          "index": 2,
+          "start": 16.01,
+          "end": 17.246
+        },
+        {
+          "index": 3,
+          "start": 17.246,
+          "end": 17.527
+        },
+        {
+          "index": 4,
+          "start": 17.527,
+          "end": 19.351
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 19.351,
+      "end": 23.933,
+      "words": [
+        {
+          "index": 1,
+          "start": 19.351,
+          "end": 20.232
+        },
+        {
+          "index": 2,
+          "start": 20.232,
+          "end": 22.083
+        },
+        {
+          "index": 3,
+          "start": 22.083,
+          "end": 23.933
+        }
+      ]
+    }
+  ]
+}

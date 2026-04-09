@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server8.mp3quran.net/lhdan/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.913,
+      "end": 5.033,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.913,
+          "end": 5.033
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.093,
+      "end": 9.535,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.093,
+          "end": 6.234
+        },
+        {
+          "index": 2,
+          "start": 6.234,
+          "end": 7.334
+        },
+        {
+          "index": 3,
+          "start": 7.334,
+          "end": 8.435
+        },
+        {
+          "index": 4,
+          "start": 8.435,
+          "end": 9.535
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 9.535,
+      "end": 17.979,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.535,
+          "end": 9.935
+        },
+        {
+          "index": 2,
+          "start": 9.975,
+          "end": 10.876
+        },
+        {
+          "index": 3,
+          "start": 10.876,
+          "end": 11.923
+        },
+        {
+          "index": 4,
+          "start": 11.923,
+          "end": 12.97
+        },
+        {
+          "index": 5,
+          "start": 12.97,
+          "end": 14.017
+        },
+        {
+          "index": 6,
+          "start": 14.017,
+          "end": 15.065
+        },
+        {
+          "index": 7,
+          "start": 15.065,
+          "end": 16.112
+        },
+        {
+          "index": 8,
+          "start": 16.112,
+          "end": 17.159
+        },
+        {
+          "index": 9,
+          "start": 17.159,
+          "end": 17.979
+        }
+      ]
+    }
+  ]
+}

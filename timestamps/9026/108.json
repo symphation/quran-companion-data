@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server8.mp3quran.net/ra3ad/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 9.896,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.008
+        },
+        {
+          "index": 2,
+          "start": 4.008,
+          "end": 8.015
+        },
+        {
+          "index": 3,
+          "start": 8.015,
+          "end": 9.896
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.896,
+      "end": 13.378,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.896,
+          "end": 10.877
+        },
+        {
+          "index": 2,
+          "start": 10.877,
+          "end": 11.917
+        },
+        {
+          "index": 3,
+          "start": 11.917,
+          "end": 13.378
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 13.378,
+      "end": 17.816,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.378,
+          "end": 14.138
+        },
+        {
+          "index": 2,
+          "start": 14.138,
+          "end": 15.364
+        },
+        {
+          "index": 3,
+          "start": 15.364,
+          "end": 16.59
+        },
+        {
+          "index": 4,
+          "start": 16.59,
+          "end": 17.816
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "audio_url": "https://server11.mp3quran.net/mhsny/095.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.193,
+      "end": 4.834,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.193,
+          "end": 3.894
+        },
+        {
+          "index": 2,
+          "start": 3.934,
+          "end": 4.834
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 4.834,
+      "end": 6.595,
+      "words": [
+        {
+          "index": 1,
+          "start": 4.834,
+          "end": 5.575
+        },
+        {
+          "index": 2,
+          "start": 5.575,
+          "end": 6.595
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 6.595,
+      "end": 9.277,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.595,
+          "end": 7.296
+        },
+        {
+          "index": 2,
+          "start": 7.296,
+          "end": 7.996
+        },
+        {
+          "index": 3,
+          "start": 7.996,
+          "end": 9.277
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 9.277,
+      "end": 13.516,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.277,
+          "end": 10.011
+        },
+        {
+          "index": 2,
+          "start": 10.011,
+          "end": 10.745
+        },
+        {
+          "index": 3,
+          "start": 10.745,
+          "end": 11.479
+        },
+        {
+          "index": 4,
+          "start": 11.479,
+          "end": 12.099
+        },
+        {
+          "index": 5,
+          "start": 12.159,
+          "end": 12.679
+        },
+        {
+          "index": 6,
+          "start": 12.679,
+          "end": 13.516
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 13.516,
+      "end": 16.866,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.516,
+          "end": 14.354
+        },
+        {
+          "index": 2,
+          "start": 14.354,
+          "end": 15.191
+        },
+        {
+          "index": 3,
+          "start": 15.191,
+          "end": 16.028
+        },
+        {
+          "index": 4,
+          "start": 16.028,
+          "end": 16.866
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 16.866,
+      "end": 24.107,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.866,
+          "end": 17.703
+        },
+        {
+          "index": 2,
+          "start": 17.703,
+          "end": 18.363
+        },
+        {
+          "index": 3,
+          "start": 18.363,
+          "end": 19.184
+        },
+        {
+          "index": 4,
+          "start": 19.184,
+          "end": 20.004
+        },
+        {
+          "index": 5,
+          "start": 20.004,
+          "end": 20.825
+        },
+        {
+          "index": 6,
+          "start": 20.825,
+          "end": 21.645
+        },
+        {
+          "index": 7,
+          "start": 21.645,
+          "end": 22.466
+        },
+        {
+          "index": 8,
+          "start": 22.466,
+          "end": 23.286
+        },
+        {
+          "index": 9,
+          "start": 23.286,
+          "end": 24.107
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 24.107,
+      "end": 26.826,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.107,
+          "end": 24.388
+        },
+        {
+          "index": 2,
+          "start": 24.388,
+          "end": 25.2
+        },
+        {
+          "index": 3,
+          "start": 25.2,
+          "end": 26.013
+        },
+        {
+          "index": 4,
+          "start": 26.013,
+          "end": 26.826
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 26.826,
+      "end": 31.773,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.826,
+          "end": 27.638
+        },
+        {
+          "index": 2,
+          "start": 27.638,
+          "end": 28.32
+        },
+        {
+          "index": 3,
+          "start": 28.42,
+          "end": 29.242
+        },
+        {
+          "index": 4,
+          "start": 29.242,
+          "end": 31.773
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "audio_url": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/103.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 13.384,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 13.384
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 13.384,
+      "end": 23.767,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.384,
+          "end": 14.625
+        },
+        {
+          "index": 2,
+          "start": 14.625,
+          "end": 17.672
+        },
+        {
+          "index": 3,
+          "start": 17.672,
+          "end": 20.72
+        },
+        {
+          "index": 4,
+          "start": 20.72,
+          "end": 23.767
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 23.767,
+      "end": 36.271,
+      "words": [
+        {
+          "index": 1,
+          "start": 23.767,
+          "end": 24.427
+        },
+        {
+          "index": 2,
+          "start": 24.467,
+          "end": 25.808
+        },
+        {
+          "index": 3,
+          "start": 25.808,
+          "end": 27.438
+        },
+        {
+          "index": 4,
+          "start": 27.438,
+          "end": 29.069
+        },
+        {
+          "index": 5,
+          "start": 29.069,
+          "end": 30.7
+        },
+        {
+          "index": 6,
+          "start": 30.7,
+          "end": 32.33
+        },
+        {
+          "index": 7,
+          "start": 32.33,
+          "end": 33.96
+        },
+        {
+          "index": 8,
+          "start": 33.96,
+          "end": 35.591
+        },
+        {
+          "index": 9,
+          "start": 35.591,
+          "end": 36.271
+        }
+      ]
+    }
+  ]
+}

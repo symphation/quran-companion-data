@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 7.278,
+      "end": 14.865,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.278,
+          "end": 7.498
+        },
+        {
+          "index": 2,
+          "start": 7.779,
+          "end": 8.759
+        },
+        {
+          "index": 3,
+          "start": 8.82,
+          "end": 9.72
+        },
+        {
+          "index": 4,
+          "start": 9.74,
+          "end": 14.865
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 14.945,
+      "end": 20.411,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.945,
+          "end": 15.346
+        },
+        {
+          "index": 2,
+          "start": 15.466,
+          "end": 20.411
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 20.411,
+      "end": 23.754,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.411,
+          "end": 21.232
+        },
+        {
+          "index": 2,
+          "start": 21.232,
+          "end": 23.754
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 26.413,
+      "end": 35.391,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.413,
+          "end": 28.036
+        },
+        {
+          "index": 2,
+          "start": 28.036,
+          "end": 29.379
+        },
+        {
+          "index": 3,
+          "start": 29.379,
+          "end": 30.722
+        },
+        {
+          "index": 4,
+          "start": 30.722,
+          "end": 35.391
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 35.591,
+      "end": 44.108,
+      "words": [
+        {
+          "index": 1,
+          "start": 35.591,
+          "end": 36.874
+        },
+        {
+          "index": 2,
+          "start": 36.874,
+          "end": 37.896
+        },
+        {
+          "index": 3,
+          "start": 37.896,
+          "end": 38.918
+        },
+        {
+          "index": 4,
+          "start": 38.918,
+          "end": 39.94
+        },
+        {
+          "index": 5,
+          "start": 39.94,
+          "end": 44.108
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 44.208,
+      "end": 51.242,
+      "words": [
+        {
+          "index": 1,
+          "start": 44.208,
+          "end": 44.529
+        },
+        {
+          "index": 2,
+          "start": 44.569,
+          "end": 46.933
+        },
+        {
+          "index": 3,
+          "start": 47.034,
+          "end": 51.242
+        }
+      ]
+    }
+  ]
+}

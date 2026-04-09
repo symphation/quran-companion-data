@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 18.166,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 4.542
+        },
+        {
+          "index": 2,
+          "start": 4.542,
+          "end": 9.083
+        },
+        {
+          "index": 3,
+          "start": 9.083,
+          "end": 13.625
+        },
+        {
+          "index": 4,
+          "start": 13.625,
+          "end": 18.166
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 18.166,
+      "end": 36.332,
+      "words": [
+        {
+          "index": 1,
+          "start": 18.166,
+          "end": 22.708
+        },
+        {
+          "index": 2,
+          "start": 22.708,
+          "end": 27.249
+        },
+        {
+          "index": 3,
+          "start": 27.249,
+          "end": 31.79
+        },
+        {
+          "index": 4,
+          "start": 31.79,
+          "end": 36.332
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 36.332,
+      "end": 54.377,
+      "words": [
+        {
+          "index": 1,
+          "start": 36.332,
+          "end": 40.874
+        },
+        {
+          "index": 2,
+          "start": 40.874,
+          "end": 45.415
+        },
+        {
+          "index": 3,
+          "start": 45.415,
+          "end": 47.395
+        },
+        {
+          "index": 4,
+          "start": 47.475,
+          "end": 54.377
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 54.577,
+      "end": 62.97,
+      "words": [
+        {
+          "index": 1,
+          "start": 54.577,
+          "end": 56.438
+        },
+        {
+          "index": 2,
+          "start": 56.438,
+          "end": 58.414
+        },
+        {
+          "index": 3,
+          "start": 58.414,
+          "end": 60.389
+        },
+        {
+          "index": 4,
+          "start": 60.389,
+          "end": 61.109
+        },
+        {
+          "index": 5,
+          "start": 61.109,
+          "end": 62.97
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 62.97,
+      "end": 70.094,
+      "words": [
+        {
+          "index": 1,
+          "start": 62.97,
+          "end": 65.792
+        },
+        {
+          "index": 2,
+          "start": 65.792,
+          "end": 67.226
+        },
+        {
+          "index": 3,
+          "start": 67.226,
+          "end": 68.66
+        },
+        {
+          "index": 4,
+          "start": 68.66,
+          "end": 70.094
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 70.094,
+      "end": 78.978,
+      "words": [
+        {
+          "index": 1,
+          "start": 70.094,
+          "end": 71.895
+        },
+        {
+          "index": 2,
+          "start": 72.135,
+          "end": 72.935
+        },
+        {
+          "index": 3,
+          "start": 72.935,
+          "end": 78.978
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 78.978,
+      "end": 89.631,
+      "words": [
+        {
+          "index": 1,
+          "start": 78.978,
+          "end": 80.779
+        },
+        {
+          "index": 2,
+          "start": 80.779,
+          "end": 83.06
+        },
+        {
+          "index": 3,
+          "start": 83.06,
+          "end": 83.921
+        },
+        {
+          "index": 4,
+          "start": 83.921,
+          "end": 89.631
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 89.631,
+      "end": 98.825,
+      "words": [
+        {
+          "index": 1,
+          "start": 89.631,
+          "end": 95.341
+        },
+        {
+          "index": 2,
+          "start": 95.341,
+          "end": 97.624
+        },
+        {
+          "index": 3,
+          "start": 97.624,
+          "end": 98.825
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 98.825,
+      "end": 113.215,
+      "words": [
+        {
+          "index": 1,
+          "start": 98.825,
+          "end": 98.865
+        },
+        {
+          "index": 2,
+          "start": 98.865,
+          "end": 106.04
+        },
+        {
+          "index": 3,
+          "start": 106.04,
+          "end": 113.215
+        }
+      ]
+    }
+  ]
+}

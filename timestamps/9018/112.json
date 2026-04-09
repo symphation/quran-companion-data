@@ -1,0 +1,108 @@
+{
+  "audio_url": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/112.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 8.072,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.114
+        },
+        {
+          "index": 2,
+          "start": 3.114,
+          "end": 6.229
+        },
+        {
+          "index": 3,
+          "start": 6.229,
+          "end": 6.97
+        },
+        {
+          "index": 4,
+          "start": 7.07,
+          "end": 8.072
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 8.272,
+      "end": 10.314,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.272,
+          "end": 9.053
+        },
+        {
+          "index": 2,
+          "start": 9.093,
+          "end": 10.314
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 10.414,
+      "end": 13.077,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.414,
+          "end": 10.654
+        },
+        {
+          "index": 2,
+          "start": 10.654,
+          "end": 11.355
+        },
+        {
+          "index": 3,
+          "start": 11.355,
+          "end": 11.816
+        },
+        {
+          "index": 4,
+          "start": 11.896,
+          "end": 13.077
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 13.177,
+      "end": 22.126,
+      "words": [
+        {
+          "index": 1,
+          "start": 13.177,
+          "end": 13.658
+        },
+        {
+          "index": 2,
+          "start": 13.658,
+          "end": 15.775
+        },
+        {
+          "index": 3,
+          "start": 15.775,
+          "end": 17.892
+        },
+        {
+          "index": 4,
+          "start": 17.892,
+          "end": 20.009
+        },
+        {
+          "index": 5,
+          "start": 20.009,
+          "end": 22.126
+        }
+      ]
+    }
+  ]
+}

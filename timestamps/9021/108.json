@@ -1,0 +1,76 @@
+{
+  "audio_url": "https://server6.mp3quran.net/abkr/108.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 6.39,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.13
+        },
+        {
+          "index": 2,
+          "start": 2.13,
+          "end": 4.26
+        },
+        {
+          "index": 3,
+          "start": 4.26,
+          "end": 6.39
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 6.39,
+      "end": 12.779,
+      "words": [
+        {
+          "index": 1,
+          "start": 6.39,
+          "end": 8.519
+        },
+        {
+          "index": 2,
+          "start": 8.519,
+          "end": 10.649
+        },
+        {
+          "index": 3,
+          "start": 10.649,
+          "end": 12.779
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 12.779,
+      "end": 16.901,
+      "words": [
+        {
+          "index": 1,
+          "start": 12.779,
+          "end": 13.8
+        },
+        {
+          "index": 2,
+          "start": 13.9,
+          "end": 14.861
+        },
+        {
+          "index": 3,
+          "start": 15.061,
+          "end": 15.241
+        },
+        {
+          "index": 4,
+          "start": 15.241,
+          "end": 16.901
+        }
+      ]
+    }
+  ]
+}

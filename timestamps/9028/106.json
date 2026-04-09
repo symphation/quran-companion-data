@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.24,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 3.62
+        },
+        {
+          "index": 2,
+          "start": 3.62,
+          "end": 7.24
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.24,
+      "end": 17.185,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.24,
+          "end": 10.86
+        },
+        {
+          "index": 2,
+          "start": 10.86,
+          "end": 11.52
+        },
+        {
+          "index": 3,
+          "start": 11.54,
+          "end": 14.442
+        },
+        {
+          "index": 4,
+          "start": 14.502,
+          "end": 17.185
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 17.185,
+      "end": 22.829,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.185,
+          "end": 18.486
+        },
+        {
+          "index": 2,
+          "start": 18.486,
+          "end": 18.926
+        },
+        {
+          "index": 3,
+          "start": 18.926,
+          "end": 20.877
+        },
+        {
+          "index": 4,
+          "start": 20.877,
+          "end": 22.829
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 22.829,
+      "end": 34.01,
+      "words": [
+        {
+          "index": 1,
+          "start": 22.829,
+          "end": 23.57
+        },
+        {
+          "index": 2,
+          "start": 23.57,
+          "end": 27.556
+        },
+        {
+          "index": 3,
+          "start": 27.556,
+          "end": 28.438
+        },
+        {
+          "index": 4,
+          "start": 28.438,
+          "end": 30.082
+        },
+        {
+          "index": 5,
+          "start": 30.082,
+          "end": 31.725
+        },
+        {
+          "index": 6,
+          "start": 31.725,
+          "end": 32.046
+        },
+        {
+          "index": 7,
+          "start": 32.166,
+          "end": 34.01
+        }
+      ]
+    }
+  ]
+}

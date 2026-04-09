@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem/111.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 3.897,
+      "end": 9.704,
+      "words": [
+        {
+          "index": 1,
+          "start": 3.897,
+          "end": 4.658
+        },
+        {
+          "index": 2,
+          "start": 4.658,
+          "end": 5.379
+        },
+        {
+          "index": 3,
+          "start": 5.379,
+          "end": 5.94
+        },
+        {
+          "index": 4,
+          "start": 5.94,
+          "end": 7.822
+        },
+        {
+          "index": 5,
+          "start": 7.822,
+          "end": 9.704
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.704,
+      "end": 15.151,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.704,
+          "end": 10.225
+        },
+        {
+          "index": 2,
+          "start": 10.325,
+          "end": 11.166
+        },
+        {
+          "index": 3,
+          "start": 11.286,
+          "end": 11.927
+        },
+        {
+          "index": 4,
+          "start": 12.007,
+          "end": 13.028
+        },
+        {
+          "index": 5,
+          "start": 13.108,
+          "end": 13.709
+        },
+        {
+          "index": 6,
+          "start": 13.709,
+          "end": 15.151
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 15.151,
+      "end": 20.558,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.151,
+          "end": 16.593
+        },
+        {
+          "index": 2,
+          "start": 16.593,
+          "end": 18.035
+        },
+        {
+          "index": 3,
+          "start": 18.035,
+          "end": 19.477
+        },
+        {
+          "index": 4,
+          "start": 19.477,
+          "end": 20.558
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 20.558,
+      "end": 26.364,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.558,
+          "end": 22.493
+        },
+        {
+          "index": 2,
+          "start": 22.493,
+          "end": 24.429
+        },
+        {
+          "index": 3,
+          "start": 24.429,
+          "end": 26.364
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 26.364,
+      "end": 37.068,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.364,
+          "end": 26.824
+        },
+        {
+          "index": 2,
+          "start": 26.944,
+          "end": 28.005
+        },
+        {
+          "index": 3,
+          "start": 28.145,
+          "end": 30.107
+        },
+        {
+          "index": 4,
+          "start": 30.247,
+          "end": 31.989
+        },
+        {
+          "index": 5,
+          "start": 31.989,
+          "end": 37.068
+        }
+      ]
+    }
+  ]
+}

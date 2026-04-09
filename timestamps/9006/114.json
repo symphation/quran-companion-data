@@ -1,0 +1,147 @@
+{
+  "audio_url": "https://server8.mp3quran.net/majd_onazi/114.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 7.715,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.307
+        },
+        {
+          "index": 2,
+          "start": 2.307,
+          "end": 4.614
+        },
+        {
+          "index": 3,
+          "start": 4.614,
+          "end": 5.454
+        },
+        {
+          "index": 4,
+          "start": 5.494,
+          "end": 7.715
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 7.815,
+      "end": 11.537,
+      "words": [
+        {
+          "index": 1,
+          "start": 7.815,
+          "end": 8.536
+        },
+        {
+          "index": 2,
+          "start": 8.556,
+          "end": 11.537
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 11.537,
+      "end": 15.039,
+      "words": [
+        {
+          "index": 1,
+          "start": 11.537,
+          "end": 12.458
+        },
+        {
+          "index": 2,
+          "start": 12.458,
+          "end": 15.039
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 15.099,
+      "end": 21.343,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.099,
+          "end": 16.08
+        },
+        {
+          "index": 2,
+          "start": 16.2,
+          "end": 16.96
+        },
+        {
+          "index": 3,
+          "start": 16.96,
+          "end": 19.152
+        },
+        {
+          "index": 4,
+          "start": 19.152,
+          "end": 21.343
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 21.343,
+      "end": 26.167,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.343,
+          "end": 22.203
+        },
+        {
+          "index": 2,
+          "start": 22.203,
+          "end": 23.364
+        },
+        {
+          "index": 3,
+          "start": 23.364,
+          "end": 23.664
+        },
+        {
+          "index": 4,
+          "start": 23.784,
+          "end": 24.484
+        },
+        {
+          "index": 5,
+          "start": 24.484,
+          "end": 26.167
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 26.167,
+      "end": 37.198,
+      "words": [
+        {
+          "index": 1,
+          "start": 26.167,
+          "end": 26.327
+        },
+        {
+          "index": 2,
+          "start": 26.347,
+          "end": 27.069
+        },
+        {
+          "index": 3,
+          "start": 27.069,
+          "end": 37.198
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "audio_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/111.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 10.034,
+      "end": 16.996,
+      "words": [
+        {
+          "index": 1,
+          "start": 10.034,
+          "end": 10.794
+        },
+        {
+          "index": 2,
+          "start": 10.794,
+          "end": 12.328
+        },
+        {
+          "index": 3,
+          "start": 12.328,
+          "end": 13.862
+        },
+        {
+          "index": 4,
+          "start": 13.862,
+          "end": 15.396
+        },
+        {
+          "index": 5,
+          "start": 15.396,
+          "end": 16.996
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 17.156,
+      "end": 24.142,
+      "words": [
+        {
+          "index": 1,
+          "start": 17.156,
+          "end": 19.317
+        },
+        {
+          "index": 2,
+          "start": 19.317,
+          "end": 20.357
+        },
+        {
+          "index": 3,
+          "start": 20.357,
+          "end": 20.957
+        },
+        {
+          "index": 4,
+          "start": 20.957,
+          "end": 22.218
+        },
+        {
+          "index": 5,
+          "start": 22.218,
+          "end": 22.778
+        },
+        {
+          "index": 6,
+          "start": 22.778,
+          "end": 24.142
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 24.142,
+      "end": 29.025,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.142,
+          "end": 25.505
+        },
+        {
+          "index": 2,
+          "start": 25.505,
+          "end": 26.869
+        },
+        {
+          "index": 3,
+          "start": 26.869,
+          "end": 27.449
+        },
+        {
+          "index": 4,
+          "start": 27.449,
+          "end": 29.025
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 29.025,
+      "end": 33.753,
+      "words": [
+        {
+          "index": 1,
+          "start": 29.025,
+          "end": 30.601
+        },
+        {
+          "index": 2,
+          "start": 30.601,
+          "end": 32.177
+        },
+        {
+          "index": 3,
+          "start": 32.177,
+          "end": 33.753
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 33.753,
+      "end": 39.34,
+      "words": [
+        {
+          "index": 1,
+          "start": 33.753,
+          "end": 34.093
+        },
+        {
+          "index": 2,
+          "start": 34.193,
+          "end": 35.194
+        },
+        {
+          "index": 3,
+          "start": 35.354,
+          "end": 36.054
+        },
+        {
+          "index": 4,
+          "start": 36.655,
+          "end": 37.015
+        },
+        {
+          "index": 5,
+          "start": 37.015,
+          "end": 39.34
+        }
+      ]
+    }
+  ]
+}

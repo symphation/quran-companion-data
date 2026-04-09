@@ -1,82 +1,198 @@
 {
-  "audio_url": "https://server8.mp3quran.net/afs/001.mp3",
+  "audio_url": "",
   "segments": [
     {
       "ayah": 1,
-      "start": 0.0,
-      "end": 6.09,
+      "start": 6.421,
+      "end": 12.263,
       "words": [
-        { "index": 1, "start": 0.0, "end": 2.50 },
-        { "index": 2, "start": 2.50, "end": 4.10 },
-        { "index": 3, "start": 4.10, "end": 5.20 },
-        { "index": 4, "start": 5.20, "end": 6.09 }
+        {
+          "index": 1,
+          "start": 6.421,
+          "end": 6.862
+        },
+        {
+          "index": 2,
+          "start": 6.882,
+          "end": 7.642
+        },
+        {
+          "index": 3,
+          "start": 7.662,
+          "end": 8.802
+        },
+        {
+          "index": 4,
+          "start": 8.842,
+          "end": 12.263
+        }
       ]
     },
     {
       "ayah": 2,
-      "start": 6.10,
-      "end": 12.50,
+      "start": 12.383,
+      "end": 17.844,
       "words": [
-        { "index": 1, "start": 6.10, "end": 8.00 },
-        { "index": 2, "start": 8.00, "end": 9.50 },
-        { "index": 3, "start": 9.50, "end": 11.00 },
-        { "index": 4, "start": 11.00, "end": 12.50 }
+        {
+          "index": 1,
+          "start": 12.383,
+          "end": 13.283
+        },
+        {
+          "index": 2,
+          "start": 13.343,
+          "end": 14.163
+        },
+        {
+          "index": 3,
+          "start": 14.243,
+          "end": 14.763
+        },
+        {
+          "index": 4,
+          "start": 14.803,
+          "end": 17.844
+        }
       ]
     },
     {
       "ayah": 3,
-      "start": 12.55,
-      "end": 16.00,
+      "start": 18.044,
+      "end": 22.065,
       "words": [
-        { "index": 1, "start": 12.55, "end": 14.50 },
-        { "index": 2, "start": 14.50, "end": 16.00 }
+        {
+          "index": 1,
+          "start": 18.044,
+          "end": 19.144
+        },
+        {
+          "index": 2,
+          "start": 19.244,
+          "end": 22.065
+        }
       ]
     },
     {
       "ayah": 4,
-      "start": 16.10,
-      "end": 21.00,
+      "start": 22.565,
+      "end": 26.666,
       "words": [
-        { "index": 1, "start": 16.10, "end": 18.00 },
-        { "index": 2, "start": 18.00, "end": 19.50 },
-        { "index": 3, "start": 19.50, "end": 21.00 }
+        {
+          "index": 1,
+          "start": 22.565,
+          "end": 23.265
+        },
+        {
+          "index": 2,
+          "start": 23.325,
+          "end": 23.805
+        },
+        {
+          "index": 3,
+          "start": 23.825,
+          "end": 26.666
+        }
       ]
     },
     {
       "ayah": 5,
-      "start": 21.10,
-      "end": 26.50,
+      "start": 27.066,
+      "end": 33.327,
       "words": [
-        { "index": 1, "start": 21.10, "end": 23.00 },
-        { "index": 2, "start": 23.00, "end": 24.50 },
-        { "index": 3, "start": 24.50, "end": 25.50 },
-        { "index": 4, "start": 25.50, "end": 26.50 }
+        {
+          "index": 1,
+          "start": 27.066,
+          "end": 27.946
+        },
+        {
+          "index": 2,
+          "start": 28.026,
+          "end": 28.746
+        },
+        {
+          "index": 3,
+          "start": 28.786,
+          "end": 29.827
+        },
+        {
+          "index": 4,
+          "start": 29.907,
+          "end": 33.327
+        }
       ]
     },
     {
       "ayah": 6,
-      "start": 26.60,
-      "end": 31.00,
+      "start": 33.707,
+      "end": 39.209,
       "words": [
-        { "index": 1, "start": 26.60, "end": 28.00 },
-        { "index": 2, "start": 28.00, "end": 29.50 },
-        { "index": 3, "start": 29.50, "end": 31.00 }
+        {
+          "index": 1,
+          "start": 33.707,
+          "end": 34.368
+        },
+        {
+          "index": 2,
+          "start": 34.388,
+          "end": 35.328
+        },
+        {
+          "index": 3,
+          "start": 35.408,
+          "end": 39.209
+        }
       ]
     },
     {
       "ayah": 7,
-      "start": 31.10,
-      "end": 45.00,
+      "start": 39.309,
+      "end": 49.471,
       "words": [
-        { "index": 1, "start": 31.10, "end": 33.00 },
-        { "index": 2, "start": 33.00, "end": 34.50 },
-        { "index": 3, "start": 34.50, "end": 36.00 },
-        { "index": 4, "start": 36.00, "end": 38.00 },
-        { "index": 5, "start": 38.00, "end": 39.50 },
-        { "index": 6, "start": 39.50, "end": 41.00 },
-        { "index": 7, "start": 41.00, "end": 42.50 },
-        { "index": 8, "start": 42.50, "end": 43.50 },
-        { "index": 9, "start": 43.50, "end": 45.00 }
+        {
+          "index": 1,
+          "start": 39.309,
+          "end": 39.969
+        },
+        {
+          "index": 2,
+          "start": 39.989,
+          "end": 40.889
+        },
+        {
+          "index": 3,
+          "start": 40.969,
+          "end": 41.869
+        },
+        {
+          "index": 4,
+          "start": 41.949,
+          "end": 42.769
+        },
+        {
+          "index": 5,
+          "start": 42.909,
+          "end": 43.39
+        },
+        {
+          "index": 6,
+          "start": 43.41,
+          "end": 44.55
+        },
+        {
+          "index": 7,
+          "start": 44.63,
+          "end": 45.49
+        },
+        {
+          "index": 8,
+          "start": 45.59,
+          "end": 45.89
+        },
+        {
+          "index": 9,
+          "start": 45.93,
+          "end": 49.471
+        }
       ]
     }
   ]

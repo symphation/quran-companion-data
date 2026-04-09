@@ -1,0 +1,238 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/104.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 5.094,
+      "end": 9.576,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.094,
+          "end": 5.674
+        },
+        {
+          "index": 2,
+          "start": 5.674,
+          "end": 6.975
+        },
+        {
+          "index": 3,
+          "start": 6.975,
+          "end": 8.275
+        },
+        {
+          "index": 4,
+          "start": 8.275,
+          "end": 9.576
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 9.576,
+      "end": 14.798,
+      "words": [
+        {
+          "index": 1,
+          "start": 9.576,
+          "end": 10.576
+        },
+        {
+          "index": 2,
+          "start": 10.676,
+          "end": 11.317
+        },
+        {
+          "index": 3,
+          "start": 11.317,
+          "end": 13.058
+        },
+        {
+          "index": 4,
+          "start": 13.058,
+          "end": 14.798
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 14.798,
+      "end": 20.381,
+      "words": [
+        {
+          "index": 1,
+          "start": 14.798,
+          "end": 15.659
+        },
+        {
+          "index": 2,
+          "start": 15.739,
+          "end": 16.819
+        },
+        {
+          "index": 3,
+          "start": 16.819,
+          "end": 18.78
+        },
+        {
+          "index": 4,
+          "start": 18.78,
+          "end": 20.381
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 20.461,
+      "end": 25.827,
+      "words": [
+        {
+          "index": 1,
+          "start": 20.461,
+          "end": 21.302
+        },
+        {
+          "index": 2,
+          "start": 21.302,
+          "end": 22.643
+        },
+        {
+          "index": 3,
+          "start": 22.643,
+          "end": 23.984
+        },
+        {
+          "index": 4,
+          "start": 23.984,
+          "end": 24.145
+        },
+        {
+          "index": 5,
+          "start": 24.205,
+          "end": 25.827
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 25.927,
+      "end": 31.235,
+      "words": [
+        {
+          "index": 1,
+          "start": 25.927,
+          "end": 27.99
+        },
+        {
+          "index": 2,
+          "start": 27.99,
+          "end": 28.801
+        },
+        {
+          "index": 3,
+          "start": 28.801,
+          "end": 29.612
+        },
+        {
+          "index": 4,
+          "start": 29.612,
+          "end": 31.235
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 31.395,
+      "end": 35.04,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.395,
+          "end": 32.176
+        },
+        {
+          "index": 2,
+          "start": 32.216,
+          "end": 33.117
+        },
+        {
+          "index": 3,
+          "start": 33.117,
+          "end": 35.04
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 35.04,
+      "end": 39.787,
+      "words": [
+        {
+          "index": 1,
+          "start": 35.04,
+          "end": 36.102
+        },
+        {
+          "index": 2,
+          "start": 36.222,
+          "end": 37.423
+        },
+        {
+          "index": 3,
+          "start": 37.504,
+          "end": 37.844
+        },
+        {
+          "index": 4,
+          "start": 37.844,
+          "end": 39.787
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 39.787,
+      "end": 44.473,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.787,
+          "end": 41.309
+        },
+        {
+          "index": 2,
+          "start": 41.409,
+          "end": 42.771
+        },
+        {
+          "index": 3,
+          "start": 42.771,
+          "end": 44.473
+        }
+      ]
+    },
+    {
+      "ayah": 9,
+      "start": 44.473,
+      "end": 47.317,
+      "words": [
+        {
+          "index": 1,
+          "start": 44.473,
+          "end": 44.814
+        },
+        {
+          "index": 2,
+          "start": 44.914,
+          "end": 45.695
+        },
+        {
+          "index": 3,
+          "start": 46.516,
+          "end": 47.317
+        }
+      ]
+    }
+  ]
+}

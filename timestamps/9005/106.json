@@ -1,0 +1,118 @@
+{
+  "audio_url": "https://server9.mp3quran.net/akrm/106.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 0.0,
+      "end": 5.889,
+      "words": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 2.944
+        },
+        {
+          "index": 2,
+          "start": 2.944,
+          "end": 5.889
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 5.889,
+      "end": 16.464,
+      "words": [
+        {
+          "index": 1,
+          "start": 5.889,
+          "end": 8.834
+        },
+        {
+          "index": 2,
+          "start": 8.834,
+          "end": 11.778
+        },
+        {
+          "index": 3,
+          "start": 11.778,
+          "end": 14.001
+        },
+        {
+          "index": 4,
+          "start": 14.101,
+          "end": 16.464
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 16.464,
+      "end": 21.91,
+      "words": [
+        {
+          "index": 1,
+          "start": 16.464,
+          "end": 18.246
+        },
+        {
+          "index": 2,
+          "start": 18.246,
+          "end": 18.867
+        },
+        {
+          "index": 3,
+          "start": 18.867,
+          "end": 20.388
+        },
+        {
+          "index": 4,
+          "start": 20.388,
+          "end": 21.91
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 21.91,
+      "end": 32.888,
+      "words": [
+        {
+          "index": 1,
+          "start": 21.91,
+          "end": 23.933
+        },
+        {
+          "index": 2,
+          "start": 24.013,
+          "end": 25.374
+        },
+        {
+          "index": 3,
+          "start": 25.935,
+          "end": 26.696
+        },
+        {
+          "index": 4,
+          "start": 26.796,
+          "end": 28.258
+        },
+        {
+          "index": 5,
+          "start": 28.258,
+          "end": 30.62
+        },
+        {
+          "index": 6,
+          "start": 30.62,
+          "end": 31.001
+        },
+        {
+          "index": 7,
+          "start": 31.001,
+          "end": 32.888
+        }
+      ]
+    }
+  ]
+}

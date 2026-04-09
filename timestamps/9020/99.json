@@ -1,0 +1,241 @@
+{
+  "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/099.mp3",
+  "segments": [
+    {
+      "ayah": 1,
+      "start": 8.872,
+      "end": 15.747,
+      "words": [
+        {
+          "index": 1,
+          "start": 8.872,
+          "end": 9.693
+        },
+        {
+          "index": 2,
+          "start": 9.693,
+          "end": 11.434
+        },
+        {
+          "index": 3,
+          "start": 11.434,
+          "end": 12.715
+        },
+        {
+          "index": 4,
+          "start": 12.715,
+          "end": 15.747
+        }
+      ]
+    },
+    {
+      "ayah": 2,
+      "start": 15.747,
+      "end": 24.203,
+      "words": [
+        {
+          "index": 1,
+          "start": 15.747,
+          "end": 18.779
+        },
+        {
+          "index": 2,
+          "start": 18.779,
+          "end": 20.04
+        },
+        {
+          "index": 3,
+          "start": 20.04,
+          "end": 24.203
+        }
+      ]
+    },
+    {
+      "ayah": 3,
+      "start": 24.203,
+      "end": 31.275,
+      "words": [
+        {
+          "index": 1,
+          "start": 24.203,
+          "end": 25.524
+        },
+        {
+          "index": 2,
+          "start": 25.524,
+          "end": 28.246
+        },
+        {
+          "index": 3,
+          "start": 28.246,
+          "end": 28.626
+        },
+        {
+          "index": 4,
+          "start": 28.626,
+          "end": 31.275
+        }
+      ]
+    },
+    {
+      "ayah": 4,
+      "start": 31.275,
+      "end": 39.449,
+      "words": [
+        {
+          "index": 1,
+          "start": 31.275,
+          "end": 33.924
+        },
+        {
+          "index": 2,
+          "start": 33.924,
+          "end": 35.565
+        },
+        {
+          "index": 3,
+          "start": 35.625,
+          "end": 39.449
+        }
+      ]
+    },
+    {
+      "ayah": 5,
+      "start": 39.549,
+      "end": 47.015,
+      "words": [
+        {
+          "index": 1,
+          "start": 39.549,
+          "end": 40.99
+        },
+        {
+          "index": 2,
+          "start": 41.11,
+          "end": 42.491
+        },
+        {
+          "index": 3,
+          "start": 42.491,
+          "end": 44.753
+        },
+        {
+          "index": 4,
+          "start": 44.753,
+          "end": 47.015
+        }
+      ]
+    },
+    {
+      "ayah": 6,
+      "start": 47.015,
+      "end": 58.802,
+      "words": [
+        {
+          "index": 1,
+          "start": 47.015,
+          "end": 49.277
+        },
+        {
+          "index": 2,
+          "start": 49.277,
+          "end": 50.478
+        },
+        {
+          "index": 3,
+          "start": 50.538,
+          "end": 52.179
+        },
+        {
+          "index": 4,
+          "start": 52.179,
+          "end": 55.782
+        },
+        {
+          "index": 5,
+          "start": 55.782,
+          "end": 56.963
+        },
+        {
+          "index": 6,
+          "start": 56.963,
+          "end": 58.802
+        }
+      ]
+    },
+    {
+      "ayah": 7,
+      "start": 58.802,
+      "end": 69.839,
+      "words": [
+        {
+          "index": 1,
+          "start": 58.802,
+          "end": 60.642
+        },
+        {
+          "index": 2,
+          "start": 60.642,
+          "end": 62.481
+        },
+        {
+          "index": 3,
+          "start": 62.481,
+          "end": 64.321
+        },
+        {
+          "index": 4,
+          "start": 64.321,
+          "end": 66.16
+        },
+        {
+          "index": 5,
+          "start": 66.16,
+          "end": 67.999
+        },
+        {
+          "index": 6,
+          "start": 67.999,
+          "end": 69.839
+        }
+      ]
+    },
+    {
+      "ayah": 8,
+      "start": 69.839,
+      "end": 80.875,
+      "words": [
+        {
+          "index": 1,
+          "start": 69.839,
+          "end": 71.678
+        },
+        {
+          "index": 2,
+          "start": 71.678,
+          "end": 73.518
+        },
+        {
+          "index": 3,
+          "start": 73.518,
+          "end": 75.357
+        },
+        {
+          "index": 4,
+          "start": 75.357,
+          "end": 77.196
+        },
+        {
+          "index": 5,
+          "start": 77.196,
+          "end": 79.036
+        },
+        {
+          "index": 6,
+          "start": 79.036,
+          "end": 80.875
+        }
+      ]
+    }
+  ]
+}
