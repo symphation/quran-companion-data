@@ -3,26 +3,30 @@
   "segments": [
     {
       "ayah": 1,
-      "start": 0.0,
+      "start": 4.83,
       "end": 6.578,
       "words": [
         {
           "index": 1,
-          "start": 0.0,
-          "end": 0.418
+          "text": "قُلْ",
+          "start": 4.83,
+          "end": 4.88
         },
         {
           "index": 2,
-          "start": 0.418,
-          "end": 0.835
+          "text": "هُوَ",
+          "start": 4.88,
+          "end": 4.93
         },
         {
           "index": 3,
+          "text": "ٱللَّهُ",
           "start": 0.835,
           "end": 1.736
         },
         {
           "index": 4,
+          "text": "أَحَدٌ",
           "start": 1.736,
           "end": 6.578
         }
@@ -35,11 +39,13 @@
       "words": [
         {
           "index": 1,
+          "text": "ٱللَّهُ",
           "start": 6.578,
           "end": 7.778
         },
         {
           "index": 2,
+          "text": "ٱلصَّمَدُ",
           "start": 7.778,
           "end": 24.752
         }
@@ -52,21 +58,25 @@
       "words": [
         {
           "index": 1,
+          "text": "لَمْ",
           "start": 24.752,
           "end": 25.233
         },
         {
           "index": 2,
+          "text": "يَلِدْ",
           "start": 25.233,
           "end": 26.215
         },
         {
           "index": 3,
+          "text": "وَلَمْ",
           "start": 26.215,
           "end": 26.936
         },
         {
           "index": 4,
+          "text": "يُولَدْ",
           "start": 27.056,
           "end": 30.262
         }
@@ -79,26 +89,31 @@
       "words": [
         {
           "index": 1,
+          "text": "وَلَمْ",
           "start": 30.322,
           "end": 30.903
         },
         {
           "index": 2,
+          "text": "يَكُن",
           "start": 30.903,
           "end": 32.907
         },
         {
           "index": 3,
+          "text": "لَّهُۥ",
           "start": 32.907,
           "end": 34.91
         },
         {
           "index": 4,
+          "text": "كُفُوًا",
           "start": 34.91,
           "end": 36.914
         },
         {
           "index": 5,
+          "text": "أَحَدٌۢ",
           "start": 36.914,
           "end": 38.176
         }

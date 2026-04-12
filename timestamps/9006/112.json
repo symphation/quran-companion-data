@@ -3,104 +3,119 @@
   "segments": [
     {
       "ayah": 1,
-      "start": 0.0,
-      "end": 2.6,
+      "start": 5.726,
+      "end": 2.107,
       "words": [
         {
           "index": 1,
-          "start": 0.0,
-          "end": 0.296
+          "text": "قُلْ",
+          "start": 5.726,
+          "end": 5.776
         },
         {
           "index": 2,
-          "start": 0.296,
-          "end": 0.591
+          "text": "هُوَ",
+          "start": 5.776,
+          "end": 5.826
         },
         {
           "index": 3,
+          "text": "ٱللَّهُ",
           "start": 0.591,
           "end": 1.312
         },
         {
           "index": 4,
+          "text": "أَحَدٌ",
           "start": 1.312,
-          "end": 2.6
+          "end": 2.107
         }
       ]
     },
     {
       "ayah": 2,
-      "start": 2.6,
-      "end": 5.177,
+      "start": 2.107,
+      "end": 3.697,
       "words": [
         {
           "index": 1,
-          "start": 2.6,
-          "end": 3.888
+          "text": "ٱللَّهُ",
+          "start": 2.107,
+          "end": 2.902
         },
         {
           "index": 2,
-          "start": 3.888,
-          "end": 5.177
+          "text": "ٱلصَّمَدُ",
+          "start": 2.902,
+          "end": 3.697
         }
       ]
     },
     {
       "ayah": 3,
-      "start": 5.177,
-      "end": 10.33,
+      "start": 3.697,
+      "end": 6.876,
       "words": [
         {
           "index": 1,
-          "start": 5.177,
-          "end": 6.465
+          "text": "لَمْ",
+          "start": 3.697,
+          "end": 4.491
         },
         {
           "index": 2,
-          "start": 6.465,
-          "end": 7.753
+          "text": "يَلِدْ",
+          "start": 4.491,
+          "end": 5.286
         },
         {
           "index": 3,
-          "start": 7.753,
-          "end": 9.041
+          "text": "وَلَمْ",
+          "start": 5.286,
+          "end": 6.081
         },
         {
           "index": 4,
-          "start": 9.041,
-          "end": 10.33
+          "text": "يُولَدْ",
+          "start": 6.081,
+          "end": 6.876
         }
       ]
     },
     {
       "ayah": 4,
-      "start": 10.33,
-      "end": 16.771,
+      "start": 6.876,
+      "end": 10.85,
       "words": [
         {
           "index": 1,
-          "start": 10.33,
-          "end": 11.618
+          "text": "وَلَمْ",
+          "start": 6.876,
+          "end": 7.671
         },
         {
           "index": 2,
-          "start": 11.618,
-          "end": 12.906
+          "text": "يَكُن",
+          "start": 7.671,
+          "end": 8.466
         },
         {
           "index": 3,
-          "start": 12.906,
-          "end": 14.194
+          "text": "لَّهُۥ",
+          "start": 8.466,
+          "end": 9.26
         },
         {
           "index": 4,
-          "start": 14.194,
-          "end": 15.482
+          "text": "كُفُوًا",
+          "start": 9.26,
+          "end": 10.055
         },
         {
           "index": 5,
-          "start": 15.482,
-          "end": 16.771
+          "text": "أَحَدٌۢ",
+          "start": 10.055,
+          "end": 10.85
         }
       ]
     }
